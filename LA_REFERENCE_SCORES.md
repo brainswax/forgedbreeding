@@ -204,4 +204,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U MOON-BEAU (PD2079450)
+
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Rain-Beau and Sun-Beau  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-03-01  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Cou Clair  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH FARM OLDESOUTH SR LA ROUGE (PD1774073)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2022-06-08 | —     | —         | —  | 25  | 33 | 28 | 27 | 30    | 27 | 25 | 27  | 29 | 33 | 18 | 22 | 18 | 1    | V    | V      | V  | V  | G    | E    | G    | —   | —     | —     | —     | V  | V  | V    | G   | 84  | NO  | NO   | 30    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `VVVG 84`.  
+- ST missing on 2022 appraisal in source data.  
+- RUSV = 1 on 2022 appraisal (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
