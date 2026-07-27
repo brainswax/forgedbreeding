@@ -607,4 +607,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL WEDDING VOWS (PD2255034)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2022-05-15  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Chamoisee Extensive White  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** PRIMROSE HILL FIFTY SHADES HOT (PD2018475)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-08-01 | 2     | —         | 21 | 30  | 29 | 27 | 31 | 28    | 27 | 34 | 30  | 25 | 26 | 20 | 18 | 18 | 3    | V    | G      | G  | V  | G    | G    | G    | —   | —     | —     | —     | G  | V  | E    | V   | 87  | NO  | NO   | 33    |
+
+**Notes**  
+- One appraisal (lactation 2).  
+- Final Score format in reports: `GVEV 87`.  
+- RUSV = 3 (unusual; verify if data entry or actual score).  
+- Compact stature (ST = 21); small teats (TD = 18, TL = 18).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
