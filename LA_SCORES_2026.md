@@ -1,9 +1,8 @@
 # Linear Traits & Structural Categories
 
 **For the herd of:** DENTON, BRIAN  
-**Member ID:** 1660541
-**Appraisal Date:** 26-Jul-2026 15:03
-
+**Member ID:** 1660541  
+**Appraisal Date:** 26-Jul-2026 15:03  
 
 | Registration Number | GOAT NAME       | GOAT TATTOO    | LACT. NO. | SEX | DOB         | STATURE | BODY DEPTH | STRENGTH | DAIRYNESS | RUMP ANGLE | RUMP WIDTH | REAR LEGS SIDE VIEW | FORE UDDER ATTACHMENT | REAR UDDER HEIGHT | REAR UDDER ARCH | MEDIAL SUSPENSORY LIGAMENT | UDDER DEPTH | TEAT PLACEMENT REAR VIEW | TEAT DIAMETER | TEAT LENGTH | HEAD | SHOULDER ASSEMBLY | LEGS FRONT | LEGS REAR | FEET | BACK | RUMP | REAR UDDER SIDE VIEW | MISC. 1 | MISC. 2 | MISC. 3 | GENERAL APPEARANCE | DAIRY STRENGTH | BODY CAPACITY | MAMMARY | FINAL SCORE |
 | ------------------- | --------------- | -------------- | --------- | --- | ----------- | ------- | ---------- | -------- | --------- | ---------- | ---------- | ------------------- | --------------------- | ----------------- | --------------- | -------------------------- | ----------- | ------------------------ | ------------- | ----------- | ---- | ----------------- | ---------- | --------- | ---- | ---- | ---- | -------------------- | ------- | ------- | ------- | ------------------ | -------------- | ------------- | ------- | ----------- |
