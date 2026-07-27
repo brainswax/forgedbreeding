@@ -70,24 +70,29 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 
 ---
 
-## Low-Heritability Traits Currently Lacking (Long-Term Focus)
+## Low-Heritability Traits (Long-Term Focus)
 
-Some economically and functionally important traits have low heritability. These respond slowly to selection and therefore require deliberate, multi-generational strategy rather than quick fixes.
+Some economically and functionally important traits have low heritability (h² roughly ≤ 0.22). These respond slowly to selection in either direction and therefore require deliberate, multi-generational strategy.
 
-Approximate low-heritability traits (h² roughly ≤ 0.22):
+Approximate low-heritability traits:
 - Rear Udder Arch (≈ 0.19)
 - Rear Legs – Side View (≈ 0.21)
 - Certain other structural details (feet, shoulder assembly refinements, etc.)
 
-**Current herd status (to be kept updated):**  
-The herd shows relative weakness or inconsistency in several lower-heritability structural areas, particularly rear-leg set and rear-udder shape/arch on multiple animals. Because progress on these traits is slow, they should be tracked explicitly:
+Because change is slow, both **gaps** and **existing strengths** must be tracked:
 
+**1. Traits the herd currently lacks or is weak in**
 - Identify any low-h² trait that is consistently below intermediate/ideal across a meaningful portion of the herd.
-- When choosing outside bucks or retaining youngstock, give extra weight to animals that are strong in the lacking low-h² traits — even if those traits are not the highest immediate score levers.
+- When choosing outside bucks or retaining youngstock, give extra weight to animals that are strong in those lacking traits — even if they are not the highest immediate score levers.
 - Avoid repeatedly stacking the same low-h² weakness.
-- Accept that meaningful improvement may take several generations; do not abandon the focus simply because short-term gains are small.
+- Accept that meaningful improvement may take several generations.
 
-These traits should appear in both individual animal evaluations and the herd-level summary so that long-term gaps remain visible while shorter-term high-h² work proceeds.
+**2. Traits the herd already scores well in**
+- Explicitly note low-h² traits that are currently good or excellent in key animals or across the herd.
+- Protect them. Do not casually breed them out while chasing higher-heritability gains.
+- When a proposed mating would be expected to erode a current low-h² strength, flag it as a long-term risk even if the short-term score impact looks positive.
+
+Both the lacking traits and the strengths to protect should appear in individual animal evaluations and the herd-level summary so they remain visible while shorter-term high-h² work proceeds.
 
 ---
 
