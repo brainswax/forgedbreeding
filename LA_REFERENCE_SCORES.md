@@ -179,4 +179,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U SUN-BEAU (PD2079449)
+
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Rain-Beau  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-03-01  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Cou Clair  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH FARM OLDESOUTH SR LA ROUGE (PD1774073)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-05-18 | 4     | —         | 31 | 27  | 32 | 31 | 30 | 25    | 34 | 39 | 37  | 23 | 30 | 21 | 36 | 27 | 2    | V    | V      | V  | E  | G    | E    | G    | —   | —     | —     | —     | V  | E  | E    | E   | 90  | NO  | NO   | 36    |
+| 2023-06-16 | 3     | —         | —  | 26  | 33 | 28 | 30 | 21    | 32 | 36 | 39  | 25 | 36 | 21 | 29 | 33 | 2    | V    | G      | V  | G  | A    | E    | V    | —   | —     | —     | —     | V  | E  | V    | E   | 89  | NO  | NO   | 34    |
+
+**Notes**  
+- Two appraisals (lactations 4 and 3).  
+- Final Score format in reports: `VEEE 90`, `VEVE 89`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 2 on both appraisals (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
