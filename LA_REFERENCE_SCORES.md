@@ -583,4 +583,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## CH PRIMROSE HILL U HELLO GOODBYE (PD2205615)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-08  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH PRIMROSE HILL UHAD ME ATHELLO (PD1945390)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-08-18 | 3     | —         | 29 | 34  | 32 | 29 | 34 | 28    | 37 | 37 | 34  | 22 | 25 | 23 | 15 | 18 | 2    | V    | V      | G  | V  | G    | V    | G    | —   | —     | —     | —     | V  | V  | E    | E   | 90  | NO  | NO   | 41    |
+
+**Notes**  
+- One appraisal (lactation 3).  
+- Final Score format in reports: `VVEE 90`.  
+- RUSV = 2 (unusual; verify if data entry or actual score).  
+- Small teats (TD = 15, TL = 18) despite Excellent mammary category.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
