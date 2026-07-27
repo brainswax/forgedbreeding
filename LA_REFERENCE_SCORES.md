@@ -129,4 +129,30 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U MARABELLA (PD2079254)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-02-25  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Chamoisee Frosted Ears Frosted Tail  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** CEDAR VIEW TRIPOLI (PD1946926)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-08-20 | 3     | —         | 25 | 36  | 28 | 24 | 30 | 28    | 33 | 34 | 30  | 19 | 28 | 22 | 13 | 21 | 1    | V    | G      | G  | V  | G    | G    | G    | —   | —     | —     | —     | G  | G  | E    | V   | 84  | NO  | NO   | 37    |
+| 2022-05-09 | —     | —         | —  | 27  | 32 | 31 | 28 | 28    | 32 | 28 | 30  | 23 | 41 | 22 | 18 | 28 | 1    | G    | G      | G  | V  | G    | G    | G    | —   | —     | —     | —     | G  | V  | V    | G   | 85  | NO  | NO   | 34    |
+
+**Notes**  
+- Two appraisals (lactation 3 recorded on 2024; earlier lactation number not recorded).  
+- Final Score format in reports: `GGEV 84`, `GVVG 85`.  
+- ST missing on 2022 appraisal in source data.  
+- RUSV = 1 on both appraisals (unusual; verify if data entry or actual score).  
+- TD = 13 on 2024 appraisal is very tight/small — noteworthy mammary detail.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
