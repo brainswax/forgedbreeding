@@ -277,4 +277,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U MEI-YUE-SHINE (PD2103086)
+
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Sheshallshine  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-02-13  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Roaned Black; White Poll; Frosted Ears & Muzzle  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** FARM OLDESOUTH LAST-O-SUNRA (PD1974525)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2022-08-26 | —     | —         | —  | 28  | 34 | 29 | 29 | 28    | 35 | 32 | 36  | 28 | 31 | 21 | 29 | 31 | 2    | G    | G      | G  | V  | G    | V    | V    | —   | —     | —     | —     | G  | E  | V    | E   | 87  | NO  | NO   | 33    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `GEVE 87`.  
+- ST missing on 2022 appraisal in source data.  
+- RUSV = 2 on 2022 appraisal (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
