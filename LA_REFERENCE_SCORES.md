@@ -558,4 +558,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## SPRINGWATER U AUTUMN ROYAL (PD2200580)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-07  
+**Sex:** Female  
+**Status:** Dead (2024-07-31)  
+**Description:** Chocolate  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SG SPRINGWATER AL APRICOT NECTAR (PD1844099)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-20 | —     | —         | —  | 32  | 26 | 29 | 28 | 27    | 23 | 38 | 28  | 17 | 32 | 16 | 33 | 28 | 1    | G    | G      | G  | G  | G    | G    | A    | —   | —     | —     | —     | G  | G  | V    | A   | 79  | NO  | NO   | 34    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data. ET-sired (Artificial).  
+- Final Score format in reports: `GGVA 79`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 1 (unusual; verify if data entry or actual score).  
+- Weak MSL (MS = 17) and loose teat placement (TP = 16); mammary category A.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
