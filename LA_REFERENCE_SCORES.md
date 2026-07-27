@@ -655,4 +655,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U GLIMMER (PD2322507)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2023-03-07  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Buckskin with Moderate White, Frosted Ears  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GILLISPIE'S IB LANA (PD2058944)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-06-13 | 1     | —         | 28 | 32  | 29 | 29 | 26 | 19    | 34 | 32 | 30  | 25 | 31 | 20 | 17 | 17 | 2    | G    | G      | G  | G  | G    | V    | A    | —   | —     | —     | —     | G  | G  | E    | V   | 85  | NO  | NO   | 33    |
+
+**Notes**  
+- One appraisal (lactation 1).  
+- Final Score format in reports: `GGEV 85`.  
+- RUSV = 2 (unusual; verify if data entry or actual score).  
+- Extreme RL SV = 19; rump category A; small teats (TD = 17, TL = 17).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
