@@ -70,6 +70,27 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 
 ---
 
+## Low-Heritability Traits Currently Lacking (Long-Term Focus)
+
+Some economically and functionally important traits have low heritability. These respond slowly to selection and therefore require deliberate, multi-generational strategy rather than quick fixes.
+
+Approximate low-heritability traits (h² roughly ≤ 0.22):
+- Rear Udder Arch (≈ 0.19)
+- Rear Legs – Side View (≈ 0.21)
+- Certain other structural details (feet, shoulder assembly refinements, etc.)
+
+**Current herd status (to be kept updated):**  
+The herd shows relative weakness or inconsistency in several lower-heritability structural areas, particularly rear-leg set and rear-udder shape/arch on multiple animals. Because progress on these traits is slow, they should be tracked explicitly:
+
+- Identify any low-h² trait that is consistently below intermediate/ideal across a meaningful portion of the herd.
+- When choosing outside bucks or retaining youngstock, give extra weight to animals that are strong in the lacking low-h² traits — even if those traits are not the highest immediate score levers.
+- Avoid repeatedly stacking the same low-h² weakness.
+- Accept that meaningful improvement may take several generations; do not abandon the focus simply because short-term gains are small.
+
+These traits should appear in both individual animal evaluations and the herd-level summary so that long-term gaps remain visible while shorter-term high-h² work proceeds.
+
+---
+
 ## Production / Milk Context Notes
 
 When analyzing milk-test results or making production-oriented decisions, apply the same overall framework:
