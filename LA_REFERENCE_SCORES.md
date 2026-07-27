@@ -428,4 +428,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U NANTAHALA (PD2177213)
+
+**Role:** Daughter of Unlimited (progeny reference); maternal half-sibling to Cascade (same dam Aquata)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-11  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Cou Blanc  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH HIDDEN PALMS JD AQUATA (PD1843839)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | —  | 31  | 29 | 25 | 40 | 24    | 28 | 29 | 34  | 16 | 30 | 24 | 27 | 31 | 3    | G    | A      | A  | G  | A    | G    | V    | —   | —     | —     | —     | G  | G  | E    | G   | 83  | NO  | NO   | 37    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `GGEG 83`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 3 (unusual; verify if data entry or actual score).  
+- Wide rump (RW = 40) but weak MSL (MS = 16).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
