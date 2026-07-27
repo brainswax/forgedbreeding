@@ -301,4 +301,30 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## CH PRIMROSE HILL U YONAS HEART (PD2117533)
+
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Celandine  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-04-08  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black; Moon Spots  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** FARM OLDESOUTH WP CLASSIC (PD1974529)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-05-18 | 3     | —         | 30 | 29  | 35 | 28 | 28 | 24    | 38 | 43 | 43  | 16 | 25 | 18 | 33 | 26 | 3    | V    | G      | G  | E  | V    | V    | A    | —   | —     | —     | —     | V  | E  | E    | E   | 90  | NO  | NO   | 41    |
+| 2023-06-16 | 2     | —         | —  | 23  | 35 | 25 | 31 | 25    | 32 | 35 | 33  | 20 | 31 | 16 | 26 | 29 | 3    | V    | A      | A  | V  | G    | V    | V    | —   | —     | —     | —     | V  | E  | V    | V   | 86  | NO  | NO   | 36    |
+
+**Notes**  
+- Two appraisals (lactations 3 and 2).  
+- Final Score format in reports: `VEEE 90`, `VEVV 86`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 3 on both appraisals (unusual; verify if data entry or actual score).  
+- 2024 appraisal: MS = 16 (weak) but RH = 43 / RUA = 43 are elite mammary height/arch marks; rump category letter = A.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
