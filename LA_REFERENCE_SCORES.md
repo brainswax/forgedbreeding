@@ -404,4 +404,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## CH PRIMROSE HILL U VANILLA SKY (PD2175939)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-08  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Buckskin  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH PRIMROSE HILL UHAD ME CLASSHELLO (PD1945390)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | —  | 28  | 33 | 30 | 29 | 25    | 30 | 34 | 30  | 28 | 35 | 26 | 25 | 25 | 2    | V    | V      | V  | V  | V    | E    | V    | —   | —     | —     | —     | V  | V  | V    | V   | 88  | NO  | NO   | 34    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `VVVV 88`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 2 (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
