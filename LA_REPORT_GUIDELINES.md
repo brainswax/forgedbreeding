@@ -2,13 +2,27 @@
 **Linear Appraisal Report Templates & Guidelines**  
 **Herd:** Forged Farm  
 **Breeder:** Brian Denton (Member ID 1660541)  
-**Last updated:** 2026-07-27 (compacted; score format GAEV 84; height → expected stature)  
+**Last updated:** 2026-07-27 (default data: LA_SCORES_2026.md)  
 
-Defines how to generate consistent Linear Appraisal (LA) reports. Use together with:
+Defines how to generate consistent Linear Appraisal (LA) reports.
 
-- `GOALS.md` (owner objectives, trade-off framework, trait priorities, low-heritability tracking) — always apply its decision framework
-- Current LA scores / measurements for the animals involved
-- Any available parental LA data
+---
+
+## How to produce a report
+
+When asked to produce a report from these guidelines (e.g. *“Produce a Herd Evaluation based on LA_REPORT_GUIDELINES.md”*), do the following without waiting for extra data:
+
+1. **Read required inputs**
+   - This file (templates + rules)
+   - `GOALS.md` (objectives, trade-off framework, trait priorities)
+   - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
+2. **Pick the report type** from the prompt (Individual / Parentage–Pairing / Herd). If the animal or pairing is named, use that; otherwise for Herd Evaluation use every animal in `LA_SCORES_2026.md`.
+3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks).
+
+**Example prompts that should work as-is:**
+- `Produce a Herd Evaluation based on LA_REPORT_GUIDELINES.md`
+- `Produce an Individual Evaluation for Snickers based on LA_REPORT_GUIDELINES.md`
+- `Produce a Parentage / Pairing Evaluation for Michael Darling × Amber Waves based on LA_REPORT_GUIDELINES.md`
 
 ---
 
