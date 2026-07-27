@@ -62,7 +62,7 @@ then compare with the official LA stature score.
 
 ---
 
-## Report Type 1: Individual Animal Evaluation
+## Report Type 1: Individual Evaluation
 
 **Purpose:** Evaluate one animal’s current LA performance, identify highest-ROI improvements, and recommend breeding direction.
 
