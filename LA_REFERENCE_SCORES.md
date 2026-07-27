@@ -631,4 +631,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## FREDIN ACRES U CLEMENTINE (PD2296293)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2023-02-08  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black with White on Face, White on Chest Floor & White Tipped Tail  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** OLD BEACH EAGLEHAWK TANGERINE (PD1895236)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-07-25 | 1     | —         | 29 | 25  | 40 | 33 | 24 | 34    | 38 | 36 | 40  | 29 | 27 | 20 | 25 | 30 | 2    | E    | V      | G  | V  | V    | V    | G    | —   | —     | —     | —     | V  | E  | V    | E   | 88  | NO  | NO   | 34    |
+
+**Notes**  
+- One appraisal (lactation 1). AI-sired.  
+- Final Score format in reports: `VEVE 88`.  
+- RUSV = 2 (unusual; verify if data entry or actual score).  
+- Strong dairyness (DY = 40) and high rear udder arch (RUA = 40); narrow rump (RW = 24).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
