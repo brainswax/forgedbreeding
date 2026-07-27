@@ -1,6 +1,7 @@
 # GOALS.md  
 **Nigerian Dwarf Breeding Goals & Decision Framework**  
-**Herd:** Denton / Brian (Member ID 1660541)  
+**Herd:** Forged Farm
+**Breeder:** Brian Denton (Member ID 1660541)  
 **Last updated:** 2026-07-27  
 
 This document defines the owner’s breeding objectives and how trade-offs should be evaluated.  
