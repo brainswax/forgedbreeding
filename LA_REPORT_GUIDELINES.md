@@ -26,7 +26,7 @@ When generating a report, always apply the decision framework and priorities fro
 5. Use actual owner height measurements alongside official LA stature scores when available.
 6. Favorite animals (Snickers, Tinkles) receive extra attention to preserving current strengths.
 7. Be specific with numbers (LA scores, heights, category letters) rather than vague language.
-8. End individual and parentage reports with clear, actionable breeding notes.
+8. End individual and parentage/pairing reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
 
 ---
 
@@ -79,50 +79,69 @@ Traits that are either low impact, already adequate, or low-heritability (slow t
 
 ---
 
-## Report Type 2: Parentage Evaluation (of an Individual)
+## Report Type 2: Parentage / Pairing Evaluation
 
-**Purpose:** Use the LA scores of an animal’s sire and dam (and key ancestors if relevant) to estimate what the individual is likely to transmit or why it looks the way it does. Especially useful for young unappraised animals or when planning the next generation.
+**Purpose:** Use LA scores of two animals (sire + dam, or prospective pair) to:
+- Explain or predict an existing offspring’s strengths and weaknesses, **or**
+- Forecast what to expect from a planned mating before it happens.
+
+This report type supports both retrospective analysis (why does this animal look the way it does?) and forward breed planning (what should I expect if I breed A × B?).
 
 ### Template Structure
 
 ```markdown
-# Parentage LA Evaluation: [Animal Name] ([Reg #])
+# Parentage / Pairing LA Evaluation
 
-**Parents:**
-- Sire: [Name] ([Reg #]) — key LA summary
-- Dam: [Name] ([Reg #]) — key LA summary
+**Mode:** [Existing offspring analysis | Prospective mating]
 
-## Parental Score Summary
-Side-by-side or clear comparison of the most relevant linear traits and Final Scores of sire and dam.
+**Pair:**
+- Sire / prospective sire: [Name] ([Reg #]) — key LA summary
+- Dam / prospective dam: [Name] ([Reg #]) — key LA summary
 
-## Traits Likely Inherited / Reinforced
-- Traits where both parents are strong → higher probability the individual carries/transmits them
-- Traits where one parent is strong and the other is average
+**(If analyzing an existing animal)** Offspring: [Name] ([Reg #])
+
+## Parental / Pair Score Summary
+Side-by-side comparison of the most relevant linear traits and Final Scores of the two animals.
+
+## Traits Likely Reinforced or Improved
+- Traits where both animals are strong → higher probability of good outcomes in offspring
+- Traits where one is strong and the other is adequate (complementary)
+- Clear expected gains relative to the weaker parent
 
 ## Traits at Risk or Likely Weak
-- Traits where both parents are weak or below intermediate
-- Traits where a parent shows an extreme that could be passed on
+- Traits where both animals are weak or below intermediate → elevated risk of passing the weakness on
+- Traits where one animal shows an extreme that could be transmitted
+- Any stacking of the same fault
 
-## Expected Transmitting Profile (for a young or unappraised animal)
-Plain-language prediction of what this animal is most and least likely to improve (or weaken) in offspring, based on parental data.
+## Expected Profile of Offspring
+Plain-language prediction of what the offspring (or this mating) is most and least likely to deliver, with emphasis on:
+- High-heritability, high-impact traits (MSL, teats, dairyness, width, etc.)
+- Functional risks (e.g., rump angle becoming more extreme)
+- Low-heritability traits that may be reinforced or eroded
 
-## Breeding Implications
-- How this animal should be used given its parental background
-- Matings that would complement the parental weaknesses
-- Matings that risk stacking the same parental faults
-- Long-term low-h² considerations coming from the parents
+## Benefit / Risk / Mitigation Package
+- Expected contribution to Final Score and key goals
+- Main functional or longevity risks
+- Practical mitigations (if any)
+- Overall assessment of the package
+
+## Breeding Implications / Recommendation
+- For an existing animal: how it should be used given its parental background
+- For a prospective mating: whether the pairing is recommended, conditional, or better avoided
+- Long-term low-h² considerations (gaps to fill or strengths to protect)
 ```
 
-### Guidance Notes for Parentage Reports
-- When full linear histories exist for both parents, prioritize high-h² traits for short-term predictions and still note low-h² patterns.
-- If a parent lacks LA data, state that limitation clearly and rely on whatever category scores or progeny data are available.
-- This report type is the main tool for evaluating the young third buck once parental scores are supplied.
+### Guidance Notes for Parentage / Pairing Reports
+- When full linear histories exist for both animals, prioritize high-h² traits for short-term predictions and still note low-h² patterns.
+- If one animal lacks LA data, state that limitation clearly and rely on whatever category scores or progeny data are available.
+- For prospective matings, always frame the output as an expected package (benefit / risk / mitigation) consistent with GOALS.md.
+- This report type is the main tool for evaluating the young third buck once parental scores are supplied, and for comparing alternative buck × doe combinations.
 
 ---
 
 ## Report Type 3: Herd Evaluation
 
-**Purpose:** Give a strategic overview of the entire appraised herd — collective strengths, collective gaps, locked-in risks, and highest-leverage opportunities.
+**Purpose:** Give a strategic overview of the entire appraised herd — collective strengths to lock in, collective gaps, weaknesses at risk of becoming fixed, and highest-leverage opportunities.
 
 ### Template Structure
 
@@ -144,9 +163,16 @@ Short paragraph on the general quality level of the herd (score range, balance o
 - Ordered by importance (high-h² + high impact first, then important low-h² gaps)
 - Any functional/longevity patterns of concern
 
-## Traits at Risk of Becoming Locked-In
-- Weaknesses that appear on both sides of multiple potential matings
-- Strengths that could be lost if not deliberately retained
+## Strengths to Lock In (Build Consistency)
+- Good or excellent traits that already appear across multiple animals or in key breeding animals
+- These are the foundation of long-term herd consistency — deliberately retain and reinforce them
+- Include both high-h² strengths (easier to keep) and low-h² strengths (harder to recover if lost)
+- Note which current bucks or does are the best vehicles for fixing these strengths in the next generation
+
+## Weaknesses at Risk of Becoming Fixed
+- Faults that appear on both sides of multiple potential matings
+- Patterns that will become harder to remove if repeatedly stacked
+- Call these out so they can be actively avoided or diluted
 
 ## Highest-Leverage Opportunities
 Concrete actions that will move the most Final Score and functional quality in the next 1–3 generations:
@@ -154,6 +180,7 @@ Concrete actions that will move the most Final Score and functional quality in t
 - Use of current herd bucks
 - Traits that warrant bringing in outside genetics
 - Long-term low-h² projects
+- Opportunities to lock in existing strengths while correcting gaps
 
 ## Buck Utilization Summary
 Brief recommendation on how the current appraised bucks (and any evaluated young buck) best fit the herd’s needs.
@@ -164,7 +191,8 @@ Any broader observations (age structure, favorite-animal considerations, re-appr
 
 ### Guidance Notes for Herd Reports
 - Keep the focus strategic rather than repeating every individual score.
-- Always surface both the high-h² quick wins and the low-h² multi-generational projects.
+- Emphasize strengths that should be locked in — consistency over time comes from deliberately retaining good traits, not only from fixing faults.
+- Always surface both the high-h² quick wins and the low-h² multi-generational projects (gaps to fill and strengths to protect).
 - Reference GOALS.md priorities so recommendations stay aligned with owner intent.
 - Update the “Current herd status” language in GOALS.md if the herd-level picture changes significantly.
 
