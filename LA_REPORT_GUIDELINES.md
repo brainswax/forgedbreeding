@@ -1,5 +1,9 @@
 # LA_REPORT_GUIDELINES.md
+<<<<<<< HEAD
 **Linear Appraisal Report Templates & Guidelines**
+=======
+**Linear Appraisal Report Templates & Guidelines**  
+>>>>>>> fcfce82adbf55e3d217173cd6cefc7afd405c692
 **Herd:** Forged Farm  
 **Breeder:** Brian Denton (Member ID 1660541)  
 **Last updated:** 2026-07-27 (compacted; score format GAEV 84; height → expected stature)  
