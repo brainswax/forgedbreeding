@@ -453,4 +453,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U'L SPRKLE 4-EVR (PD2184950)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-05-06  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Gold with Scattered White  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH FARM OLDESOUTH DIAMONDS-R4EVER (PD1954526)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | —  | 29  | 30 | 27 | 30 | 26    | 35 | 36 | 36  | 24 | 35 | 20 | 28 | 27 | 1    | T    | A      | V  | G  | G    | G    | A    | —   | 43    | —     | —     | G  | G  | G    | V   | 85  | NO  | NO   | 34    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `GGGV 85`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 1 (unusual; verify if data entry or actual score).  
+- Head = `T` in source (nonstandard letter; verify — expected codes are E / V / + / G / A / F / P). Misc1 = 43.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
