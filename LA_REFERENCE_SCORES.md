@@ -353,4 +353,31 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## SPRINGWATER U CHERRY BOMB (PD2154015)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-02-07  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black with Frosted Ears/Nose  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SG SPRINGWATER SMKY KATIE KABOOM (PD1844104)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2024-06-11 | 3     | —         | 23 | 38  | 21 | 25 | 26 | 11    | 34 | 34 | 29  | 25 | 20 | 21 | 27 | 24 | 3    | V    | G      | A  | A  | E    | A    | A    | —   | —     | —     | —     | A  | A  | E    | V   | 82  | NO  | NO   | 42    |
+| 2023-07-29 | 2     | —         | —  | 34  | 35 | 30 | 30 | 26    | 38 | 37 | 34  | 22 | 27 | 21 | 23 | 20 | 3    | V    | G      | V  | V  | G    | V    | A    | —   | —     | —     | —     | V  | V  | E    | E   | 90  | NO  | NO   | 46    |
+| 2022-05-25 | —     | —         | —  | 27  | 31 | 25 | 17 | 26    | 28 | 33 | 24  | 29 | 31 | 20 | 21 | 21 | 2    | G    | G      | G  | V  | V    | G    | A    | —   | —     | —     | —     | G  | G  | G    | G   | 82  | NO  | NO   | 33    |
+
+**Notes**  
+- Three appraisals (lactations 3 and 2 recorded; earliest lactation number not recorded). AI-sired.  
+- Final Score format in reports: `AAEV 82`, `VVEE 90`, `GGGG 82`.  
+- ST missing on 2023 and 2022 appraisals in source data.  
+- RUSV = 3 / 3 / 2 across appraisals (unusual; verify if data entry or actual score).  
+- Score swung sharply: 82 → 90 → 82. 2024 appraisal has extreme RL SV = 11 and weak dairyness (21); rump category letter = A on all three appraisals.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
