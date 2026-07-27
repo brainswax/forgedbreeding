@@ -252,4 +252,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## CH PRIMROSE HILL U CELANDINE (PD2093480)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-04-08  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Cou Claire  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** FARM OLDESOUTH WP CLASSIC (PD1974529)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-07-04 | 5     | —         | 26 | 34  | 38 | 27 | 30 | 18    | 43 | 41 | 37  | 21 | 23 | 15 | 36 | 28 | 3    | V    | G      | V  | G  | A    | E    | G    | —   | —     | —     | —     | V  | E  | E    | E   | 90  | YES | NO   | 38    |
+| 2024-08-20 | 4     | —         | 26 | 35  | 32 | 27 | 30 | 28    | 36 | 34 | 31  | 28 | 26 | 20 | 28 | 25 | 2    | E    | G      | G  | E  | A    | V    | V    | —   | —     | —     | —     | V  | V  | E    | E   | 89  | NO  | NO   | 37    |
+
+**Notes**  
+- Two appraisals (lactations 5 and 4); 2025 appraisal marked permanent score (PS = YES).  
+- Final Score format in reports: `VEEE 90`, `VVEE 89`.  
+- RUSV = 3 / 2 on the two appraisals (unusual; verify if data entry or actual score).  
+- 2025 appraisal: TP = 15 (very close) and FA = 43 / RH = 41 are strong mammary structural marks.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
