@@ -1,8 +1,8 @@
 # LA_REPORT_GUIDELINES.md
 **Linear Appraisal Report Templates & Guidelines**
-**Herd:** Forged Farm
-**Breeder:** Brian Denton (Member ID 1660541)
-**Last updated:** 2026-07-27 (compacted; score format GAEV 84; height → expected stature)
+**Herd:** Forged Farm  
+**Breeder:** Brian Denton (Member ID 1660541)  
+**Last updated:** 2026-07-27 (compacted; score format GAEV 84; height → expected stature)  
 
 Defines how to generate consistent Linear Appraisal (LA) reports. Use together with:
 
