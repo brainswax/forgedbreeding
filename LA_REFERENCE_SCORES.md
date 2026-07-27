@@ -228,4 +228,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U SHESHALLSHINE (PD2091795)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-02-13  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Light Gold  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** FARM OLDESOUTH LAST-O-SUNRA (PD1974525)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2022-08-26 | —     | —         | —  | 29  | 35 | 29 | 28 | 27    | 33 | 34 | 32  | 25 | 37 | 21 | 23 | 20 | 1    | V    | G      | G  | V  | G    | V    | V    | —   | —     | —     | —     | V  | E  | V    | V   | 87  | NO  | NO   | 35    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `VEVV 87`.  
+- ST missing on 2022 appraisal in source data.  
+- RUSV = 1 on 2022 appraisal (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
