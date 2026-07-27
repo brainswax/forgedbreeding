@@ -107,4 +107,26 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U COBALT BLUE (PD2079234)
+
+**Role:** Son of Unlimited (progeny reference); full sibling to Blue Bell  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-02-27  
+**Sex:** Male  
+**Status:** Alive  
+**Description:** Black Scattered Whit Blue Eyes  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SGCH AGS OLDESOUTH BLUE AMBER (PD1535881)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2021-08-20 | —     | —         | 32 | 31  | 32 | 28 | 34 | 27    | 0  | 0  | 24  | 0  | 0  | 0  | 0  | 0  | 0    | +    | +      | V  | V  | +    | V    | +    | —   | —     | —     | —     | +  | V  | E    | —   | 85  | NO  | NO   | —     |
+
+**Notes**  
+- Buck: mammary linear traits (MS, UD, TP, TD, TL, RUSV, FA, RH) recorded as 0.  
+- Final Score format in reports: `+VE 85`.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
