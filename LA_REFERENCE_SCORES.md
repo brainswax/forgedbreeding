@@ -478,4 +478,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## PRIMROSE HILL U CRZY DIAMOND (PD2184951)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-05-06  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Gold w/Minimal White  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH FARM OLDESOUTH DIAMONDS-R4EVER (PD1954526)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | 28 | 31  | 29 | 26 | 25 | 29    | 36 | 35 | 28  | 36 | 23 | 26 | 29 | 29 | 2    | A    | A      | A  | V  | A    | V    | A    | —   | 2     | —     | —     | A  | G  | V    | V   | 82  | NO  | NO   | 40    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `AGVV 82`.  
+- Full sib to Primrose Hill U'l Sprkle 4-Evr (same DOB / dam).  
+- RUSV = 2 (unusual; verify if data entry or actual score).  
+- Misc1 = 2; Notes = 40.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
