@@ -503,4 +503,31 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## GCH SPRINGWATER U SWEET EMOTION (PD2200564)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-06  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black; Frosted Ears & Nose  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SGCH SPRINGWATER BL JANIE'S GOTAGUN (PD1908946)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-06-23 | 4     | —         | 25 | 31  | 40 | 41 | 33 | 20    | 40 | 37 | 39  | 26 | 31 | 21 | 32 | 35 | 3    | A    | E      | V  | G  | V    | E    | V    | —   | —     | —     | —     | V  | E  | E    | E   | 90  | NO  | NO   | 41    |
+| 2023-09-22 | 2     | —         | —  | 39  | 36 | 31 | 25 | 24    | 37 | 40 | 30  | 25 | 41 | 18 | 27 | 39 | 3    | G    | V      | G  | V  | A    | E    | A    | —   | 44    | —     | —     | V  | G  | E    | V   | 87  | NO  | NO   | 40    |
+| 2022-07-25 | —     | —         | —  | 25  | 29 | 27 | 25 | 23    | 25 | 32 | 29  | 24 | 32 | 21 | 25 | 33 | 2    | V    | G      | G  | V  | G    | G    | A    | —   | —     | —     | —     | V  | G  | V    | V   | 86  | NO  | NO   | 24    |
+
+**Notes**  
+- Three appraisals (lactations 4 and 2 recorded; earliest lactation number not recorded). ET-sired (Artificial).  
+- Final Score format in reports: `VEEE 90`, `VGEV 87`, `VGVV 86`.  
+- ST missing on 2023 and 2022 appraisals in source data.  
+- RUSV = 3 / 3 / 2 across appraisals (unusual; verify if data entry or actual score).  
+- Dam is SGCH Springwater BL Janie's Gotagun (PD1908946). Misc1 = 44 on 2023 appraisal.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
