@@ -1,6 +1,7 @@
 # LA_REPORT_GUIDELINES.md  
 **Linear Appraisal Report Templates & Guidelines**  
-**Herd:** Denton / Brian (Member ID 1660541)  
+**Herd:** Forged Farm  
+**Breeder:** Brian Denton (Member ID 1660541)  
 **Last updated:** 2026-07-27  
 
 This document defines how to generate consistent Linear Appraisal (LA) reports.  
