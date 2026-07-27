@@ -380,4 +380,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## SPRINGWATER U LIL FIRECRACKER (PD2154016)
+
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Cherry Bomb  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-02-07  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Roan Cou Clair  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SG SPRINGWATER SMKY KATIE KABOOM (PD1844104)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-06-25 | 3     | —         | 33 | 35  | 38 | 36 | 41 | 28    | 26 | 35 | 34  | 33 | 26 | 20 | 32 | 33 | 2    | A    | V      | G  | E  | G    | G    | V    | —   | 82    | 54    | —     | V  | V  | E    | A   | 84  | NO  | NO   | 38    |
+
+**Notes**  
+- One appraisal (lactation 3). AI-sired.  
+- Final Score format in reports: `VVEA 84`.  
+- RUSV = 2 (unusual; verify if data entry or actual score).  
+- Strong dairyness (38), rump width (41), and MSL (33); mammary category letter = A; Misc1 = 82, Misc2 = 54.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
