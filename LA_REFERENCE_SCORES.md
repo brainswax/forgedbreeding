@@ -530,4 +530,32 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## SPRINGWATER U WALK THIS WAY (PD2200565)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2021-03-07  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Black; Frosted Ears & Nose  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SGCH SPRINGWATER BL JANIE'S GOTAGUN (PD1908946)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2025-10-07 | 4     | —         | 25 | 31  | 31 | 30 | 29 | 20    | 36 | 44 | 39  | 23 | 32 | 23 | 24 | 26 | 3    | G    | G      | G  | G  | A    | E    | V    | —   | —     | —     | —     | G  | V  | E    | E   | 88  | NO  | NO   | 40    |
+| 2024-08-01 | 3     | —         | 24 | 27  | 26 | 28 | 28 | 24    | 29 | 30 | 28  | 22 | 34 | 19 | 29 | 31 | 1    | G    | G      | A  | G  | A    | E    | G    | —   | —     | —     | —     | G  | G  | E    | V   | 84  | NO  | NO   | 35    |
+| 2023-09-22 | 2     | —         | —  | 28  | 36 | 26 | 26 | 23    | 36 | 39 | 34  | 23 | 39 | 19 | 21 | 36 | 3    | G    | A      | G  | G  | A    | G    | A    | —   | 34    | —     | —     | G  | G  | V    | V   | 85  | NO  | NO   | 37    |
+| 2022-07-25 | —     | —         | —  | 23  | 23 | 24 | 25 | 23    | 28 | 34 | 24  | 19 | 30 | 16 | 27 | 34 | 1    | A    | G      | G  | G  | A    | A    | A    | —   | —     | —     | —     | G  | A  | G    | G   | 82  | NO  | NO   | 22    |
+
+**Notes**  
+- Four appraisals (lactations 4, 3, and 2 recorded; earliest lactation number not recorded). ET-sired (Artificial).  
+- Final Score format in reports: `GVEE 88`, `GGEV 84`, `GGVV 85`, `GAGG 82`.  
+- ST missing on 2023 and 2022 appraisals in source data.  
+- RUSV = 3 / 1 / 3 / 1 across appraisals (unusual; verify if data entry or actual score).  
+- Near-littermate ET sib to GCH Springwater U Sweet Emotion (same dam; DOBs one day apart). Misc1 = 34 on 2023 appraisal.
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
