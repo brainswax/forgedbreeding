@@ -83,4 +83,28 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## CH PRIMROSE HILL U BLUE BELL (PD2079233)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2020-02-27  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Buckskin  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SGCH AGS OLDESOUTH BLUE AMBER (PD1535881)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | —  | 31  | 33 | 25 | 36 | 24    | 33 | 33 | 37  | 25 | 34 | 25 | 23 | 31 | 3    | G    | G      | V  | V  | G    | V    | V    | —   | —     | —     | —     | V  | E  | E    | E   | 89  | NO  | NO   | 40    |
+
+**Notes**  
+- One appraisal; lactation number not recorded in source data.  
+- Final Score format in reports: `VEEE 89`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 3 on 2023 appraisal (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
