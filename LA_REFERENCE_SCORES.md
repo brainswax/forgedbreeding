@@ -58,4 +58,29 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
+## GCH PRIMROSE HILL U CASCADE (PD2061839)
+
+**Role:** Daughter of Unlimited (progeny reference)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2019-08-07  
+**Sex:** Female  
+**Status:** Alive  
+**Description:** Cou Clair  
+**Ears:** Erect | **Horns:** Disbudded  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** GCH HIDDEN PALMS JD AQUATA (PD1843839)  
+
+| Date       | LCT # | LCT Start | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | Misc1 | Misc2 | Misc3 | GA | DS | Body | MMY | FS  | PS  | CHKD | Notes |
+|------------|-------|-----------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|-------|-------|-------|----|----|------|-----|-----|-----|------|-------|
+| 2023-06-16 | —     | —         | —  | 32  | 31 | 27 | 37 | 26    | 32 | 32 | 40  | 30 | 30 | 25 | 26 | 33 | 2    | V    | V      | E  | V  | G    | V    | V    | —   | —     | —     | —     | V  | V  | E    | E   | 90  | NO  | NO   | 38    |
+| 2021-08-20 | —     | —         | 27 | 27  | 33 | 30 | 30 | 29    | 34 | 37 | 30  | 23 | 38 | 21 | 23 | 34 | 32   | +    | +      | V  | V  | A    | V    | V    | V   | —     | —     | —     | V  | E  | E    | E   | 89  | NO  | NO   | —     |
+
+**Notes**  
+- Two appraisals; lactation numbers not recorded in source data.  
+- Final Score format in reports: `VVEE 90`, `VEEE 89`.  
+- ST missing on 2023 appraisal in source data.  
+- RUSV = 2 on 2023 appraisal (unusual; verify if data entry or actual score).
+
+---
+
 *(Additional reference animals will be appended below as data is provided.)*
