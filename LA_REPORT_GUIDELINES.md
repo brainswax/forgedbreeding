@@ -2,7 +2,7 @@
 **Linear Appraisal Report Templates & Guidelines**  
 **Herd:** Forged Farm  
 **Breeder:** Brian Denton (Member ID 1660541)  
-**Last updated:** 2026-07-27  
+**Last updated:** 2026-07-27 (score format GAEV 84; height → expected stature)  
 
 This document defines how to generate consistent Linear Appraisal (LA) reports.  
 It is intended to be used together with:
@@ -23,10 +23,11 @@ When generating a report, always apply the decision framework and priorities fro
 4. Explicitly note:
    - Low-h² traits the animal or herd is **weak** in (need introduction)
    - Low-h² traits the animal or herd is **strong** in (need protection)
-5. Use actual owner height measurements alongside official LA stature scores when available.
+5. Use actual owner height measurements alongside official LA stature scores when available. When an owner height is given, also report the **expected stature score** from the miniature scale so it can be compared with the official LA stature score.
 6. Favorite animals (Snickers, Tinkles) receive extra attention to preserving current strengths.
 7. Be specific with numbers (LA scores, heights, category letters) rather than vague language.
-8. End individual and parentage/pairing reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
+8. **Score format:** Always write Final Score and categories in the compact form `GAEV 84` (letters first, then numeric score).
+9. End individual and parentage/pairing reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
 
 ---
 
@@ -40,9 +41,9 @@ When generating a report, always apply the decision framework and priorities fro
 # Individual LA Evaluation: [Animal Name] ([Reg #])
 
 **Age / Lactation at appraisal:**  
-**Final Score & Categories:**  
-**Owner height (if measured):**  
-**Official LA stature score:**
+**Final Score:** GAEV 84 (example format — letters then score)  
+**Owner height (if measured):** X.XX″ → expected stature score ≈ YY  
+**Official LA stature score:** ZZ
 
 ## Summary
 2–4 sentence overview of the animal’s overall quality, main strengths, and main limitations relative to herd goals.
@@ -74,6 +75,8 @@ Traits that are either low impact, already adequate, or low-heritability (slow t
 
 ### Guidance Notes for Individual Reports
 - Always reference the animal’s actual linear scores.
+- Write Final Score as `GAEV 84` (letters then number).
+- When owner height is available, convert it to expected stature score and show both side-by-side with the official LA stature score.
 - For young first-fresheners, note that some mammary traits may still mature.
 - If the animal is a favorite (Snickers / Tinkles), explicitly address preservation of liked traits (especially current rump angle).
 
@@ -216,12 +219,34 @@ When ranking improvements or opportunities in any report, apply this lens (from 
 
 Always pair any rump-angle discussion with width/thurl and pelvic capacity as potential mitigations.
 
+### Miniature Stature Scale (for height → expected score)
+
+Use this approximate conversion when an owner-measured height is available:
+
+| Height (inches) | Expected Linear Score |
+|-----------------|-----------------------|
+| < 17″           | 5                     |
+| 18″             | 10                    |
+| 19″             | 15                    |
+| 20″             | 20                    |
+| 21″             | 25                    |
+| 22″             | 30                    |
+| 23″             | 35                    |
+| 24″             | 40                    |
+| 25″             | 45                    |
+
+Interpolate for in-between heights (e.g. 20.25″ ≈ 21–22). Report as:  
+`Owner height: 20.25″ → expected stature score ≈ 21–22`  
+then compare with the official LA stature score.
+
 ---
 
 ## Output Style
 
 - Clear headings and scannable bullets  
+- Final scores should always be in compact form: `GAEV 84`  
 - Specific numbers and category letters  
+- When owner height is given, always show expected stature score next to it for comparison with official LA stature  
 - Explicit benefit / risk / mitigation language for any non-obvious recommendation  
 - Actionable closing notes rather than open-ended discussion  
 - Consistent terminology with GOALS.md
