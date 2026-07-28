@@ -63,7 +63,7 @@ Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rum
 
 **Avoid or deprioritize:** Amber, Snickers, Tinkles, Lux (until scored).
 
-## Benefit / Risk / Mitigation Package (recommended mating: Sapphire)
+## Benefit / Risk / Mitigation Package (recommended breeding: Sapphire)
 - **Benefit:** Strength lift on the herd’s best doe without pairing two narrow rumps
 - **Risk:** Width dilution of a 35-width anchor; some flattening of her steep 24 (moderate)
 - **Mitigation:** Prefer Michael for Sapphire if choosing one buck; use Smithy sparingly

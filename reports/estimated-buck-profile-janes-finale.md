@@ -106,7 +106,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 
 | Trait | Estimated transmitting outlook | Notes |
 |-------|--------------------------------|-------|
-| **Rump Angle** | Intermediate (~27–30) | Not a primary lever (scale: 0 steep → 50 flat); watch extremes on individual matings; use width as mitigation when flattening |
+| **Rump Angle** | Intermediate (~27–30) | Not a primary lever (scale: 0 steep → 50 flat); watch extremes on individual breedings; use width as mitigation when flattening |
 | **Medial Suspensory Ligament / mammary support** | Modest positive vs herd floor; not elite | ~mid-20s expected influence; better than current Forged Farm doe suspensory, below ideal |
 | **Teat traits** | Placement soft (~20–22); diameter variable | Do not choose Finale to fix teat placement; screen partner teats carefully |
 | **Dairyness** | Likely strength | One of his clearest uses on low-dairyness does (e.g. Snickers-type) |

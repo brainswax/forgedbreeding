@@ -19,6 +19,31 @@ Companion files:
 2. Prefer **full ADGA trait names** in prose (e.g. Medial Suspensory Ligament, Rear Legs Side View). Abbreviations are fine in tables and Final Score shorthand (`VEVV 88`).
 3. Linear scores are on a **1–50** observational scale (biological extremes), not a “higher is always better” scale for every trait.
 4. If this file and a prior report conflict on trait polarity, **this file wins**; correct the report.
+5. Follow the **language rules** below (especially breeding terminology).
+
+---
+
+## Language rules
+
+### Breeding — not mating
+
+In all reports, prompts, and docs:
+
+- Use **breeding** / **breedings** — never **mating** / **matings**.
+- Use the verb **breed** — never **mate**.
+- Prefer phrases like: breeding, proposed breeding, recommended breeding, breeding pair, breeding choice, breed to, breed with.
+
+| Avoid | Use instead |
+|-------|-------------|
+| mating | breeding |
+| matings | breedings |
+| mate (verb) | breed |
+| mate her to X | breed her to X |
+| recommended mating | recommended breeding |
+| prospective mating | prospective breeding |
+| test mating | test breeding |
+
+These words are house style even if other sources say “mating.”
 
 ---
 

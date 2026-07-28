@@ -13,7 +13,7 @@ Sapphire is the highest-scoring doe in the current set (`VEVV 88`) and the herd�
 - **Final Score 88** with General Appearance `V`, Dairy Strength `E`, Body Capacity `V`, Mammary `V`.
 - **Dairyness 40** — top of the herd.
 - **Rear Udder Height 39 / Rear Udder Arch 37** — best rear-udder topography among the does; protect Rear Udder Arch as a low-heritability strength.
-- **Rump Width 35** — widest scored doe; excellent buffer when a mating flattens her steep Rump Angle (24).
+- **Rump Width 35** — widest scored doe; excellent buffer when a breeding flattens her steep Rump Angle (24).
 - **Fore Udder Attachment 37**, Stature 32 — substantial frame for a first-freshener.
 - Back `E`, Legs Front/Rear `V`, Rear Legs Side View 33 — strong structural letters worth retaining.
 

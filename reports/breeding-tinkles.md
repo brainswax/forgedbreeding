@@ -61,13 +61,13 @@ Tinkles already shows likeable structure (GA/DS/Body all `V`) and a favorite fla
 | Rear Udder Height | 28 | — | — | — |
 
 ## Recommendation
-**Primary pick:** Michael — best measured protection against further flattening and a real width bump; safest favorite mating on hand.
+**Primary pick:** Michael — best measured protection against further flattening and a real width bump; safest favorite breeding on hand.
 
 **Runner-up:** Finale — only with eyes open on estimate/youth risk; prefer after Michael if a second breeding is needed later.
 
 **Avoid or deprioritize:** Smithy — steepens liked angle (does not flatten) and narrows width.
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Liked flatter rump angle not further flattened; modest width help; competitive overall package
 - **Risk:** Mammary `A` drivers may persist; slight steepening vs 38 (moderate / low)
 - **Mitigation:** Re-appraise Tinkles and daughters; seek stronger MSL/teat bucks outside when available

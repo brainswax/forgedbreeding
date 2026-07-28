@@ -68,7 +68,7 @@ Sapphire is the herd’s highest-scoring doe and a dairyness / rear-udder / widt
 
 **Avoid or deprioritize:** Smithy — narrow rump is the wrong trade against a 35-width doe.
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Strength lift; retain high Final Score potential; width better preserved than with Smithy
 - **Risk:** Flattening of steep Rump Angle; width regression; unresolved MSL/teats (moderate)
 - **Mitigation:** Prefer retaining her widest daughters; plan outside mammary genetics for the soft-support gap

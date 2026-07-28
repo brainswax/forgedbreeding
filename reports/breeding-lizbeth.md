@@ -69,7 +69,7 @@ Lizbeth is a solid dairy/body package held back by Mammary `G`, especially Media
 
 **Avoid or deprioritize:** Smithy — too narrow for a doe whose width is one of her main buffers against flattening.
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Continued strength/capacity; supports Final Score stability; width largely retained vs Smithy
 - **Risk:** Flattening of steep Rump Angle (23→toward 34); Medial Suspensory Ligament and Teat Placement may not improve much (moderate–higher)
 - **Mitigation:** Rely on her width 31 as buffer; still seek outside mammary genetics later if daughters stay soft

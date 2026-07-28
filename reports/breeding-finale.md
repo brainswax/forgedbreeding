@@ -66,7 +66,7 @@ Finale is estimated to transmit strong dairyness, usable width, and a capacious 
 
 **Avoid or deprioritize:** Tinkles (favorite angle safer with Michael), Lux (unknown), and any plan that treats Finale as the herd’s MSL/teat solution.
 
-## Benefit / Risk / Mitigation Package (recommended mating: Snickers)
+## Benefit / Risk / Mitigation Package (recommended breeding: Snickers)
 - **Benefit:** Possible dairyness + width lift on a favorite who needs both
 - **Risk:** Estimate wrong; may steepen liked 36 vs Michael’s closer 34; mammary may stay soft (higher / moderate)
 - **Mitigation:** Keep Michael as primary on Snickers; use Finale lightly; re-evaluate after his LA

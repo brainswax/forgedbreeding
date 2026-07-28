@@ -68,7 +68,7 @@ Amber is a strong dairy/body doe with excellent rear udder height, already at th
 
 **Avoid or deprioritize:** Smithy — still too narrow to fix her defining pelvic weakness (and still flattens without enough width buffer).
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Meaningful width upgrade; supports Final Score and kidding/pelvic resilience
 - **Risk:** Flattening of steep Rump Angle (21→toward 34); soft MSL/teats may persist; slight dairyness pull (moderate / low–moderate)
 - **Mitigation:** Width 28 buffers flattening; select daughters for mammary support; keep dairy-strong daughters when possible

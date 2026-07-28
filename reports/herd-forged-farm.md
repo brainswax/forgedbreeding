@@ -27,12 +27,12 @@ Functional/longevity pattern of concern: weak MSL + modest teat placement across
 
 ## Strengths to Lock In (Build Consistency)
 - Body depth / capacity and the current Dairy Strength category level — high-h² enough to retain relatively easily; reinforce through Michael and Smithy (both strong here) and the deeper does (Snickers, Sapphire).
-- Good rear udder height and fore attachment — already present on multiple does; prioritize matings that do not erode them.
+- Good rear udder height and fore attachment — already present on multiple does; prioritize breedings that do not erode them.
 - Liked flatter rump angles on the favorites (Snickers 36, Tinkles 38) — low-h² and therefore harder to recover if lost. Protect deliberately against further flattening (bucks with higher RA than the doe); width mitigates when a flatter buck is used.
 - Michael’s overall balance (especially strength and rear legs) and Sapphire’s combination of dairyness + rear udder height are the best current “fixers” for the next generation.
 
 ## Weaknesses at Risk of Becoming Fixed
-- **MSL + teat placement stack**: Every scored doe is weak in both. Mating any of the current does to a buck that is also soft here will rapidly fix the fault.
+- **MSL + teat placement stack**: Every scored doe is weak in both. Breeding any of the current does to a buck that is also soft here will rapidly fix the fault.
 - **Narrow rump width**: Present on both sides of several potential pairings (Snickers/Amber × Smithy or similar). Once fixed, pelvic capacity and the ability to buffer angle become harder to restore.
 - Flattening of rump angle on already-steep does: Lizbeth, Sapphire, and Amber sit steep (21–24); pairing them to flatter bucks (e.g. Michael 34) raises scores toward flat — manage with width/thurl mitigation rather than ignoring the move.
 
@@ -40,7 +40,7 @@ Functional/longevity pattern of concern: weak MSL + modest teat placement across
 Concrete actions for the next 1–3 generations:
 
 - **Immediate high-h² focus**: Prioritize bucks (current or outside) that can move MSL and teat placement/diameter. Even modest gains here will lift Final Score and longevity more than almost any other single change.
-- **Rump width as dual-purpose lever**: Select for wider rumps both to raise the trait itself and as mitigation when a mating flattens angle (moves RA upward toward 50).
+- **Rump width as dual-purpose lever**: Select for wider rumps both to raise the trait itself and as mitigation when a breeding flattens angle (moves RA upward toward 50).
 - **Dairyness correction on Snickers line**: Pair Snickers with higher-dairyness genetics while protecting her depth and preferred flatter rump angle.
 - **Current buck utilization**:
   - Michael: best overall balance; use to reinforce strength, capacity, and rear structure. On steep does he flattens angle (with width as partial mitigation); on favorites (36/38) his 34 does not further flatten. Watch rump width transmission.

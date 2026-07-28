@@ -43,7 +43,7 @@ Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump
 ### Lux (PD2292494) — LA incomplete
 **Pros:** Generalist default while unknown.  
 **Cons:** Cannot optimize (higher uncertainty).  
-**Fit summary:** Acceptable provisional mate only.
+**Fit summary:** Acceptable provisional breeding partner only.
 
 ## Side-by-Side
 
@@ -68,7 +68,7 @@ Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump
 
 **Avoid or deprioritize:** None mandatory; least efficient use is pairing him only for mammary hopes he can’t document.
 
-## Benefit / Risk / Mitigation Package (recommended mating: Amber)
+## Benefit / Risk / Mitigation Package (recommended breeding: Amber)
 - **Benefit:** Corrects herd’s steepest/narrowest doe on width with measured traits; supports Final Score and pelvic buffer
 - **Risk:** Flattening of steep Rump Angle (21→toward 34); soft MSL/teats may continue (moderate)
 - **Mitigation:** His width 28 buffers flattening; outside mammary genetics later; select daughters on support traits

@@ -1,7 +1,5 @@
 # LA_REPORT_GUIDELINES.md
 **Linear Appraisal Report Templates & Guidelines**  
-**Herd:** Forged Farm  
-**Breeder:** Brian Denton (Member ID 1660541)  
 **Last updated:** 2026-07-27 (default data: LA_SCORES_2026.md)  
 
 Defines how to generate consistent Linear Appraisal (LA) reports.
@@ -44,11 +42,11 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 1. **Primary objective** = maximize Final Score while supporting longevity and functional durability (see GOALS.md).
 2. Present every recommendation as a **package**: expected score impact + functional risks + mitigations.
 3. Distinguish high-heritability / high-impact traits (short-to-medium term levers) from low-heritability traits (long-term focus). Explicitly note low-h² traits the animal or herd is **weak** in (need introduction) and **strong** in (need protection).
-4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from `HERD_ROSTER.md` when referring to herd animals in prose; include Reg # or registered name when identity must be unambiguous.
+4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from `HERD_ROSTER.md` when referring to herd animals in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (see `DAIRY_CONCEPTS.md`).
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
-8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
+8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
 9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion. Prefer **Barn Names** from `HERD_ROSTER.md` in prose.
 10. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md` against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
 11. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md` against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
@@ -139,14 +137,14 @@ Low impact, already adequate, or low-heritability (slow to change).
 
 ## Report Type 2: Planning Report
 
-**Purpose:** Use LA scores of two animals (sire + dam, or prospective pair) to explain/predict an existing offspring’s profile **or** forecast a planned mating. Supports both retrospective analysis and forward breed planning.
+**Purpose:** Use LA scores of two animals (sire + dam, or prospective pair) to explain/predict an existing offspring’s profile **or** forecast a planned breeding. Supports both retrospective analysis and forward breed planning.
 
 ### Template
 
 ```markdown
 # Planning Report
 
-**Mode:** [Existing offspring analysis | Prospective mating]
+**Mode:** [Existing offspring analysis | Prospective breeding]
 
 **Pair:**
 - Sire / prospective sire: [Name] ([Reg #]) — key LA summary
@@ -168,7 +166,7 @@ Side-by-side comparison of the most relevant linear traits and Final Scores.
 - Stacking of the same fault
 
 ## Expected Profile of Offspring
-Plain-language prediction of what the mating is most and least likely to deliver, emphasizing high-h² / high-impact traits (MSL, teats, dairyness, width, etc.), functional risks (e.g., rump angle becoming more extreme), and low-h² traits that may be reinforced or eroded.
+Plain-language prediction of what the breeding is most and least likely to deliver, emphasizing high-h² / high-impact traits (MSL, teats, dairyness, width, etc.), functional risks (e.g., rump angle becoming more extreme), and low-h² traits that may be reinforced or eroded.
 
 ## Benefit / Risk / Mitigation Package
 - Expected contribution to Final Score and key goals
@@ -178,7 +176,7 @@ Plain-language prediction of what the mating is most and least likely to deliver
 
 ## Breeding Implications / Recommendation
 - Existing animal: how it should be used given parental background
-- Prospective mating: recommended, conditional, or better avoided
+- Prospective breeding: recommended, conditional, or better avoided
 - Long-term low-h² considerations (gaps to fill or strengths to protect)
 ```
 
@@ -220,7 +218,7 @@ Short paragraph on general quality (score range, category balance, etc.).
 - Note which current bucks or does best fix these strengths in the next generation
 
 ## Weaknesses at Risk of Becoming Fixed
-- Faults on both sides of multiple potential matings
+- Faults on both sides of multiple potential breedings
 - Patterns harder to remove if repeatedly stacked — call out to avoid or dilute
 
 ## Highest-Leverage Opportunities
@@ -288,7 +286,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 
 **Avoid or deprioritize:** [Buck(s)] — brief reason.
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - Expected benefit to Final Score and key goals
 - Main functional / longevity risks
 - Mitigations
@@ -324,7 +322,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 **Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by GOALS.md leverage)
 
 ## Buck Snapshot
-2–4 sentences: overall quality / estimated transmitting outlook, clearest strengths, and main risks he brings to a mating.
+2–4 sentences: overall quality / estimated transmitting outlook, clearest strengths, and main risks he brings to a breeding.
 
 ## Doe Comparisons
 
@@ -354,7 +352,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 
 **Avoid or deprioritize:** [Doe(s)] — brief reason (e.g. shared soft Medial Suspensory Ligament; favorite Rump Angle at risk).
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - Expected benefit to Final Score and key goals
 - Main functional / longevity risks
 - Mitigations

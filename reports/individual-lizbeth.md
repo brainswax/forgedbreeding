@@ -12,7 +12,7 @@ Lizbeth is a balanced second-lactation doe with strong Dairy Strength and Body C
 ## Strengths
 - **Dairyness 38** and Dairy Strength `E` — clearest dairy character in the scored doe group.
 - **Body Capacity `E`** — Body Depth 37, Strength 36.
-- **Rump Width 31** — among the wider does; valuable both for score and as a buffer when a mating flattens her steep Rump Angle.
+- **Rump Width 31** — among the wider does; valuable both for score and as a buffer when a breeding flattens her steep Rump Angle.
 - **Rear Udder Height 35 / Rear Udder Arch 34** — solid rear-udder package.
 - **Legs Rear `E`**, Rear Legs Side View 32 — good rear-leg quality (protect as a low-heritability asset).
 - General Appearance `V` with Head `V`, Back `V`.
@@ -34,10 +34,10 @@ Lizbeth is a balanced second-lactation doe with strong Dairy Strength and Body C
 ## Lower-Priority or Harder Traits
 - Rear Udder Arch / Rear Legs Side View — already usable; low heritability — protect, don’t chase.
 - Feet / shoulder refinements — Legs Front `G`, Feet `G`, Shoulder Assembly `G` are adequate.
-- Stature — only act if a mating would push her line clearly outside a functional miniature range.
+- Stature — only act if a breeding would push her line clearly outside a functional miniature range.
 
 ## Breeding Notes
 - **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement without narrowing rump. Among herd options, **Michael** (`VGE 88`) is the safer balance pick for strength/capacity; his RA 34 will flatten her steep 23 (not steepen it) — her width 31 buffers that risk. Watch that he does not soften width. **Smithy** (`VVE 86`) adds stature/strength and flattens less (28 vs 34) but is narrow (Rump Width 24) — poorer fit here because Lizbeth’s width is an asset you want to keep. **Finale** (estimated) may help dairyness/width but is only middling on MSL/teats — not her primary mammary fixer.
 - **Key offspring risks:** Stacking soft MSL + Teat Placement; flattening of steep Rump Angle (23) when using higher-RA bucks.
-- **Mitigations:** Insist on width when the buck is flatter than she is; do not use a soft-MSL, soft-teat buck as the only “improvement” mating.
+- **Mitigations:** Insist on width when the buck is flatter than she is; do not use a soft-MSL, soft-teat buck as the only “improvement” breeding.
 - Re-appraise after subsequent lactations; mammary can still shift, but lactation 2 already shows the MSL gap clearly.

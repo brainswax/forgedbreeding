@@ -24,7 +24,7 @@ Show success is a desirable secondary outcome that generally follows from high-s
 
 ## Decision Framework for Trade-offs
 
-Every proposed mating or selection decision should be evaluated as a package.
+Every proposed breeding or selection decision should be evaluated as a package.
 
 When a choice is projected to improve the primary metric but carries a functional or longevity risk:
 
@@ -34,7 +34,7 @@ When a choice is projected to improve the primary metric but carries a functiona
 4. Present the package so the owner can decide whether the residual risk is acceptable.
 
 **Example language (conformation context):**  
-“This mating is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. That risk can be partially mitigated by the buck’s wider rump width / thurl placement. Overall package still looks favorable if the score gain materializes.”
+“This breeding is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. That risk can be partially mitigated by the buck’s wider rump width / thurl placement. Overall package still looks favorable if the score gain materializes.”
 
 The same structure applies to production decisions (e.g., high production that may stress udder support or body condition).
 
@@ -47,7 +47,7 @@ The same structure applies to production decisions (e.g., high production that m
 - Favorite animals (especially Snickers and Tinkles) should have their current strengths preserved where possible.  
   - Their present rump angles are liked.  
   - Further flattening is a risk to be quantified and mitigated rather than forbidden.  
-- When evaluating any mating or selection, present:  
+- When evaluating any breeding or selection, present:  
   - Expected impact on the primary metric  
   - Main functional / longevity risks  
   - Available mitigations
@@ -56,7 +56,7 @@ The same structure applies to production decisions (e.g., high production that m
 
 ## Trait & Selection Priorities (Conformation / LA Context)
 
-These priorities reflect both ADGA scorecard weight and heritability. They guide normal selection pressure and can be adjusted when a specific mating offers a compelling net package.
+These priorities reflect both ADGA scorecard weight and heritability. They guide normal selection pressure and can be adjusted when a specific breeding offers a compelling net package.
 
 1. **Medial Suspensory Ligament (MSL)** – high impact on both Final Score and longevity  
 2. **Teat Placement & Teat Diameter**  
@@ -67,7 +67,7 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 7. Other mammary traits (fore attachment, rear udder height/arch, udder depth)  
 8. Rear leg set and lower-heritability structural details  
 
-**Rump angle** is not a primary selection target. It becomes relevant only when a mating is likely to move offspring into a more extreme (and higher-risk) range than the dam already occupies. On the ADGA linear scale, **low = steep and high = level/flat** (see `DAIRY_CONCEPTS.md`); further flattening means a **higher** score. In those cases, always discuss width/thurl and overall pelvic capacity as possible mitigations.
+**Rump angle** is not a primary selection target. It becomes relevant only when a breeding is likely to move offspring into a more extreme (and higher-risk) range than the dam already occupies. On the ADGA linear scale, **low = steep and high = level/flat** (see `DAIRY_CONCEPTS.md`); further flattening means a **higher** score. In those cases, always discuss width/thurl and overall pelvic capacity as possible mitigations.
 
 ---
 
@@ -91,7 +91,7 @@ Because change is slow, both **gaps** and **existing strengths** must be tracked
 **2. Traits the herd already scores well in**
 - Explicitly note low-h² traits that are currently good or excellent in key animals or across the herd.
 - Protect them. Do not casually breed them out while chasing higher-heritability gains.
-- When a proposed mating would be expected to erode a current low-h² strength, flag it as a long-term risk even if the short-term score impact looks positive.
+- When a proposed breeding would be expected to erode a current low-h² strength, flag it as a long-term risk even if the short-term score impact looks positive.
 
 Both the lacking traits and the strengths to protect should appear in individual animal evaluations and the herd-level summary so they remain visible while shorter-term high-h² work proceeds.
 

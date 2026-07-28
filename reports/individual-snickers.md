@@ -35,7 +35,7 @@ Snickers sits at `GAEV 84` with a distinctive package: extraordinary Body Depth 
 
 ## Lower-Priority or Harder Traits
 - Rear Legs Side View / feet — important long-term but slow to move; don’t sacrifice dairyness/MSL gains solely for this.
-- Stature — correct only if a mating would push the line clearly outside functional range.
+- Stature — correct only if a breeding would push the line clearly outside functional range.
 - Rear Udder Arch — intermediate; protect from erosion rather than chase aggressively.
 
 ## Breeding Notes

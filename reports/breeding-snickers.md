@@ -10,7 +10,7 @@
 4. Improve Rump Width (23)
 
 ## Doe Snapshot
-Snickers is a capacity standout with a liked flatter rump angle, limited by Dairy Strength `A` (dairyness 23), narrow width, and soft mammary support. Every mating must state whether Rump Angle and depth are protected. Further flattening = bucks with RA > 36; lower-RA bucks steepen (change the liked angle) but do not flatten.
+Snickers is a capacity standout with a liked flatter rump angle, limited by Dairy Strength `A` (dairyness 23), narrow width, and soft mammary support. Every breeding must state whether Rump Angle and depth are protected. Further flattening = bucks with RA > 36; lower-RA bucks steepen (change the liked angle) but do not flatten.
 
 ## Buck Comparisons
 
@@ -68,7 +68,7 @@ Snickers is a capacity standout with a liked flatter rump angle, limited by Dair
 
 **Avoid or deprioritize:** Smithy — steepens liked angle (does not flatten) and stays narrow; poor favorite package.
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Liked flatter angle not further flattened; width and some dairyness improved; capacity reinforced
 - **Risk:** Mammary support may remain soft; dairyness may not fully correct (moderate)
 - **Mitigation:** Cull/select daughters on MSL/teats and dairyness; consider outside mammary bucks next cycle

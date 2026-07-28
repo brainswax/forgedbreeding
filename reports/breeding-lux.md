@@ -63,7 +63,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 
 **Avoid or deprioritize:** Smithy and Finale as primary picks until her scores exist (narrow-rump risk and stacked estimate risk, respectively).
 
-## Benefit / Risk / Mitigation Package (recommended mating)
+## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Uses the strongest balanced herd sire; minimizes known structural extremes
 - **Risk:** May not address her true limiting traits (unknown) — higher uncertainty than other doe reports
 - **Mitigation:** Appraise Lux ASAP; revisit this report after scores land
