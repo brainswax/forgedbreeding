@@ -2,7 +2,7 @@
 
 **Doe Final Score:** NA (incomplete 2026 LA)  
 **Lactation / appraisal context:** In breeding pool; no usable Final Score or linear trait set  
-**Bucks compared:** Michael (`VGE 88`), Smithy (`VVE 86`), Finale (estimated)  
+**Bucks compared (BIS order):** Michael (`VGE 88`, BIS N/A), Smithy (`VVE 86`, BIS N/A), Finale (estimated, BIS N/A)  
 **Doe priorities this breeding:**
 1. Do not make firm trait-gap claims without scores
 2. Prefer the most balanced, least extreme on-hand buck
@@ -10,14 +10,15 @@
 4. Get a complete LA as soon as practical
 
 ## Doe Snapshot
-Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Score NA). Any recommendation is **provisional** and must not pretend to optimize Medial Suspensory Ligament, teats, dairyness, or rump traits that were not recorded.
+Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Score NA). **BIS is N/A** for every pair until her scores exist. Ranking below is provisional generalist preference only — not a scored LA-impact order.
 
 ## Buck Comparisons
+**BIS N/A** for all (incomplete doe LA). Listed in provisional preference order (best generalist first).
 
-### Michael (PD2277726) — `VGE 88`
+### 1. Michael (PD2277726) — `VGE 88` — **BIS N/A**
 **Pros (for this doe)**
 - Highest Final Score and most balanced appraised herd sire
-- Intermediate Rump Angle (34; scale: 0 steep → 50 flat) and moderate width (28) — safer generalist defaults vs herd-wide narrow-rump patterns (do not label his 34 as a “steeper” fix for unknown angle)
+- Intermediate Rump Angle (34; scale: 0 steep → 50 flat) and moderate width (28) — safer generalist defaults vs herd-wide narrow-rump patterns
 
 **Cons / risks (for this doe)**
 - Unknown complementarity — her gaps are unknown (higher uncertainty)
@@ -25,7 +26,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 
 **Fit summary:** Safest generalist default while her LA is missing.
 
-### Smithy (PD2380421) — `VVE 86`
+### 2. Smithy (PD2380421) — `VVE 86` — **BIS N/A**
 **Pros (for this doe)**
 - Solid stature/strength/capacity if she needs frame
 
@@ -35,7 +36,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 
 **Fit summary:** Riskier default than Michael without knowing her rump package.
 
-### Finale (PD2487767) — Estimated
+### 3. Finale (PD2487767) — Estimated — **BIS N/A**
 **Pros (for this doe)**
 - Estimated dairyness/width could be useful if she is soft there
 
@@ -49,6 +50,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 
 | Priority trait | Lux | Michael | Smithy | Finale (est.) |
 |----------------|-----|---------|--------|---------------|
+| **BIS** | — | **N/A** | **N/A** | **N/A** |
 | Final Score / package | NA | `VGE 88` | `VVE 86` | estimated mid–high 80s |
 | Rump Width | ? | 28 | 24 | ~29–31 est. |
 | Rump Angle | ? | 34 | 28 | intermediate est. |
@@ -57,7 +59,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 | Teat Placement | ? | — | — | ~21 est. |
 
 ## Recommendation
-**Primary pick:** Michael — best appraised generalist while Lux’s trait profile is unknown.
+**Primary pick:** Michael (BIS N/A) — best appraised generalist while Lux’s trait profile is unknown.
 
 **Runner-up:** Hold / re-appraise before a second choice — prefer completing her LA over using Smithy or Finale as a speculative fix.
 
@@ -66,7 +68,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 ## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Uses the strongest balanced herd sire; minimizes known structural extremes
 - **Risk:** May not address her true limiting traits (unknown) — higher uncertainty than other doe reports
-- **Mitigation:** Appraise Lux ASAP; revisit this report after scores land
+- **Mitigation:** Appraise Lux ASAP; revisit this report after scores land and recompute BIS
 - **Assessment:** Conditional / provisional only
 
 ## Breeding Notes
