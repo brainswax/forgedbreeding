@@ -18,7 +18,7 @@ python3 scripts/herd_data.py
 | File | Role |
 |------|------|
 | `GOALS.md` | Herd-specific breeding objectives and preferences |
-| `DAIRY_CONCEPTS.md` | Generic ADGA LA trait definitions, polarity, risks & mitigations, terminology |
+| `DAIRY_CONCEPTS.md` | Generic ADGA LA concepts (2025 Linear Appraisal SOP), polarity, risks & mitigations, terminology |
 | `LA_REPORT_GUIDELINES.md` | Generic report process / templates / **BIS** (no herd preference essays) |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect notes |
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks) |

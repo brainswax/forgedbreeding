@@ -1,8 +1,8 @@
 # LA_REPORT_GUIDELINES.md
 **Linear Appraisal Report Templates & Guidelines**  
-**Last updated:** 2026-07-27 (default data: LA_SCORES_2026.md)  
+**Last updated:** 2026-07-28  
 
-Defines how to generate consistent Linear Appraisal (LA) reports.
+Defines how to generate consistent Linear Appraisal (LA) reports. Trait definitions, scales, and polarity live in `DAIRY_CONCEPTS.md` (authoritative: ADGA Linear Appraisal SOP, Revised 3/2025).
 
 **Report types:**
 1. Individual Report
@@ -112,9 +112,11 @@ For each trait with numeric doe score `D` and partner value `P` (except Rump Ang
 
 ### Miniature stature scale (height → expected score)
 
+Official miniature inch→score table from **SOP Appendix A** (same table in `DAIRY_CONCEPTS.md` — Stature). Stature is measured and recorded as a linear on all goats [2024].
+
 | Height (inches) | Expected Linear Score |
 |-----------------|-----------------------|
-| < 17″           | 5                     |
+| ≤ 17″           | 5                     |
 | 18″             | 10                    |
 | 19″             | 15                    |
 | 20″             | 20                    |
