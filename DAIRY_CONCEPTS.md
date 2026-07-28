@@ -146,7 +146,25 @@ Permanent-score and related program rules follow the current **ADGA Guidebook, A
 
 ## Primary linear traits
 
-Fifteen primary traits (SOP §2.4). Measurement and scoring notes below follow SOP §§11–14 and Appendix A scales.
+Fifteen primary traits on a **1–50** biological scale (SOP §2.4):
+
+1. Stature  
+2. Strength  
+3. Dairyness  
+4. Body Depth  
+5. Rump Angle  
+6. Rump Width  
+7. Rear Legs Side View  
+8. Fore Udder Attachment  
+9. Rear Udder Height  
+10. Rear Udder Arch  
+11. Medial Suspensory Ligament  
+12. Udder Depth  
+13. Teat Placement (rear)  
+14. Teat Diameter  
+15. Teat Length  
+
+Measurement and scoring notes below follow SOP §§11–14 and Appendix A scales. **Rear Udder Side View** (0–4) is documented with the mammary traits for convenience; structurally it is part of the §2.5 functional assessment, not one of the fifteen 1–50 primaries.
 
 ### Form — Stature
 
