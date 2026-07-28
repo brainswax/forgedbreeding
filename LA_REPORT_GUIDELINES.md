@@ -81,7 +81,7 @@ BIS = GapClosure − RiskPenalty − ConfidencePenalty
 
 - Higher = more preferred for expected net LA score improvement (after risks).
 - Round to **1 decimal**. Incomplete doe LA → **BIS N/A** (list last).
-- Reference implementation: `scripts/bis.py` (re-run after score updates; keep herd inputs in sync with `LA_SCORES_2026.md` / estimated buck profiles).
+- Reference implementation: `scripts/bis.py` (loads herd data via `scripts/herd_data.py` from the markdown sources above — **do not hardcode** animals or scores in scripts). Re-run after score or roster updates.
 
 **How to read**
 

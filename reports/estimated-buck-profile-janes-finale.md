@@ -115,6 +115,26 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 
 ---
 
+## Script inputs (BIS)
+
+Machine-readable transmitting midpoints for `scripts/bis.py` / `scripts/herd_data.py`.  
+Update when the estimate changes; remove this section once Finale has his own LA in `LA_SCORES_2026.md`.
+
+| key | value |
+|-----|-------|
+| estimated | yes |
+| fs | estimated |
+| msl | 24.5 |
+| tp | 21 |
+| td | 26 |
+| dy | 33 |
+| rw | 30 |
+| st | 30 |
+| stat | 28 |
+| ra | 28.5 |
+
+---
+
 ## Confidence & Data Gaps
 
 - **Higher confidence:** Unlimited’s dairy / capacity / width transmitting pattern (24 daughters, consistent means, many 88–91).

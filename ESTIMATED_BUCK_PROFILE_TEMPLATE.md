@@ -57,7 +57,31 @@ Using the complete LA reports listed above (do not rely on any pre-summaries):
 4. State confidence level and major data gaps.
 5. Provide a short Quick Reference paragraph suitable for use in pairing or herd reports.
 6. When ranking this buck against appraised herd sires, treat the estimates as directional only and weight real LA scores more heavily.
+7. Add a **Script inputs (BIS)** table (see below) so `scripts/bis.py` can load transmitting values without hardcoding.
 ```
+
+### Script inputs (BIS) block (required for unappraised bucks used in breeding reports)
+
+```markdown
+## Script inputs (BIS)
+
+Machine-readable transmitting midpoints for `scripts/bis.py`. Remove once the buck has his own LA.
+
+| key | value |
+|-----|-------|
+| estimated | yes |
+| fs | estimated |
+| msl | 24.5 |
+| tp | 21 |
+| td | 26 |
+| dy | 33 |
+| rw | 30 |
+| st | 30 |
+| stat | 28 |
+| ra | 28.5 |
+```
+
+Keys: `msl`, `tp`, `td`, `dy`, `rw`, `st` (strength), `stat` (stature), `ra`, plus `estimated` / `fs`.
 
 ---
 
@@ -65,7 +89,7 @@ Using the complete LA reports listed above (do not rely on any pre-summaries):
 
 - Keep source reports complete. The AI is responsible for summarization and pattern detection.
 - Update the header and add new progeny reports as they become available.
-- Once the buck receives his own LA, replace this estimated profile with the real scores.
+- Once the buck receives his own LA, replace this estimated profile with the real scores (and drop the Script inputs table).
 
 ---
 

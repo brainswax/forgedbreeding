@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
-"""Breeding Impact Score (BIS) — see LA_REPORT_GUIDELINES.md § Breeding Impact Score."""
+"""Breeding Impact Score (BIS) — see LA_REPORT_GUIDELINES.md § Breeding Impact Score.
+
+Herd animals and scores are loaded from markdown via herd_data.py — nothing animal-specific
+is hardcoded here.
+"""
 
 from __future__ import annotations
 
+from herd_data import load_breeding_animals
+
+# Formula constants (not herd data) — keep in sync with LA_REPORT_GUIDELINES.md
 WEIGHTS = {
     "msl": 5.0,
     "tp": 4.0,
@@ -16,22 +23,6 @@ GAP_THRESHOLD = 30
 STRONG_THRESHOLD = 32
 ESTIMATE_POSITIVE_MULT = 0.50
 CONFIDENCE_PENALTY_ESTIMATED = 8.0
-
-# Current herd inputs (from LA_SCORES_2026.md + estimated Finale profile)
-DOES = {
-    "Lizbeth": dict(msl=13, tp=17, td=25, dy=38, rw=31, st=36, stat=25, ra=23, protect_ra=False, fs="VEEG 85"),
-    "Sapphire": dict(msl=17, tp=21, td=21, dy=40, rw=35, st=29, stat=32, ra=24, protect_ra=False, fs="VEVV 88"),
-    "Snickers": dict(msl=18, tp=20, td=21, dy=23, rw=23, st=36, stat=22, ra=36, protect_ra=True, fs="GAEV 84"),
-    "Amber": dict(msl=17, tp=17, td=20, dy=36, rw=21, st=34, stat=23, ra=21, protect_ra=False, fs="GEEV 86"),
-    "Tinkles": dict(msl=17, tp=20, td=24, dy=36, rw=25, st=37, stat=23, ra=38, protect_ra=True, fs="VVVA 84"),
-    "Lux": None,  # incomplete LA → BIS N/A
-}
-
-BUCKS = {
-    "Michael": dict(msl=None, tp=None, td=None, dy=30, rw=28, st=36, stat=40, ra=34, estimated=False, fs="VGE 88"),
-    "Smithy": dict(msl=None, tp=None, td=None, dy=33, rw=24, st=36, stat=34, ra=28, estimated=False, fs="VVE 86"),
-    "Finale": dict(msl=24.5, tp=21.0, td=26.0, dy=33.0, rw=30.0, st=30.0, stat=28.0, ra=28.5, estimated=True, fs="estimated"),
-}
 
 
 def trait_contrib(weight: float, doe_v, partner_v, estimated: bool) -> float:
@@ -101,10 +92,8 @@ def risk_penalty(doe: dict, buck: dict) -> tuple[float, list[str]]:
     return pen, reasons
 
 
-def bis(doe_name: str, buck_name: str) -> dict:
-    """Return BIS for a doe×buck pair. Same value from either report type."""
-    doe = DOES[doe_name]
-    buck = BUCKS[buck_name]
+def bis_pair(doe: dict | None, buck: dict) -> dict:
+    """Score one doe×buck pair from loaded trait dicts."""
     if doe is None:
         return {
             "bis": None,
@@ -132,8 +121,8 @@ def format_bis(score) -> str:
     return f"{score:+.1f}"
 
 
-def rank_bucks_for_doe(doe_name: str) -> list[tuple[str, dict]]:
-    rows = [(b, bis(doe_name, b)) for b in BUCKS]
+def rank_bucks_for_doe(doe_name: str, does: dict, bucks: dict) -> list[tuple[str, dict]]:
+    rows = [(b, bis_pair(does[doe_name], bucks[b])) for b in bucks]
     rows.sort(
         key=lambda x: (x[1]["bis"] is not None, x[1]["bis"] if x[1]["bis"] is not None else -999),
         reverse=True,
@@ -141,27 +130,36 @@ def rank_bucks_for_doe(doe_name: str) -> list[tuple[str, dict]]:
     return rows
 
 
-def rank_does_for_buck(buck_name: str) -> list[tuple[str, dict]]:
-    rows = [(d, bis(d, buck_name)) for d in DOES]
+def rank_does_for_buck(buck_name: str, does: dict, bucks: dict) -> list[tuple[str, dict]]:
+    rows = [(d, bis_pair(does[d], bucks[buck_name])) for d in does]
     rows.sort(
         key=lambda x: (x[1]["bis"] is not None, x[1]["bis"] if x[1]["bis"] is not None else -999),
         reverse=True,
     )
     return rows
+
+
+def bis(doe_name: str, buck_name: str, does: dict | None = None, bucks: dict | None = None) -> dict:
+    """Return BIS for a doe×buck pair by Barn Name. Loads herd data if not provided."""
+    if does is None or bucks is None:
+        does, bucks = load_breeding_animals()
+    return bis_pair(does[doe_name], bucks[buck_name])
 
 
 if __name__ == "__main__":
+    does, bucks = load_breeding_animals()
+
     print("Doe Breeding rankings (bucks by BIS)")
-    for d in DOES:
+    for d in does:
         print(f"\n{d}")
-        for b, m in rank_bucks_for_doe(d):
+        for b, m in rank_bucks_for_doe(d, does, bucks):
             print(
                 f"  {b:8} {format_bis(m['bis'])}  "
                 f"(gap={m['gap_closure']}, risk={m['risk_penalty']}, conf={m['confidence_penalty']})"
             )
 
     print("\nBuck Breeding rankings (does by BIS)")
-    for b in BUCKS:
+    for b in bucks:
         print(f"\n{b}")
-        for d, m in rank_does_for_buck(b):
+        for d, m in rank_does_for_buck(b, does, bucks):
             print(f"  {d:10} {format_bis(m['bis'])}")
