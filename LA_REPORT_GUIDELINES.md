@@ -11,6 +11,7 @@ Defines how to generate consistent Linear Appraisal (LA) reports.
 2. Planning Report
 3. Herd Report
 4. Doe Breeding Report
+5. Buck Breeding Report
 
 ---
 
@@ -22,8 +23,8 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
    - This file (templates + rules)
    - `GOALS.md` (objectives, trade-off framework, trait priorities)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
-   - For Doe Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
-2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use every animal in `LA_SCORES_2026.md`. For a Doe Breeding Report, include every herd buck on hand (appraised bucks in `LA_SCORES_2026.md` plus any young/unappraised bucks that have an estimated profile unless the prompt narrows the set).
+   - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
+2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use every animal in `LA_SCORES_2026.md`. For a Doe Breeding Report, include every herd buck on hand (appraised bucks in `LA_SCORES_2026.md` plus any young/unappraised bucks that have an estimated profile unless the prompt narrows the set). For a Buck Breeding Report, include every scored doe in `LA_SCORES_2026.md` unless the prompt narrows the set.
 3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`.
 
 **Example prompts that should work as-is:**
@@ -31,6 +32,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 - `Produce an Individual Report for Snickers based on LA_REPORT_GUIDELINES.md`
 - `Produce a Planning Report for Michael Darling × Amber Waves based on LA_REPORT_GUIDELINES.md`
 - `Produce a Doe Breeding Report for Tinkles based on LA_REPORT_GUIDELINES.md`
+- `Produce a Buck Breeding Report for Michael Darling based on LA_REPORT_GUIDELINES.md`
 
 ---
 
@@ -43,9 +45,10 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
-8. End Individual, Planning, and Doe Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
+8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
 9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion.
 10. For Doe Breeding Reports: compare **every buck on hand** against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
+11. For Buck Breeding Reports: compare **every available doe** against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
 
 ### Trait priority lens (from GOALS.md)
 
@@ -296,6 +299,74 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 - Estimated bucks: label every claim as estimated; never rank an estimate above a clearly better appraised package without stating the uncertainty.
 - Keep the Individual Report’s breeding notes consistent if one already exists; this report should be able to stand alone.
 - Write reports to `reports/` as `doe-breeding-[doe-slug].md` unless the user names another path.
+
+---
+
+## Report Type 5: Buck Breeding Report
+
+**Purpose:** For one buck, compare each doe currently available — pros, cons, and fit to what he can improve or risks stacking — then recommend which doe(s) to breed him to. Mirror of the Doe Breeding Report; not a full Individual Report (use Type 1) and not a deep single-pair forecast (use Type 2 Planning Report).
+
+### Template
+
+```markdown
+# Buck Breeding Report: [Buck Name] ([Reg #])
+
+**Buck Final Score:** VGE 88 (or “Estimated” + pointer to estimated profile)
+**Appraisal / profile context:** (e.g. appraised 2026; or unappraised — using estimated transmitting profile)
+**Does compared:** [list names + Final Scores]
+**Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by GOALS.md leverage)
+
+## Buck Snapshot
+2–4 sentences: overall quality / estimated transmitting outlook, clearest strengths, and main risks he brings to a mating.
+
+## Doe Comparisons
+
+### [Doe 1 Name] ([Reg #]) — [Final Score]
+**Pros (for this buck)**
+- Specific doe traits/scores that complement his strengths or that he can improve
+- Note if she already supplies what he lacks (e.g. width, dairyness, teat placement)
+
+**Cons / risks (for this buck)**
+- Stacking faults both share, extremes, or erosion of her protected strengths (especially favorites)
+- Note severity: low / moderate / higher
+
+**Fit summary:** One sentence on overall fit.
+
+### [Doe 2 Name] …
+(repeat for every available doe)
+
+## Side-by-Side (optional but preferred)
+Compact table: each doe vs the buck’s priority transmitting traits (e.g. Medial Suspensory Ligament, Teat Placement, Dairyness, Rump Width, Rump Angle, Strength). Use doe scores from `LA_SCORES_2026.md`; for the buck, use his own scores or estimated outlook (marked estimated).
+
+## Recommendation
+**Primary pick:** [Doe] — why this package best uses his strengths without stacking his risks (expected Final Score / trait impact + main risk + mitigation).
+
+**Runner-up (optional):** [Doe] — when to prefer this instead.
+
+**Also acceptable / ranked shortlist (optional):** brief list if several does fit similarly.
+
+**Avoid or deprioritize:** [Doe(s)] — brief reason (e.g. shared soft Medial Suspensory Ligament; favorite Rump Angle at risk).
+
+## Benefit / Risk / Mitigation Package (recommended mating)
+- Expected benefit to Final Score and key goals
+- Main functional / longevity risks
+- Mitigations
+- Overall package assessment (favorable / conditional / weak)
+
+## Breeding Notes
+- How heavily to use this buck this season (primary service vs limited)
+- If he is estimated / unappraised, restate uncertainty and preference for confirming with his own LA or early daughters
+- If no available doe is a clean fit for his risk profile, say so and suggest holding semen/service or waiting on outside does
+```
+
+### Type-specific notes
+- Default doe set = all fully scored females in `LA_SCORES_2026.md` (exclude incomplete records such as Final Score NA) unless the prompt narrows the set.
+- Ground pros/cons in **numbers** relative to this buck, not generic doe praise.
+- Frame each doe as: what the buck **improves in her**, what she **covers for him**, and what they **risk stacking**.
+- Favorites (Snickers, Tinkles): only recommend if the buck package protects liked Rump Angle (and other named strengths); otherwise deprioritize with an explicit reason.
+- Estimated bucks: label every claim as estimated; be more conservative on primary picks.
+- Keep any existing Individual Report or Doe Breeding Report recommendations consistent where the same pair appears; this report should still stand alone.
+- Write reports to `reports/` as `buck-breeding-[buck-slug].md` unless the user names another path.
 
 ---
 
