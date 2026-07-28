@@ -1,45 +1,42 @@
-# Individual Report: Cade's Lil Farm CA Amber Waves (PD2407240)
+# Individual Report: Amber (PD2407240)
 
-**Barn Name:** Amber
-
-**Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
-**Final Score:** `GEEV 86`  
-**Official LA stature score:** 23  
+**Age / Lactation at appraisal:** ~2y 4m (DOB 2024-03-27); Lactation 1 (appraised 2026-07-26)  
+**Final Score:** `GEEV 86`
 
 ## Summary
-Amber is a strong first-lactation dairy/body package (`Dairy Strength E`, `Body Capacity E`) with excellent Rear Udder Height (40) and solid dairyness (36), scoring `GEEV 86`. Binding limits are the herd mammary pattern — Medial Suspensory Ligament 17, Teat Placement 17 — plus a very steep Rump Angle (21) and the narrowest Rump Width in the group (21). She needs mammary improvement and width; higher-RA bucks will flatten her angle, so width mitigation in the buck is mandatory.
+Amber is a strong dairy/body doe (Dairy Strength / Body Capacity both `E`, Dairyness 36) with excellent Rear Udder Height (40). She combines the herd’s steepest Rump Angle (21) with the narrowest Rump Width (21) — a high-risk pelvic package if flattening is not buffered by width. Mammary `V` is still limited by Medial Suspensory Ligament 17 and Teat Placement 17. Do not call her flat; higher-RA bucks will flatten her steep angle toward 50 on the linear scale.
 
 ## Strengths
-- **Dairy Strength `E` / Dairyness 36** — clear dairy character.
-- **Body Capacity `E`** — Body Depth 37, Strength 34.
-- **Rear Udder Height 40** — best in the herd; protect.
-- **Fore Udder Attachment 35**, Udder Depth 35 — useful mammary topography alongside the weak MSL.
-- Mammary category `V` despite soft support linears.
-- Rear Legs Side View 34, Legs Rear `V` — rear-leg quality worth protecting (low heritability).
+- **Dairyness 36** / Dairy Strength `E`
+- **Body Depth 37**, Strength 34, Body Capacity `E`
+- **Rear Udder Height 40** — outstanding; protect as a mammary topography strength
+- **Fore Udder Attachment 35 / Rear Udder Arch 34** — solid attachments (arch low-h² — protect)
+- **Udder Depth 35** — toward shallower/higher (favorable vs deep/pendulous extremes)
+- **Rear Legs Side View 34** — sounder set than several herdmates
 
 ## Weaknesses / Areas for Improvement
-1. **Medial Suspensory Ligament 17** — primary longevity / Final Score mammary gap.
-2. **Teat Placement 17 / Teat Diameter 20** — softest teat placement in the group (tied with Lizbeth); high priority.
-3. **Rump Width 21** — narrowest doe; high-ROI and needed as buffer when angle is flattened.
-4. **Rump Angle 21** — steepest in the herd; further flattening desired.
-5. **Stature 23** — small; Shoulder Assembly `A`, Rump category `A`, General Appearance `G`.
-6. First-lactation mammary may still change — re-check MSL/teats next year.
+1. **Medial Suspensory Ligament 17** and **Teat Placement 17** — top mammary levers (Teat Diameter 20 also soft)
+2. **Rump Width 21** — narrowest scored doe; required upgrade and flattening buffer
+3. **Rump Angle 21 (steepest)** — manage flattening; width must come with any higher-RA buck
+4. **General Appearance `G`** — Shoulder Assembly `A` / structural Rump `A` contribute
+5. **Stature 23** — modest; secondary unless height is a goal
 
 ## Highest-ROI Improvement Targets
-1. Medial Suspensory Ligament.
-2. Teat Placement (and Teat Diameter).
-3. Rump Width — trait gain plus mitigation when a breeding flattens her steep Rump Angle.
-4. Protect Rear Udder Height and dairyness while pursuing the above.
+1. **Medial Suspensory Ligament** and **Teat Placement**
+2. **Rump Width** — structural and risk-mitigation priority given steep angle
+3. Hold **Dairyness** and **Rear Udder Height** while improving support/width
+4. Accept that Rump Angle will likely rise (flatten) with wider, higher-RA bucks — quantify and buffer, don’t deny
 
 ## Lower-Priority or Harder Traits
-- Rump Angle as a direct selection target — relevant here mainly as a **risk to not worsen via further flattening**; pair with width rather than chasing angle alone.
-- Shoulder Assembly / General Appearance refinements — secondary.
-- Rear Legs Side View — already good; protect.
-- Stature — only if partners would pull the line clearly too small.
+- **Rear Udder Arch** — already good and low-h²
+- **Rump Angle** — not a primary “fix to steeper” target; risk management around flattening only
+- **Stature / shoulder polish** — secondary to mammary and width
+- **Strength 34** — adequate; not a primary gap
 
 ## Breeding Notes
-- **Preferred buck type:** Better MSL and Teat Placement **and** wider Rump Width. **Michael** (Rump Width 28, Rump Angle 34) is the most sensible herd option for width; he will flatten her steep 21 toward 34 — width 28 is the mitigation, not a claim that he “steepens” or “corrects flatness.” **Smithy** (Rump Width 24, Rump Angle 28) flattens less than Michael but is still too narrow — not ideal as a width fixer. **Finale** (estimated) may help width and hold dairyness but is unlikely to fix Teat Placement and only modestly helps MSL — use only as part of a package, not as the sole mammary solution.
-- **Key offspring risks:** Further flattening of already-steep rumps if higher-RA genetics stack without width; narrow pelvis fixed; soft MSL + teats fixed across the next generation.
-- **Mitigations:** Require wider thurls/rump in the buck whenever using her; do not breed to another soft-teat, soft-MSL, narrow-rump package.
-- Outside mammary genetics remain warranted for her as for the rest of the herd.
-- Young first-freshener — re-appraise before locking multi-year conclusions on udder depth and teat traits.
+- **Preferred on-hand buck (BIS):** **Michael** (`VGE 88`, BIS −0.6) — clearest measured width upgrade (RW 28 vs 21); flattens steep 21 toward 34 with width as mitigation — not a “steeper angle” package. Full ranking: `reports/breeding-amber.md`.
+- **Runner-up:** Smithy (BIS −3.3) — still too narrow for an ideal fix.
+- **Near-tie / deprioritize as primary:** Finale (BIS −3.4) — estimated width/dairy story, but ConfidencePenalty and soft teat outlook keep him behind appraised options.
+- **Key offspring risks:** Flattening of steep Rump Angle (moderate); stacking another narrow rump if Smithy is used (higher); soft MSL/teats persisting (moderate–higher); mild dairyness pull with Michael (low–moderate).
+- **Mitigations:** Width-first pairing; select daughters for mammary support; keep dairy-strong, high rear-udder daughters.
+- First lactation — re-check teats/MSL next year; width strategy with explicit flattening acknowledgment can proceed now.

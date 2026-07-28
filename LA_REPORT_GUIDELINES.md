@@ -187,7 +187,7 @@ Ranked easiest / highest-leverage traits based on: current score gap, heritabili
 Low impact, already adequate, or low-heritability (slow to change).
 
 ## Breeding Notes
-- Preferred buck type or specific herd bucks (with rationale)
+- Preferred buck type or top on-hand buck by **BIS** (cite BIS and point to `reports/breeding-[barn].md` for the full ranking)
 - Key risks in offspring (e.g., further flattening of rump, loss of a current strength)
 - Mitigations worth seeking (e.g., wider thurls)
 - Special notes for named strengths-to-protect (from `HERD_ROSTER.md`)
@@ -196,6 +196,9 @@ Low impact, already adequate, or low-heritability (slow to change).
 ### Type-specific notes
 - Always reference the animal’s actual linear scores.
 - For young first-fresheners, note that some mammary traits may still mature.
+- Omit owner-height lines when no measurement is available (do not invent heights).
+- In **Breeding Notes**, name the current top on-hand buck by **BIS** (see `scripts/bis.py` / matching `reports/breeding-[barn].md`) and state the main package risks; do not re-litigate the full buck comparison here.
+- Use strengths-to-protect from `HERD_ROSTER.md` notes — never label animals as “favorites.”
 - Write reports to `reports/` as `individual-[barn-name].md`.
 
 ---

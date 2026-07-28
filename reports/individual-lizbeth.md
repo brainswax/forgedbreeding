@@ -1,43 +1,41 @@
-# Individual Report: Twin Willows SS Lizbeth (PD2292496)
+# Individual Report: Lizbeth (PD2292496)
 
-**Barn Name:** Lizbeth
-
-**Age / Lactation at appraisal:** ~3y 4m / Lactation 2 (appraisal 26-Jul-2026)  
-**Final Score:** `VEEG 85`  
-**Official LA stature score:** 25  
+**Age / Lactation at appraisal:** ~3y 4m (DOB 2023-03-28); Lactation 2 (appraised 2026-07-26)  
+**Final Score:** `VEEG 85`
 
 ## Summary
-Lizbeth is a balanced second-lactation doe with strong Dairy Strength and Body Capacity (`E` / `E`) and the herd’s best dairyness (38). Final Score is held back mainly by Mammary `G`, driven by a very weak Medial Suspensory Ligament (13) and soft Teat Placement (17). Frame is useful — Strength 36, Rump Width 31 — and Rump Angle is already steep (23), so her width is a valuable buffer if a buck flattens angle (raises RA).
+Lizbeth is a strong dairy and capacity doe (`Dairy Strength` / `Body Capacity` both `E`) held back by Mammary `G`. Binding limits are Medial Suspensory Ligament 13 and Teat Placement 17 — the softest MSL in the scored herd. She already brings usable Rump Width (31) and high Dairyness (38); breeding should lift mammary support without giving those away. She is steep on Rump Angle (23; scale: 0 steep → 50 flat), not flat — width is the buffer when higher-RA bucks flatten her.
 
 ## Strengths
-- **Dairyness 38** and Dairy Strength `E` — clearest dairy character in the scored doe group.
-- **Body Capacity `E`** — Body Depth 37, Strength 36.
-- **Rump Width 31** — among the wider does; valuable both for score and as a buffer when a breeding flattens her steep Rump Angle.
-- **Rear Udder Height 35 / Rear Udder Arch 34** — solid rear-udder package.
-- **Legs Rear `E`**, Rear Legs Side View 32 — good rear-leg quality (protect as a low-heritability asset).
-- General Appearance `V` with Head `V`, Back `V`.
+- **Dairyness 38** / Dairy Strength `E` — elite dairy character for the herd
+- **Strength 36**, **Body Depth 37**, Body Capacity `E` — durable capacity package
+- **Rump Width 31** — useful pelvic buffer for a steep Rump Angle (23)
+- **Rear Udder Height 35 / Rear Udder Arch 34** — solid rear-udder topography (Rear Udder Arch is low-h² — protect)
+- **Legs Rear `E`**, Back `V` — sound rear structure contribution to General Appearance `V`
 
 ## Weaknesses / Areas for Improvement
-1. **Medial Suspensory Ligament 13** — primary Final Score and longevity limiter; highest priority.
-2. **Teat Placement 17** — soft; combined with MSL this is a functional udder-support risk.
-3. **Teat Diameter 25** — adequate but not a strength; do not let it drift smaller.
-4. **Rump Angle 23** — already on the steep side; bucks with higher RA will flatten her; width mitigates somewhat.
-5. **Stature 25** — smaller miniature; functional but leaves little margin if partners pull stature down.
-6. Mammary category `G` caps the score package despite strong dairy/body letters.
+1. **Medial Suspensory Ligament 13** — primary Final Score and longevity drag (Mammary `G`)
+2. **Teat Placement 17** — soft placement; Teat Diameter 25 is only intermediate
+3. **Rump Angle 23 (steep)** — not a primary selection target, but flattening risk must be managed via width when using higher-RA bucks
+4. **Stature 25** — modest; only act if outside functional goals
+5. Structural Rump `G` / Shoulder `G` — secondary polish, not the binding limit
 
 ## Highest-ROI Improvement Targets
-1. Medial Suspensory Ligament — largest score and longevity gap.
-2. Teat Placement (and hold Teat Diameter).
-3. Protect / reinforce Rump Width so flattening from higher-RA bucks has a buffer.
-4. Maintain dairyness and strength already present.
+1. **Medial Suspensory Ligament** — largest gap vs intermediate; highest GOALS leverage
+2. **Teat Placement** — next mammary lever after MSL
+3. Hold / avoid eroding **Rump Width** and **Dairyness** while chasing mammary gains
+4. **Teat Diameter** only after placement improves
 
 ## Lower-Priority or Harder Traits
-- Rear Udder Arch / Rear Legs Side View — already usable; low heritability — protect, don’t chase.
-- Feet / shoulder refinements — Legs Front `G`, Feet `G`, Shoulder Assembly `G` are adequate.
-- Stature — only act if a breeding would push her line clearly outside a functional miniature range.
+- **Rear Udder Arch / Rear Legs Side View** (32) — low-h²; track long-term, don’t trade away current rear-udder strength for speculative frame gains
+- **Rump Angle** — manage extremes and flattening risk; do not chase “correction” as a primary score play
+- **Udder Depth 32** — intermediate (higher = shallower); not a current crisis
+- **Stature** — low day-to-day priority unless height goals change
 
 ## Breeding Notes
-- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement without narrowing rump. Among herd options, **Michael** (`VGE 88`) is the safer balance pick for strength/capacity; his RA 34 will flatten her steep 23 (not steepen it) — her width 31 buffers that risk. Watch that he does not soften width. **Smithy** (`VVE 86`) adds stature/strength and flattens less (28 vs 34) but is narrow (Rump Width 24) — poorer fit here because Lizbeth’s width is an asset you want to keep. **Finale** (estimated) may help dairyness/width but is only middling on MSL/teats — not her primary mammary fixer.
-- **Key offspring risks:** Stacking soft MSL + Teat Placement; flattening of steep Rump Angle (23) when using higher-RA bucks.
-- **Mitigations:** Insist on width when the buck is flatter than she is; do not use a soft-MSL, soft-teat buck as the only “improvement” breeding.
-- Re-appraise after subsequent lactations; mammary can still shift, but lactation 2 already shows the MSL gap clearly.
+- **Preferred on-hand buck (BIS):** **Michael** (`VGE 88`, BIS −5.1) — best balance and width retention among herd bucks; he flattens steep 23 toward 34, buffered by her width 31. Full ranking: `reports/breeding-lizbeth.md`.
+- **Runner-up:** Smithy (BIS −5.5) — weaker width synergy (RW 24).
+- **Deprioritize:** Finale (BIS −7.5) as primary — estimate/youth penalty; not a proven MSL/teat fixer.
+- **Key offspring risks:** Soft MSL/teats stacking (higher); flattening of steep Rump Angle (moderate); mild dairyness/width dilution with Michael (low–moderate).
+- **Mitigations:** Prefer bucks that at least do not erase width 31; still plan outside mammary genetics — no on-hand buck fully solves MSL 13 / TP 17.
+- Lactation 2 already shows the mammary pattern; do not wait on “maturity” for these support traits.
