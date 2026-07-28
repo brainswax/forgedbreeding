@@ -1,6 +1,6 @@
 # Individual Report: Cade's Lil Farm CA Sapphire (PD2380418)
 
-**Short name:** CA Sapphire
+**Barn Name:** Sapphire
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `VEVV 88`  
@@ -37,7 +37,7 @@ Sapphire is the highest-scoring doe in the current set (`VEVV 88`) and the herd�
 - Rump Angle — manage risk rather than chase as a primary selection target.
 
 ## Breeding Notes
-- **Preferred buck type:** Clear Medial Suspensory Ligament and teat improvement; must not narrow her exceptional Rump Width or flatten Rump Angle further. **Michael Darling** is the best current herd match for overall balance and strength (her Strength 29 is the soft spot). **Smithy** can add stature/strength but risks narrowing width (his Rump Width 24 vs her 35) — use only if the mammary case is compelling and width loss is accepted. **Jane’s Finale** (estimated) may reinforce dairyness/width but is unlikely to fix Teat Placement and only modestly helps MSL.
+- **Preferred buck type:** Clear Medial Suspensory Ligament and teat improvement; must not narrow her exceptional Rump Width or flatten Rump Angle further. **Michael** is the best current herd match for overall balance and strength (her Strength 29 is the soft spot). **Smithy** can add stature/strength but risks narrowing width (his Rump Width 24 vs her 35) — use only if the mammary case is compelling and width loss is accepted. **Finale** (estimated) may reinforce dairyness/width but is unlikely to fix Teat Placement and only modestly helps MSL.
 - **Key offspring risks:** Soft MSL + teats becoming fixed; loss of Rump Width; further flattening of Rump Angle.
 - **Mitigations:** Prioritize bucks with better mammary linears and at least intermediate width; treat Sapphire as a herd anchor whose dairyness and rear udder should be deliberately locked in.
 - Young first-freshener — re-appraise next lactation before hardening long-term conclusions on udder depth and teat traits.

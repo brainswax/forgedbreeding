@@ -1,6 +1,6 @@
 # Individual Report: Twin Willows SS Lizbeth (PD2292496)
 
-**Short name:** SS Lizbeth
+**Barn Name:** Lizbeth
 
 **Age / Lactation at appraisal:** ~3y 4m / Lactation 2 (appraisal 26-Jul-2026)  
 **Final Score:** `VEEG 85`  
@@ -37,7 +37,7 @@ Lizbeth is a balanced second-lactation doe with strong Dairy Strength and Body C
 - Stature — only act if a mating would push her line clearly outside a functional miniature range.
 
 ## Breeding Notes
-- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement without narrowing rump or further flattening angle. Among herd options, **Michael Darling** (`VGE 88`) is the safer balance pick for strength/capacity; watch that he does not soften width. **AX Smithy** (`VVE 86`) adds stature/strength but is narrow (Rump Width 24) — poorer fit here because Lizbeth’s width is an asset you want to keep. **Jane’s Finale** (estimated) may help dairyness/width but is only middling on MSL/teats — not her primary mammary fixer.
+- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement without narrowing rump or further flattening angle. Among herd options, **Michael** (`VGE 88`) is the safer balance pick for strength/capacity; watch that he does not soften width. **Smithy** (`VVE 86`) adds stature/strength but is narrow (Rump Width 24) — poorer fit here because Lizbeth’s width is an asset you want to keep. **Finale** (estimated) may help dairyness/width but is only middling on MSL/teats — not her primary mammary fixer.
 - **Key offspring risks:** Stacking soft MSL + Teat Placement; further flattening of Rump Angle (23).
 - **Mitigations:** Insist on width and intermediate-or-steeper angle in the buck; do not use a soft-MSL, soft-teat buck as the only “improvement” mating.
 - Re-appraise after subsequent lactations; mammary can still shift, but lactation 2 already shows the MSL gap clearly.

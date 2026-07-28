@@ -1,13 +1,13 @@
 # Individual Report: Cade's Lil Farm CA Amber Waves (PD2407240)
 
-**Short name:** CA Amber Waves
+**Barn Name:** Amber
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `GEEV 86`  
 **Official LA stature score:** 23  
 
 ## Summary
-Amber Waves is a strong first-lactation dairy/body package (`Dairy Strength E`, `Body Capacity E`) with excellent Rear Udder Height (40) and solid dairyness (36), scoring `GEEV 86`. Binding limits are the herd mammary pattern — Medial Suspensory Ligament 17, Teat Placement 17 — plus a very flat Rump Angle (21) and the narrowest Rump Width in the group (21). She needs mammary improvement and width; angle risk is already elevated, so width mitigation in the buck is mandatory.
+Amber is a strong first-lactation dairy/body package (`Dairy Strength E`, `Body Capacity E`) with excellent Rear Udder Height (40) and solid dairyness (36), scoring `GEEV 86`. Binding limits are the herd mammary pattern — Medial Suspensory Ligament 17, Teat Placement 17 — plus a very flat Rump Angle (21) and the narrowest Rump Width in the group (21). She needs mammary improvement and width; angle risk is already elevated, so width mitigation in the buck is mandatory.
 
 ## Strengths
 - **Dairy Strength `E` / Dairyness 36** — clear dairy character.
@@ -38,7 +38,7 @@ Amber Waves is a strong first-lactation dairy/body package (`Dairy Strength E`, 
 - Stature — only if partners would pull the line clearly too small.
 
 ## Breeding Notes
-- **Preferred buck type:** Better MSL and Teat Placement **and** wider Rump Width; avoid bucks that are also flat-angled and narrow. **Michael Darling** (Rump Width 28, Rump Angle 34) is the most sensible herd option for width + steeper angle relative to her 21/21. **Smithy** (Rump Width 24, Rump Angle 28) is still narrow and only a mild angle improvement — not ideal as a width fixer. **Jane’s Finale** (estimated) may help width and hold dairyness but is unlikely to fix Teat Placement and only modestly helps MSL — use only as part of a package, not as the sole mammary solution.
+- **Preferred buck type:** Better MSL and Teat Placement **and** wider Rump Width; avoid bucks that are also flat-angled and narrow. **Michael** (Rump Width 28, Rump Angle 34) is the most sensible herd option for width + steeper angle relative to her 21/21. **Smithy** (Rump Width 24, Rump Angle 28) is still narrow and only a mild angle improvement — not ideal as a width fixer. **Finale** (estimated) may help width and hold dairyness but is unlikely to fix Teat Placement and only modestly helps MSL — use only as part of a package, not as the sole mammary solution.
 - **Key offspring risks:** Extremely flat rumps if angle is stacked; narrow pelvis fixed; soft MSL + teats fixed across the next generation.
 - **Mitigations:** Require wider thurls/rump in the buck whenever using her; do not mate to another soft-teat, soft-MSL, narrow-rump package.
 - Outside mammary genetics remain warranted for her as for the rest of the herd.

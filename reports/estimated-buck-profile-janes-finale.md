@@ -122,7 +122,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 - **Lower confidence:** Exact Jane Doe × Unlimited blend in Finale himself — no full sibs; Springwater Unlimited daughters prove the sire in that herd prefix but not this dam.
 - **Major gaps:** No Finale Linear Appraisal; no Jane Doe daughters in the reference file; teat-size inconsistency unexplained by dam alone.
 
-When ranking Finale against **Michael Darling** (`VGE 88`) or **AX Smithy** (`VVE 86`), treat this profile as **directional only**. Real Linear Appraisal on Finale should replace these estimates.
+When ranking Finale against **Michael** (`VGE 88`) or **Smithy** (`VVE 86`), treat this profile as **directional only**. Real Linear Appraisal on Finale should replace these estimates.
 
 ---
 
@@ -140,7 +140,7 @@ When ranking Finale against **Michael Darling** (`VGE 88`) or **AX Smithy** (`VV
 
 ## Quick Reference
 
-Springwater U Jane's Finale (PD2487767; Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and persistently soft teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael Darling and Smithy’s real Linear Appraisal more heavily in buck rankings until then.
+Finale (PD2487767; Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and persistently soft teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael and Smithy’s real Linear Appraisal more heavily in buck rankings until then.
 
 ---
 

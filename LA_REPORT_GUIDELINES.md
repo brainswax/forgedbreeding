@@ -32,9 +32,9 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 **Example prompts that should work as-is:**
 - `Produce a Herd Report based on LA_REPORT_GUIDELINES.md`
 - `Produce an Individual Report for Snickers based on LA_REPORT_GUIDELINES.md`
-- `Produce a Planning Report for Michael Darling × Amber Waves based on LA_REPORT_GUIDELINES.md`
+- `Produce a Planning Report for Michael × Amber based on LA_REPORT_GUIDELINES.md`
 - `Produce a Doe Breeding Report for Tinkles based on LA_REPORT_GUIDELINES.md`
-- `Produce a Buck Breeding Report for Michael Darling based on LA_REPORT_GUIDELINES.md`
+- `Produce a Buck Breeding Report for Michael based on LA_REPORT_GUIDELINES.md`
 
 ---
 
@@ -43,7 +43,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 1. **Primary objective** = maximize Final Score while supporting longevity and functional durability (see GOALS.md).
 2. Present every recommendation as a **package**: expected score impact + functional risks + mitigations.
 3. Distinguish high-heritability / high-impact traits (short-to-medium term levers) from low-heritability traits (long-term focus). Explicitly note low-h² traits the animal or herd is **weak** in (need introduction) and **strong** in (need protection).
-4. Be specific with numbers (LA scores, heights, category letters) rather than vague language.
+4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from `HERD_ROSTER.md` when referring to herd animals in prose; include Reg # or registered name when identity must be unambiguous.
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).

@@ -4,7 +4,8 @@
 **Last updated:** 2026-07-27  
 
 Canonical ADGA registration identity for animals currently (or recently) owned at Forged Farm.  
-Short names in `LA_SCORES_2026.md` and `HERD_BREEDING_ROSTER.md` match the appraisal / breeding-list labels; **registered names** below are authoritative.
+**Barn Name** is the everyday name to use in reports and conversation. Registered names below are authoritative for ADGA identity.  
+`LA_SCORES_2026.md` may use longer appraisal labels — map to animals via Reg # or Barn Name from this file.
 
 Also holds per-animal notes (LA summary, favorites, role, caveats).  
 Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presence here.
@@ -69,7 +70,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Farm Oldesouth LMT Unlimited (PD1896060)  
 **Dam:** Springwater BF Jane Doe (PD1775314)  
 **LA:** None yet — estimated profile: `reports/estimated-buck-profile-janes-finale.md`  
-**Notes:** Young / third herd buck (ET). Unappraised as of 2026-07-27 (~5 months old). Weight estimated transmitting profile below real LA on Michael Darling and Smithy.
+**Notes:** Young / third herd buck (ET). Unappraised as of 2026-07-27 (~5 months old). Weight estimated transmitting profile below real LA on Michael and Smithy.
 
 ---
 
@@ -195,7 +196,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ## Pedigree notes (herd)
 
-- **Full sibs / shared sires among herd does:** Lizbeth and Luxury Model share sire Sleepnstag (different dams). Sapphire and Amber Waves share sire Cupids Arrow (different dams). Snickers and Smithy share DOB and farm prefix but different parents.
+- **Full sibs / shared sires among herd does:** Lizbeth and Lux share sire Sleepnstag (different dams). Sapphire and Amber share sire Cupids Arrow (different dams). Snickers and Smithy share DOB and farm prefix but different parents.
 - Parent LA (if needed for Planning Reports) may live in `LA_REFERENCE_SCORES.md` when collected; absence there does not remove the animal from this herd file.
 
 ---

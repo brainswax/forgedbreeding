@@ -1,6 +1,6 @@
 # Individual Report: Cade's Lil Farm AL Tinkles (PD2434405)
 
-**Short name:** AL Tinkles
+**Barn Name:** Tinkles
 
 **Age / Lactation at appraisal:** ~1y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `VVVA 84`  
@@ -40,7 +40,7 @@ Tinkles is the youngest scored doe and already shows a likeable structural look:
 - Rump Angle — not a trait to “improve” toward flatter; only manage transmission risk.
 
 ## Breeding Notes
-- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement; ideally adds Rump Width; **must not flatten** her Rump Angle (38). Prefer intermediate-to-steeper angle and wider rumps. **Michael Darling** (Rump Angle 34, Rump Width 28) is the most angle-safe herd option with some width help. **Smithy** (Rump Angle 28, Rump Width 24) risks both flattening relative to her and narrowing — poor favorite-protection fit. **Jane’s Finale** (estimated) may help width/dairyness but is soft on teats and only middling MSL — use carefully and only if angle/width package is acceptable.
+- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement; ideally adds Rump Width; **must not flatten** her Rump Angle (38). Prefer intermediate-to-steeper angle and wider rumps. **Michael** (Rump Angle 34, Rump Width 28) is the most angle-safe herd option with some width help. **Smithy** (Rump Angle 28, Rump Width 24) risks both flattening relative to her and narrowing — poor favorite-protection fit. **Finale** (estimated) may help width/dairyness but is soft on teats and only middling MSL — use carefully and only if angle/width package is acceptable.
 - **Key offspring risks:** Losing the liked Rump Angle; stacking soft MSL + Teat Placement; leaving Rump Width narrow so future flat-angle risk has no buffer.
 - **Mitigations:** State angle protection explicitly in every proposed mating; require width when the buck is flatter than she is; do not use her as a test mating for unproven soft-mammary bucks.
 - Favorite + youngest doe: favor conservative mammary-improving mates; re-appraise next lactation before major multi-year decisions.

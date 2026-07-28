@@ -1,6 +1,6 @@
 # Individual Report: Cade's Lil Farm SW Snickers (PD2380420)
 
-**Short name:** SW Snickers
+**Barn Name:** Snickers
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `GAEV 84`  
@@ -39,7 +39,7 @@ Snickers sits at `GAEV 84` with a distinctive package: extraordinary Body Depth 
 - Rear Udder Arch — intermediate; protect from erosion rather than chase aggressively.
 
 ## Breeding Notes
-- **Preferred buck type:** High dairyness + better MSL/teats + wider rump, **without flattening Rump Angle**. **Jane’s Finale** (estimated) is a natural dairyness/width candidate for her — still only middling on MSL/teats, so not a complete mammary solution. **Michael Darling** offers balance and strength/capacity reinforcement; verify angle/width package before use. **Smithy** adds stature/strength but is narrow (Rump Width 24) and only moderate dairyness — weaker fit for her two biggest gaps (dairyness + width).
+- **Preferred buck type:** High dairyness + better MSL/teats + wider rump, **without flattening Rump Angle**. **Finale** (estimated) is a natural dairyness/width candidate for her — still only middling on MSL/teats, so not a complete mammary solution. **Michael** offers balance and strength/capacity reinforcement; verify angle/width package before use. **Smithy** adds stature/strength but is narrow (Rump Width 24) and only moderate dairyness — weaker fit for her two biggest gaps (dairyness + width).
 - **Key offspring risks:** Losing the liked Rump Angle (36); losing depth; stacking narrow rumps; fixing soft MSL + teats.
 - **Mitigations:** Any flatter-angled buck must bring clear Rump Width; never stack soft dairyness onto her 23; prefer partners that improve MSL/teats if available.
 - Favorite: every recommendation should state expected Final Score benefit **and** whether Rump Angle / depth are protected.
