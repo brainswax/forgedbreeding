@@ -67,7 +67,7 @@ Also holds per-animal notes (LA summary, strengths-to-protect, role, caveats). P
 **Owner:** Brian Denton (1660541)  
 **Sire:** Farm Oldesouth LMT Unlimited (PD1896060)  
 **Dam:** Springwater BF Jane Doe (PD1775314)  
-**LA:** None yet — estimated profile: `reports/estimated-buck-profile-janes-finale.md`  
+**LA:** None yet (unappraised)  
 **Notes:** Young / third herd buck (ET). Unappraised as of 2026-07-27 (~5 months old). Weight estimated transmitting profile below real LA on Michael and Smithy.
 
 ---

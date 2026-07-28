@@ -24,7 +24,7 @@ Repo file roles and allowed dependencies: see `README.md`.
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks on hand) |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect / caveats |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners unless also on the breeding roster) |
-| `reports/estimated-buck-profile-*.md` | Estimated transmitting values for unappraised bucks |
+| `profiles/estimated-buck-profile-*.md` | Estimated transmitting values for unappraised bucks |
 | `scripts/bis.py` | Breeding Impact Score implementation |
 
 ---

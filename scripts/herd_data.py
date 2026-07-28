@@ -12,7 +12,7 @@ BREEDING_ROSTER = ROOT / "HERD_BREEDING_ROSTER.md"
 HERD_ROSTER = ROOT / "HERD_ROSTER.md"
 LA_SCORES = ROOT / "LA_SCORES_2026.md"
 GOALS = ROOT / "GOALS.md"
-ESTIMATED_PROFILES_GLOB = "reports/estimated-buck-profile-*.md"
+ESTIMATED_PROFILES_GLOB = "profiles/estimated-buck-profile-*.md"
 
 
 def load_preferred_ra_band(path: Path = GOALS) -> tuple[float, float] | None:
@@ -285,7 +285,7 @@ def load_breeding_animals(
         if profile is None:
             raise FileNotFoundError(
                 f"No LA scores and no estimated profile for buck {barn} ({reg}). "
-                f"Add scores to {la_scores.name} or a reports/estimated-buck-profile-*.md "
+                f"Add scores to {la_scores.name} or a profiles/estimated-buck-profile-*.md "
                 f"with a ## Script inputs (BIS) table."
             )
         est = parse_estimated_bis_inputs(profile)

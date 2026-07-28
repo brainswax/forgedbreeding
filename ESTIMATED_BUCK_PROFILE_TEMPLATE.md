@@ -5,6 +5,8 @@
 Use this when a buck does not yet have his own Linear Appraisal scores.  
 You supply the **full** LA reports (or raw score sheets) for the parents and any relevant progeny. The AI synthesizes the estimated transmitting profile from those complete sources.
 
+**Write finished profiles to `profiles/estimated-buck-profile-[slug].md`** (not `reports/`).
+
 ---
 
 ## How to Use
@@ -15,6 +17,7 @@ You supply the **full** LA reports (or raw score sheets) for the parents and any
    - Dam
    - Any appraised daughters (or other progeny) of the sire that you want considered
 3. Ask the AI to generate the Estimated Transmitting Profile (and any pairing/herd analysis) from the full data. Do not pre-summarize.
+4. Save the result under `profiles/` using the naming pattern above.
 
 ---
 
@@ -87,6 +90,7 @@ Keys: `msl`, `tp`, `td`, `dy`, `rw`, `st` (strength), `stat` (stature), `ra`, pl
 
 - Keep source reports complete. The AI is responsible for summarization and pattern detection.
 - Update the header and add new progeny reports as they become available.
+- Store profiles under `profiles/`.
 - Once the buck receives his own LA, replace this estimated profile with the real scores (and drop the Script inputs table).
 
 ---

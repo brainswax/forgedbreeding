@@ -1,6 +1,6 @@
 # Buck Breeding Report: Finale (PD2487767)
 
-**Buck Final Score:** Estimated (unappraised) — see `reports/estimated-buck-profile-janes-finale.md`  
+**Buck Final Score:** Estimated (unappraised) — see `profiles/estimated-buck-profile-janes-finale.md`  
 **Appraisal / profile context:** DOB 2026-02-22; ET; ~5 months old as of roster date; transmitting profile from Unlimited × Jane Doe + Unlimited daughters  
 **Does compared (BIS order):** Snickers (`GAEV 84`, BIS +12.0), Amber (`GEEV 86`, BIS +11.3), Lizbeth (`VEEG 85`, BIS +4.8), Tinkles (`VVVA 84`, BIS +3.5), Sapphire (`VEVV 88`, BIS +0.3), Lux (LA incomplete, BIS N/A)  
 **Buck priorities this breeding:**

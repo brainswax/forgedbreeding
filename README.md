@@ -27,6 +27,7 @@ README.md  (this file — anchor)
 ├── LA_SCORES_2026.md          optional → DAIRY_CONCEPTS.md (only if needed)
 ├── LA_REFERENCE_SCORES.md     optional → DAIRY_CONCEPTS.md (only if needed)
 ├── ESTIMATED_BUCK_PROFILE_TEMPLATE.md → scripts/bis.py only
+├── profiles/estimated-buck-profile-*.md   estimated transmitting profiles
 ├── LA_REPORT_GUIDELINES.md    may use any source below (listed once in its Inputs table)
 │     ├── GOALS.md
 │     ├── DAIRY_CONCEPTS.md
@@ -34,9 +35,9 @@ README.md  (this file — anchor)
 │     ├── HERD_BREEDING_ROSTER.md
 │     ├── HERD_ROSTER.md
 │     ├── LA_REFERENCE_SCORES.md
-│     ├── reports/estimated-buck-profile-*.md
+│     ├── profiles/estimated-buck-profile-*.md
 │     └── scripts/bis.py
-└── reports/*                  generated outputs (not source-of-truth docs)
+└── reports/*                  generated report outputs (not source-of-truth docs)
 ```
 
 **Rules of thumb**
@@ -50,6 +51,7 @@ README.md  (this file — anchor)
 | `LA_SCORES_2026.md` | `DAIRY_CONCEPTS.md` only if needed |
 | `LA_REFERENCE_SCORES.md` | `DAIRY_CONCEPTS.md` only if needed |
 | `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | `scripts/bis.py` only |
+| `profiles/*` | follow template; BIS script inputs for unappraised bucks |
 | `LA_REPORT_GUIDELINES.md` | any of the above (minimize; list each once) |
 | Any file | `README.md` if it needs the map |
 
@@ -67,6 +69,15 @@ When a dependency is needed, name the file **once** near the top (or in one Inpu
 | `LA_SCORES_2026.md` | Current herd linear traits, categories, Final Scores |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners) |
 | `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | Template for unappraised bucks (+ BIS script inputs) |
+| `profiles/estimated-buck-profile-*.md` | Estimated transmitting profiles for unappraised bucks |
+
+## Profiles
+
+Written under `profiles/`:
+
+| Pattern | Meaning |
+|---------|---------|
+| `estimated-buck-profile-[slug].md` | Estimated transmitting profile for an unappraised buck |
 
 ## Reports
 
@@ -78,7 +89,6 @@ Written under `reports/`:
 | `breeding-[barn].md` | Doe or Buck Breeding Report (partners ranked by BIS) |
 | `herd-[slug].md` | Herd-level summary |
 | `planning-….md` | Pair planning report |
-| `estimated-buck-profile-….md` | Estimated transmitting profile for unappraised bucks |
 
 Barn Names come from `HERD_ROSTER.md` (e.g. Michael, Snickers, Amber).
 
@@ -98,7 +108,7 @@ All Python lives in `scripts/`.
 1. **`HERD_BREEDING_ROSTER.md`** — available does and bucks (Barn Name + Reg #)
 2. **`HERD_ROSTER.md`** — Barn Names, owner heights, notes
 3. **`LA_SCORES_2026.md`** — linear traits and Final Scores by Reg #
-4. **`reports/estimated-buck-profile-*.md`** — for bucks without usable LA, a **`## Script inputs (BIS)`** key/value table
+4. **`profiles/estimated-buck-profile-*.md`** — for bucks without usable LA, a **`## Script inputs (BIS)`** key/value table
 
 `scripts/bis.py` also reads **`Preferred Rump Angle band: LOW–HIGH`** from `GOALS.md` when present. Functional risks/mitigations stay in `DAIRY_CONCEPTS.md` only.
 
@@ -116,7 +126,7 @@ Same doe×buck pair always gets the same BIS in Doe and Buck Breeding Reports. H
 
 1. Keep `HERD_BREEDING_ROSTER.md` and `HERD_ROSTER.md` current.
 2. Enter new LA scores in `LA_SCORES_2026.md`.
-3. For young/unappraised bucks, maintain an estimated profile with a **Script inputs (BIS)** table.
+3. For young/unappraised bucks, maintain an estimated profile under **`profiles/`** with a **Script inputs (BIS)** table.
 4. Run `python3 scripts/bis.py` and refresh breeding reports per `LA_REPORT_GUIDELINES.md`.
 
 ## Language
