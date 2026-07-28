@@ -23,8 +23,9 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
    - This file (templates + rules)
    - `GOALS.md` (objectives, trade-off framework, trait priorities)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
+   - `HERD_BREEDING_ROSTER.md` (**who is currently available** for breeding — does and bucks on hand)
    - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
-2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use every animal in `LA_SCORES_2026.md`. For a Doe Breeding Report, include every herd buck on hand (appraised bucks in `LA_SCORES_2026.md` plus any young/unappraised bucks that have an estimated profile unless the prompt narrows the set). For a Buck Breeding Report, include every scored doe in `LA_SCORES_2026.md` unless the prompt narrows the set.
+2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use the animals on `HERD_BREEDING_ROSTER.md` (scores from `LA_SCORES_2026.md`). For a Doe Breeding Report, compare against every buck listed as available on the roster (unless the prompt narrows the set). For a Buck Breeding Report, compare against every doe listed as available on the roster (unless the prompt narrows the set). **Never** treat `LA_REFERENCE_SCORES.md` animals as on-hand breeding partners unless they also appear on the roster.
 3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`.
 
 **Example prompts that should work as-is:**
@@ -47,8 +48,8 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
 8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
 9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion.
-10. For Doe Breeding Reports: compare **every buck on hand** against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
-11. For Buck Breeding Reports: compare **every available doe** against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
+10. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md` against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
+11. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md` against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
 
 ### Trait priority lens (from GOALS.md)
 
@@ -293,7 +294,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 ```
 
 ### Type-specific notes
-- Default buck set = all males with usable data in `LA_SCORES_2026.md`, plus Jane’s Finale (or other young bucks) when an estimated profile exists under `reports/`.
+- Default buck set = **Available bucks** in `HERD_BREEDING_ROSTER.md` (not reference-score animals).
 - Ground pros/cons in **numbers** relative to this doe, not generic buck praise.
 - Favorites (Snickers, Tinkles): explicitly score each buck on whether he protects liked Rump Angle (and other named strengths).
 - Estimated bucks: label every claim as estimated; never rank an estimate above a clearly better appraised package without stating the uncertainty.
@@ -360,7 +361,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 ```
 
 ### Type-specific notes
-- Default doe set = all fully scored females in `LA_SCORES_2026.md` (exclude incomplete records such as Final Score NA) unless the prompt narrows the set.
+- Default doe set = **Available does** in `HERD_BREEDING_ROSTER.md` (exclude only if the prompt says so; if Luxury Model or similar has incomplete LA, state that gap when discussing her).
 - Ground pros/cons in **numbers** relative to this buck, not generic doe praise.
 - Frame each doe as: what the buck **improves in her**, what she **covers for him**, and what they **risk stacking**.
 - Favorites (Snickers, Tinkles): only recommend if the buck package protects liked Rump Angle (and other named strengths); otherwise deprioritize with an explicit reason.
