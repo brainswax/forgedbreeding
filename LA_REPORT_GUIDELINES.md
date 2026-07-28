@@ -24,7 +24,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
    - `GOALS.md` (objectives, trade-off framework, trait priorities)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
    - `HERD_BREEDING_ROSTER.md` (**who is currently available** for breeding — does and bucks on hand)
-   - `HERD_ROSTER.md` (ADGA identity, LA summary, favorites, and other per-animal notes)
+   - `HERD_ROSTER.md` (ADGA identity, Barn Names, LA summary, favorites, and other per-animal notes)
    - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
 2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use the animals on `HERD_BREEDING_ROSTER.md` (scores from `LA_SCORES_2026.md`). For a Doe Breeding Report, compare against every buck listed as available on the roster (unless the prompt narrows the set). For a Buck Breeding Report, compare against every doe listed as available on the roster (unless the prompt narrows the set). **Never** treat `LA_REFERENCE_SCORES.md` animals as on-hand breeding partners unless they also appear on the roster.
 3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`.
@@ -48,9 +48,10 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
 8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
-9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion.
+9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion. Prefer **Barn Names** from `HERD_ROSTER.md` in prose.
 10. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md` against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
 11. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md` against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
+12. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-snickers.md`, `breeding-michael.md`, `herd-forged-farm.md`, `planning-michael-x-amber.md`. Use lowercase barn names; for herd-level reports use the herd slug.
 
 ### Trait priority lens (from GOALS.md)
 
@@ -131,6 +132,7 @@ Low impact, already adequate, or low-heritability (slow to change).
 ### Type-specific notes
 - Always reference the animal’s actual linear scores.
 - For young first-fresheners, note that some mammary traits may still mature.
+- Write reports to `reports/` as `individual-[barn-name].md`.
 
 ---
 
@@ -183,6 +185,7 @@ Plain-language prediction of what the mating is most and least likely to deliver
 - With full linear histories, prioritize high-h² traits for short-term predictions; still note low-h² patterns.
 - If one animal lacks LA data, state that limitation and use whatever category scores or progeny data are available.
 - Main tool for evaluating the young third buck once parental scores are supplied, and for comparing alternative buck × doe combinations.
+- Write reports to `reports/` as `planning-[barn]-x-[barn].md` (or similar pair slug).
 
 ---
 
@@ -238,6 +241,7 @@ Broader observations (age structure, favorite-animal considerations, re-appraisa
 - Stay strategic — do not repeat every individual score.
 - Emphasize locking in strengths: consistency comes from retaining good traits, not only from fixing faults.
 - Surface both high-h² quick wins and low-h² multi-generational projects.
+- Write reports to `reports/` as `herd-[herd-slug].md` (e.g. `herd-forged-farm.md`).
 
 ---
 
@@ -300,7 +304,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 - Favorites (Snickers, Tinkles): explicitly score each buck on whether he protects liked Rump Angle (and other named strengths).
 - Estimated bucks: label every claim as estimated; never rank an estimate above a clearly better appraised package without stating the uncertainty.
 - Keep the Individual Report’s breeding notes consistent if one already exists; this report should be able to stand alone.
-- Write reports to `reports/` as `doe-breeding-[doe-slug].md` unless the user names another path.
+- Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name).
 
 ---
 
@@ -368,7 +372,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 - Favorites (Snickers, Tinkles): only recommend if the buck package protects liked Rump Angle (and other named strengths); otherwise deprioritize with an explicit reason.
 - Estimated bucks: label every claim as estimated; be more conservative on primary picks.
 - Keep any existing Individual Report or Doe Breeding Report recommendations consistent where the same pair appears; this report should still stand alone.
-- Write reports to `reports/` as `buck-breeding-[buck-slug].md` unless the user names another path.
+- Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name). Same filename pattern as Doe Breeding Reports — one breeding report per animal.
 
 ---
 
