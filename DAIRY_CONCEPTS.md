@@ -44,6 +44,18 @@ In all reports, prompts, and docs:
 
 These words are house style even if other sources say “mating.”
 
+### Trait polarity language
+
+Use these words when describing scores:
+
+| Trait | Low score | High score |
+|-------|-----------|------------|
+| Medial Suspensory Ligament | weak / low cleft / weak support | strong / deep cleft |
+| Teat Placement | wide | narrow / close |
+| Rear Legs Side View | posty / straight | sickled / angled (intermediate often preferred) |
+| Rump Angle | steep | level / flat |
+| Udder Depth | deep / pendulous | shallow / high |
+
 ---
 
 ## System overview
@@ -258,6 +270,8 @@ Educational anchors consistent with scorecard polarity: steepness often **≤20*
 
 Posty tendency often **≤20**; greater angulation often **≥30**. Extremes either way can be functional risks.
 
+**Report language:** Say **posty** / **straight** for low scores; **sickled** / **angled** for high scores. Prefer **intermediate** when that is the goal.
+
 ---
 
 ### Mammary — Fore Udder Attachment
@@ -331,6 +345,8 @@ Hair/skin texture differences between rear udder and escutcheon help locate the 
 | 3 | 1½ | 45 |
 
 **Higher MSL is generally desirable** for support and longevity (within functional extremes).
+
+**Report language:** Say **weak** / **low cleft** / **weak support** for low scores; **strong** / **deep cleft** for high scores.
 
 ---
 

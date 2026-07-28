@@ -46,7 +46,7 @@ Tall, dairy, capacious; intermediate rump angle; solid width. Mammary linears no
 | Teat Diameter | 27 | 18 | 29 |
 | Rear Udder Height / Arch | 33 / 29 | 36 / 34 | 35 / 34 |
 
-Held mid-80s Final Scores with Very Good mammary letters, but dairyness faded with age, MSL stayed soft, teat placement never excelled, and width was only fair after a very narrow first lactation.
+Held mid-80s Final Scores with Very Good mammary letters, but dairyness faded with age, MSL stayed weak, teat placement stayed wide, and width was only fair after a very narrow first lactation.
 
 ---
 
@@ -62,10 +62,10 @@ Primary evidence for what Unlimited (and therefore Finale on the sire side) tend
 | **Rump Width** | 30.2 | 29.0 | 24–41 | Clear Unlimited strength |
 | **Rump Angle** | 29.1 | 29.0 | 24–41 | Mostly intermediate; occasional very flat outliers (high scores) |
 | **Medial Suspensory Ligament** | 24.5 | 25.0 | 15–36 | Intermediate; 13/24 ≥25, 4/24 ≤20 |
-| **Teat Placement** | 21.0 | 21.0 | 15–26 | Wide/soft cluster; only 8/24 ≥22 |
+| **Teat Placement** | 21.0 | 21.0 | 15–26 | Mostly wide (~21); only 8/24 ≥22 |
 | **Teat Diameter** | 26.0 | 25.0 | 15–36 | Highly variable |
 | **Rear Udder Height / Arch** | 35.3 / 34.9 | 35 / 35 | — | Strong rear-udder package on average |
-| **Rear Legs Side View** | 25.9 | 26.0 | 18–36 | Soft set common (low heritability) |
+| **Rear Legs Side View** | 25.9 | 26.0 | 18–36 | Posty / below-intermediate set common (low heritability) |
 | **Stature** | 28.0* | 28.5 | 21–33 | Moderate when recorded (*n=12) |
 
 Springwater-prefix Unlimited daughters (different dams than Jane Doe) still show high ceilings (e.g. Sweet Emotion `VEEE 90`, Cherry Bomb `VVEE 90`) — sire-side quality signal, not proof of this dam.
@@ -89,11 +89,11 @@ Springwater-prefix Unlimited daughters (different dams than Jane Doe) still show
 
 ### Likely weaknesses or risks
 
-- **Teat Placement (wide)** — Unlimited daughters cluster ≈ 21; Jane Doe 16–21. Finale is **unlikely** to fix wide teat placement; expect transmission near the low-20s unless the doe already brings closer placement.
-- **Medial Suspensory Ligament** — Unlimited daughter mean ≈ 24.5 is only intermediate; Jane Doe 19–23 pulls softer. Finale may still improve does at 13–18, but is not an elite MSL buck. Avoid stacking two soft MSLs.
+- **Teat Placement (wide)** — Unlimited daughters average ≈ 21; Jane Doe 16–21. Finale is **unlikely** to fix wide teat placement; expect transmission near the low-20s unless the doe already brings closer placement.
+- **Medial Suspensory Ligament** — Unlimited daughter mean ≈ 24.5 is only intermediate; Jane Doe 19–23 pulls weaker. Finale may still improve does at 13–18, but is not an elite MSL buck. Avoid stacking two weak MSLs.
 - **Teat Diameter** — Wide scatter in Unlimited daughters (15–36), including high-scoring small-teat does. Watch item, not a fixed fault.
 - **Rump Angle** — Usually intermediate (~28–29; scale: low = steep, high = level/flat). Occasional very flat Unlimited daughters exist. Herd preferred band is **30–35**; Finale’s estimated transmitting angle sits **slightly below** that band — useful correction from steep does, not a flattener for does already ≥36.
-- **Rear Legs Side View** — Soft set (~26) can appear; low heritability — track multi-generationally.
+- **Rear Legs Side View** — Posty / below-intermediate set (~26) can appear; low heritability — track multi-generationally.
 
 ### Traits with insufficient data
 
@@ -119,7 +119,7 @@ Springwater-prefix Unlimited daughters (different dams than Jane Doe) still show
 
 Machine-readable transmitting midpoints for `scripts/bis.py`.  
 `estimated: yes` — unappraised; full ConfidencePenalty applies.  
-Mammary midpoints start from Unlimited daughter means, then nudged slightly toward Jane Doe (softer MSL / slightly less dairy and width than raw Unlimited averages).
+Mammary midpoints start from Unlimited daughter means, then nudged slightly toward Jane Doe (weaker MSL / slightly less dairy and width than raw Unlimited averages).
 
 | key | value |
 |-----|-------|
@@ -141,7 +141,7 @@ Update when the estimate changes; after Finale’s own LA, switch to `estimated:
 ## Confidence & data gaps
 
 - **Higher:** Unlimited dairy / capacity / width pattern (n=24).
-- **Moderate:** Mammary means (clear central tendency, wide ranges; dam pulls soft).
+- **Moderate:** Mammary means (clear central tendency, wide ranges; dam pulls weaker MSL / wider teats).
 - **Lower:** Exact Unlimited × Jane Doe blend in Finale — no full sibs.
 - **Major gaps:** No Finale LA; no Jane Doe daughters in the reference file.
 
@@ -151,7 +151,7 @@ When ranking Finale against appraised herd sires (Michael `VGE 88`, Smithy `VVE 
 
 ## Benefit / Risk / Mitigation (herd use)
 
-**Expected benefit:** Lift dairyness and rump width; support capacity and Final Score; modest MSL improvement vs the current soft doe floor.
+**Expected benefit:** Lift dairyness and rump width; support capacity and Final Score; modest MSL improvement vs the current weak-MSL doe floor.
 
 **Main risks:** Wide teat-placement stacking; only intermediate MSL; occasional small-teat or very flat RA outliers in the Unlimited book.
 

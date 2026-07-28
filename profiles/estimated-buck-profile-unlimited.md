@@ -40,7 +40,7 @@ Tall, dairy, capacious buck with intermediate rump angle and solid width. Mammar
 | **Rump Width** | 30.2 | 29.0 | 24–41 | Clear width strength |
 | **Rump Angle** | 29.1 | 29.0 | 24–41 | Mostly intermediate like him; occasional very flat outliers |
 | **Medial Suspensory Ligament** | 24.5 | 25.0 | 15–36 | Intermediate; 13/24 ≥25, 4/24 ≤20 |
-| **Teat Placement** | 21.0 | 21.0 | 15–26 | Soft cluster; only 8/24 ≥22 |
+| **Teat Placement** | 21.0 | 21.0 | 15–26 | Mostly wide (~21); only 8/24 ≥22 |
 | **Teat Diameter** | 26.0 | 25.0 | 15–36 | Highly variable |
 | **Rear Udder Height / Arch** | ~35 / ~35 | — | — | Strong rear-udder package on average |
 
@@ -60,16 +60,16 @@ Tall, dairy, capacious buck with intermediate rump angle and solid width. Mammar
 
 These are the primary reason for this profile on an already-appraised buck:
 
-- **Medial Suspensory Ligament ≈ 24.5** — intermediate, not elite; often improves soft does but will not fix stacking of two weak MSLs.
-- **Teat Placement ≈ 21** — consistently wide/soft; do not use Unlimited (or his sons on estimate alone) as a teat-placement fixer.
+- **Medial Suspensory Ligament ≈ 24.5** — intermediate, not elite; often improves weak-MSL does but will not fix stacking of two weak MSLs.
+- **Teat Placement ≈ 21** — consistently wide; do not use Unlimited (or his sons on estimate alone) as a teat-placement fixer.
 - **Teat Diameter ≈ 26** — midpoint only; daughter scatter is large (15–36), including high-scoring small-teat daughters.
 
 ### Likely weaknesses or risks
 
-- Soft teat placement cluster across daughters.
+- Wide teat placement common across daughters.
 - Only intermediate MSL mean with meaningful weak outliers (several ≤18 on high-FS does).
 - Occasional very flat rump angles in the daughter book (e.g. Sweet Emotion 41).
-- Soft rear-leg set tendency (own and daughters ~25–26; low heritability).
+- Posty / below-intermediate rear-leg set tendency (own and daughters ~25–26; low heritability).
 
 ### Traits with insufficient data
 
