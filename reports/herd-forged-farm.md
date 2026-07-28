@@ -3,7 +3,7 @@
 **Animals included:** 5 fully scored does (Lizbeth, Sapphire, Snickers, Amber, Tinkles) + 2 bucks (Michael, Smithy). Lux listed but incomplete (FINAL NA; excluded from trait analysis).
 
 ## Overall Snapshot
-The appraised herd sits in a solid mid-to-upper range (Final Scores 84–88). Category balance is generally favorable on Dairy Strength and Body Capacity (multiple E/V), with more variation in General Appearance and especially Mammary. Does average roughly mid-80s; the two bucks are competitive at 86–88. High-impact mammary traits (particularly MSL and teat placement) are the clearest collective drag on Final Score and functional longevity. Structural width and dairyness show mixed but improvable patterns. Favorites Snickers and Tinkles sit at the lower end of the current score band but carry liked flatter rump angles that warrant protection against further flattening.
+The appraised herd sits in a solid mid-to-upper range (Final Scores 84–88). Category balance is generally favorable on Dairy Strength and Body Capacity (multiple E/V), with more variation in General Appearance and especially Mammary. Does average roughly mid-80s; the two bucks are competitive at 86–88. High-impact mammary traits (particularly MSL and teat placement) are the clearest collective drag on Final Score and functional longevity. Structural width and dairyness show mixed but improvable patterns. Snickers and Tinkles sit at the lower end of the current score band but carry liked flatter rump angles that warrant protection against further flattening.
 
 ## Herd Strengths
 - **Body Capacity / depth and strength**: Multiple animals post strong Body Depth (36–47) and Strength scores in the mid-30s; Body Capacity categories are mostly E or V. Snickers stands out with exceptional depth (47).
@@ -28,7 +28,7 @@ Functional/longevity pattern of concern: weak MSL + modest teat placement across
 ## Strengths to Lock In (Build Consistency)
 - Body depth / capacity and the current Dairy Strength category level — high-h² enough to retain relatively easily; reinforce through Michael and Smithy (both strong here) and the deeper does (Snickers, Sapphire).
 - Good rear udder height and fore attachment — already present on multiple does; prioritize breedings that do not erode them.
-- Liked flatter rump angles on the favorites (Snickers 36, Tinkles 38) — low-h² and therefore harder to recover if lost. Protect deliberately against further flattening (bucks with higher RA than the doe); width mitigates when a flatter buck is used.
+- Liked flatter rump angles on Snickers (36) and Tinkles (38) — low-h² and therefore harder to recover if lost. Protect deliberately against further flattening (bucks with higher RA than the doe); width mitigates when a flatter buck is used.
 - Michael’s overall balance (especially strength and rear legs) and Sapphire’s combination of dairyness + rear udder height are the best current “fixers” for the next generation.
 
 ## Weaknesses at Risk of Becoming Fixed
@@ -43,16 +43,16 @@ Concrete actions for the next 1–3 generations:
 - **Rump width as dual-purpose lever**: Select for wider rumps both to raise the trait itself and as mitigation when a breeding flattens angle (moves RA upward toward 50).
 - **Dairyness correction on Snickers line**: Pair Snickers with higher-dairyness genetics while protecting her depth and preferred flatter rump angle.
 - **Current buck utilization**:
-  - Michael: best overall balance; use to reinforce strength, capacity, and rear structure. On steep does he flattens angle (with width as partial mitigation); on favorites (36/38) his 34 does not further flatten. Watch rump width transmission.
-  - Smithy: useful stature and strength; narrower rump and only moderate dairyness limit him for the weakest does — better on animals that already bring width or dairyness. On favorites he steepens (does not flatten) liked angles — still a poor favorite package with his narrow width.
+  - Michael: best overall balance; use to reinforce strength, capacity, and rear structure. On steep does he flattens angle (with width as partial mitigation); on Snickers/Tinkles (36/38) his 34 does not further flatten. Watch rump width transmission.
+  - Smithy: useful stature and strength; narrower rump and only moderate dairyness limit him for the weakest does — better on animals that already bring width or dairyness. On Snickers/Tinkles he steepens (does not flatten) liked angles — still a poor angle/width package with his narrow width.
 - **Outside genetics warranted for**: MSL and teat placement (highest priority); secondarily for rump width if herd bucks do not improve it.
 - **Long-term low-h² projects**: Deliberately introduce better Rear Udder Arch and more ideal Rear Legs Side View over successive generations; do not casually breed away the current intermediate quality.
 - Lock existing capacity and rear-udder-height strengths while correcting the mammary support gaps.
 
 ## Buck Utilization Summary
 - **Michael (VGE 88)**: Primary herd sire for balance, strength, and capacity. Highest immediate utility for lifting overall quality; on steep/narrow does frame him as width upgrade with flattening risk + width mitigation, not as a “steeper angle” fixer.
-- **Smithy (VVE 86)**: Solid young option for stature and strength; best used on does that already supply better width or mammary traits. Monitor rump-width transmission closely; deprioritize on favorites (steepens liked flatter angles) and on Amber (still too narrow).
+- **Smithy (VVE 86)**: Solid young option for stature and strength; best used on does that already supply better width or mammary traits. Monitor rump-width transmission closely; deprioritize on Snickers and Tinkles (steepens liked flatter angles) and on Amber (still too narrow).
 - **Finale (PD2487767):** Young third buck (DOB 2026-02-22; ET; unappraised). Use estimated profile in `reports/estimated-buck-profile-janes-finale.md` until his own LA; priority will be whether he improves MSL/teats/width relative to the two existing bucks.
 
 ## Strategic Notes
-Age structure is young (most does first-lactation 2024–2025; Tinkles is a 2025 first-freshener). Mammary traits on the youngest animals may still mature — re-appraise after subsequent lactations. Favorites Snickers and Tinkles should be bred with explicit protection of their liked flatter rump angles (against further flattening) and (for Snickers) body depth. The herd’s ceiling is currently limited more by mammary support traits than by frame or dairy character; addressing MSL and teat placement will move Final Scores and functional durability farther and faster than any other single focus. Consistency will come from deliberately retaining the good capacity and rear-udder traits already present while systematically diluting the shared mammary weaknesses.
+Age structure is young (most does first-lactation 2024–2025; Tinkles is a 2025 first-freshener). Mammary traits on the youngest animals may still mature — re-appraise after subsequent lactations. Snickers and Tinkles should be bred with explicit protection of their liked flatter rump angles (against further flattening) and (for Snickers) body depth. The herd’s ceiling is currently limited more by mammary support traits than by frame or dairy character; addressing MSL and teat placement will move Final Scores and functional durability farther and faster than any other single focus. Consistency will come from deliberately retaining the good capacity and rear-udder traits already present while systematically diluting the shared mammary weaknesses.

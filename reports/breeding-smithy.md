@@ -7,10 +7,10 @@
 1. Use stature/strength/capacity where the doe is already wide enough
 2. Offer Dairyness 33 where useful — not as a free pass to change liked flatter rump angles
 3. Do **not** stack his Rump Width 24 onto narrow does
-4. Avoid favorites whose liked flatter Rump Angle he would steepen (Snickers 36, Tinkles 38; scale: 0 steep → 50 flat) — steepening is not flattening, but it still changes the liked look
+4. Avoid Snickers and Tinkles if protecting their liked flatter Rump Angle (36 / 38; scale: 0 steep → 50 flat) — he would steepen them; steepening is not flattening, but it still changes the liked look
 
 ## Buck Snapshot
-Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rump Width (24) and intermediate Rump Angle (28). He is a situational buck, not the default for narrow or favorite-angle does. On steep does he still flattens somewhat (less than Michael); on favorites he steepens liked flatter angles.
+Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rump Width (24) and intermediate Rump Angle (28). He is a situational buck, not the default for narrow does or for does whose liked flatter angles need protecting. On steep does he still flattens somewhat (less than Michael); on Snickers/Tinkles he steepens liked flatter angles.
 
 ## Doe Comparisons
 
@@ -24,17 +24,17 @@ Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rum
 **Cons:** Still dilutes her exceptional width (moderate); still some flattening of steep 24 (moderate).  
 **Fit summary:** Least-bad / best Smithy pairing on hand.
 
-### Snickers (PD2380420) — `GAEV 84` (favorite)
+### Snickers (PD2380420) — `GAEV 84`
 **Pros:** His DY 33 helps her 23 on paper.  
 **Cons:** RA 28 steepens (does not flatten) liked 36; RW 24 stacks narrow (higher).  
-**Fit summary:** Avoid for favorite protection.
+**Fit summary:** Avoid if protecting her liked flatter angle.
 
 ### Amber (PD2407240) — `GEEV 86`
 **Pros:** Dairy-compatible; less flattening than Michael relative to her steep 21.  
 **Cons:** Both narrow (21 + 24); still flattens without enough width buffer (higher).  
 **Fit summary:** Avoid — stacks her worst width fault.
 
-### Tinkles (PD2434405) — `VVVA 84` (favorite)
+### Tinkles (PD2434405) — `VVVA 84`
 **Pros:** Little.  
 **Cons:** Steepens liked flatter RA 38 (does not flatten); narrow width (higher).  
 **Fit summary:** Avoid.
@@ -54,7 +54,7 @@ Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rum
 | Dairyness | 33 | 38 | 40 | 23 | 36 | 36 | ? |
 | Strength | 36 | 36 | 29 | 36 | 34 | 37 | ? |
 
-\*Favorite — protect against further flattening; Smithy steepens these
+\*Protect liked flatter Rump Angle against further flattening; Smithy steepens these
 
 ## Recommendation
 **Primary pick:** Sapphire — only doe who clearly supplies the width he lacks while still having a strength gap he can help.
@@ -71,4 +71,4 @@ Smithy is a useful young `VVE 86` for frame and dairyness, limited by narrow Rum
 
 ## Breeding Notes
 - Secondary / situational service, not primary herd sire this season.
-- Do not use on favorites for dairyness gains that steepen liked flatter Rump Angle.
+- Do not use on Snickers or Tinkles for dairyness gains that steepen liked flatter Rump Angle.

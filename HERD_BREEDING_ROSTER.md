@@ -5,7 +5,7 @@
 Animals **currently available for breeding**. Partner sets for Doe Breeding / Buck Breeding Reports come from this file only.  
 Names below are **Barn Names** from `HERD_ROSTER.md`.
 
-Identity, LA summaries, favorites, and other per-animal notes: `HERD_ROSTER.md`  
+Identity, LA summaries, and other per-animal notes: `HERD_ROSTER.md`  
 Scores: `LA_SCORES_2026.md`  
 Reference / non-herd animals: `LA_REFERENCE_SCORES.md` (not available unless listed below)
 

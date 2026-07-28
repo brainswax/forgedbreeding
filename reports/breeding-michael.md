@@ -6,12 +6,12 @@
 **Buck priorities this breeding:**
 1. Offer moderate Rump Width (28) where does are narrow — without claiming elite width
 2. On steep does (RA 21–24), expect flattening toward his 34 (scale: 0 steep → 50 flat); pair with width mitigation
-3. On favorites (36/38), his 34 does not further flatten — preferred favorite-safe angle among herd bucks
+3. On Snickers/Tinkles (36/38), his 34 does not further flatten — preferred angle among herd bucks for those liked flatter rumps
 4. Do not treat him as a proven Medial Suspensory Ligament / teat fixer (unscored)
 5. Prefer partners who already bring dairyness when possible (his DY 30 is only adequate)
 
 ## Buck Snapshot
-Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump Angle 34, Rump Width 28, and strong rear legs. Frame him as a structural improver for narrow does (width upgrade) and as favorite-safe vs further flattening — not as a “steeper angle” buck. On steep does he flattens angle; mammary transmitting is unknown from his own scores.
+Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump Angle 34, Rump Width 28, and strong rear legs. Frame him as a structural improver for narrow does (width upgrade) and as angle-safe vs further flattening on does with liked flatter rumps — not as a “steeper angle” buck. On steep does he flattens angle; mammary transmitting is unknown from his own scores.
 
 ## Doe Comparisons
 
@@ -25,20 +25,20 @@ Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump
 **Cons:** RA 34 flattens her steep 24 (moderate); mild width dilution vs her 35 (moderate).  
 **Fit summary:** Strong complementary pairing with flattening acknowledged.
 
-### Snickers (PD2380420) — `GAEV 84` (favorite)
+### Snickers (PD2380420) — `GAEV 84`
 **Pros:** RA 34 does not further flatten liked 36; RW 28 helps 23; some dairyness lift vs 23.  
 **Cons:** Won’t fully fix dairyness or proven MSL/teats (moderate); slight steepening vs 36 (low).  
-**Fit summary:** Best favorite-safe use of Michael on hand.
+**Fit summary:** Best use of Michael on hand for dairyness/width without further flattening her liked angle.
 
 ### Amber (PD2407240) — `GEEV 86`
 **Pros:** Largest measured width upgrade vs her 21; she brings dairyness and rear udder height.  
 **Cons:** RA 34 flattens her steep 21 toward 34 — width 28 is the mitigation (moderate); mammary still soft (moderate).  
 **Fit summary:** Highest-leverage width use of Michael; not a “steeper angle package.”
 
-### Tinkles (PD2434405) — `VVVA 84` (favorite)
+### Tinkles (PD2434405) — `VVVA 84`
 **Pros:** RA 34 does not further flatten liked 38; width help; she brings dairyness/strength.  
 **Cons:** Mammary `A` may persist (moderate); mild steepening vs 38 (low).  
-**Fit summary:** Best available favorite-safe buck for her.
+**Fit summary:** Best available buck for her that does not further flatten her liked angle.
 
 ### Lux (PD2292494) — LA incomplete
 **Pros:** Generalist default while unknown.  
@@ -57,14 +57,14 @@ Michael is the top appraised herd sire: balanced `VGE 88` with Strength 36, Rump
 | Medial Suspensory Ligament | — | 13 | 17 | 18 | 17 | 17 | ? |
 | Teat Placement | — | 17 | 21 | 20 | 17 | 20 | ? |
 
-\*Favorite — protect against further flattening
+\*Protect liked flatter Rump Angle against further flattening
 
 ## Recommendation
 **Primary pick:** Amber — biggest scored need for his width upgrade; flattening risk (21→toward 34) mitigated by his RW 28. Reframe as width package with flattening risk + mitigation — not “steeper angle.”
 
-**Runner-up:** Snickers — favorite-safe dairyness/width help without further flattening; or Sapphire if prioritizing strength lift on the herd’s best doe (with flattening + her width buffer).
+**Runner-up:** Snickers — dairyness/width help without further flattening her liked angle; or Sapphire if prioritizing strength lift on the herd’s best doe (with flattening + her width buffer).
 
-**Also acceptable:** Lizbeth (flattens with her width buffer), Tinkles (favorite-safe), Lux (provisional only).
+**Also acceptable:** Lizbeth (flattens with her width buffer), Tinkles (liked flatter angle protected), Lux (provisional only).
 
 **Avoid or deprioritize:** None mandatory; least efficient use is pairing him only for mammary hopes he can’t document.
 

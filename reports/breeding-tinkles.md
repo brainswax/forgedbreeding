@@ -1,7 +1,7 @@
 # Doe Breeding Report: Tinkles (PD2434405)
 
 **Doe Final Score:** `VVVA 84`  
-**Lactation / appraisal context:** Lactation 1 (2026); very young; **favorite — protect liked flatter Rump Angle (38; scale: 0 steep → 50 flat)**  
+**Lactation / appraisal context:** Lactation 1 (2026); very young; protect liked flatter Rump Angle (38; scale: 0 steep → 50 flat)  
 **Bucks compared:** Michael (`VGE 88`), Smithy (`VVE 86`), Finale (estimated)  
 **Doe priorities this breeding:**
 1. Protect liked flatter Rump Angle (38) against further flattening
@@ -11,13 +11,13 @@
 5. Allow Rear Udder Height (28) to mature, then reassess
 
 ## Doe Snapshot
-Tinkles already shows likeable structure (GA/DS/Body all `V`) and a favorite flatter rump angle, with Mammary `A` as the score cap. She is the youngest scored doe — mammary may still change — but MSL/teats are weak enough to treat as real. Angle protection means no further flattening (RA > 38); lower-RA bucks steepen the liked look but do not flatten it.
+Tinkles already shows likeable structure (GA/DS/Body all `V`) and a liked flatter rump angle, with Mammary `A` as the score cap. She is the youngest scored doe — mammary may still change — but MSL/teats are weak enough to treat as real. Angle protection means no further flattening (RA > 38); lower-RA bucks steepen the liked look but do not flatten it.
 
 ## Buck Comparisons
 
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
-- Rump Angle 34 is slightly steeper than her 38 — does **not** further flatten; closest measured favorite-safe fit among herd bucks
+- Rump Angle 34 is slightly steeper than her 38 — does **not** further flatten; closest measured fit that does not further flatten her liked angle among herd bucks
 - Rump Width 28 helps her 25
 - Strength/capacity compatible
 
@@ -25,29 +25,29 @@ Tinkles already shows likeable structure (GA/DS/Body all `V`) and a favorite fla
 - Mild steepening vs liked 38 (low) — changes angle slightly, not flattening
 - MSL/teats unscored (moderate)
 
-**Fit summary:** Clearest favorite-safe on-hand choice.
+**Fit summary:** Clearest on-hand choice that protects her liked flatter angle.
 
 ### Smithy (PD2380421) — `VVE 86`
 **Pros (for this doe)**
 - Dairyness 33 / strength useful on paper
 
 **Cons / risks (for this doe)**
-- Rump Angle 28 vs her 38 — material steepening (does **not** flatten) of liked flatter angle (higher for a favorite)
+- Rump Angle 28 vs her 38 — material steepening (does **not** flatten) of liked flatter angle
 - Rump Width 24 can stack narrow (moderate–higher)
 
-**Fit summary:** Poor favorite-protection package.
+**Fit summary:** Poor angle-protection package.
 
 ### Finale (PD2487767) — Estimated
 **Pros (for this doe)**
 - Estimated width help; dairyness strength compatible with her 36
-- Estimated intermediate angle better favorite fit than Smithy’s 28 if true — still behind Michael’s 34
+- Estimated intermediate angle better fit for her liked flatter RA than Smithy’s 28 if true — still behind Michael’s 34
 
 **Cons / risks (for this doe)**
 - Angle protection less certain than Michael’s measured 34 (moderate)
 - Estimated soft teats / middling MSL vs Mammary `A` needs (moderate–higher)
 - Very young / unappraised (higher)
 
-**Fit summary:** Conditional alternative only; not ahead of Michael for a favorite.
+**Fit summary:** Conditional alternative only; not ahead of Michael for protecting her liked flatter angle.
 
 ## Side-by-Side
 
@@ -61,7 +61,7 @@ Tinkles already shows likeable structure (GA/DS/Body all `V`) and a favorite fla
 | Rear Udder Height | 28 | — | — | — |
 
 ## Recommendation
-**Primary pick:** Michael — best measured protection against further flattening and a real width bump; safest favorite breeding on hand.
+**Primary pick:** Michael — best measured protection against further flattening and a real width bump; safest on-hand breeding that protects her liked flatter angle.
 
 **Runner-up:** Finale — only with eyes open on estimate/youth risk; prefer after Michael if a second breeding is needed later.
 
@@ -71,8 +71,8 @@ Tinkles already shows likeable structure (GA/DS/Body all `V`) and a favorite fla
 - **Benefit:** Liked flatter rump angle not further flattened; modest width help; competitive overall package
 - **Risk:** Mammary `A` drivers may persist; slight steepening vs 38 (moderate / low)
 - **Mitigation:** Re-appraise Tinkles and daughters; seek stronger MSL/teat bucks outside when available
-- **Assessment:** Favorable for favorite protection; mammary still conditional
+- **Assessment:** Favorable for protecting her liked flatter angle; mammary still conditional
 
 ## Breeding Notes
-- Youngest first-freshener — do not over-harden teat/MSL conclusions from one snapshot; still avoid Smithy on favorite-angle grounds alone (steepening + narrow).
-- Favorite rule: protection against further flattening outranks speculative dairyness/stature gains.
+- Youngest first-freshener — do not over-harden teat/MSL conclusions from one snapshot; still avoid Smithy on angle grounds alone (steepening + narrow).
+- Protection against further flattening outranks speculative dairyness/stature gains.

@@ -5,7 +5,7 @@
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `GAEV 84`  
 **Official LA stature score:** 22  
-**Favorite animal:** Yes — protect liked flatter Rump Angle and exceptional body depth.
+**Strengths to protect:** Liked flatter Rump Angle and exceptional body depth.
 
 ## Summary
 Snickers sits at `GAEV 84` with a distinctive package: extraordinary Body Depth (47) and Body Capacity `E`, plus a liked flatter Rump Angle (36) that must be protected against further flattening. Final Score is limited by Dairy Strength `A` (Dairyness only 23), narrow Rump Width (23), soft Medial Suspensory Ligament (18) and Teat Placement (20), and soft rear-leg set (Rear Legs Side View 21). Breeding should raise dairyness, MSL, and teats while **preserving Rump Angle and depth** — do not casually trade those for score.
@@ -39,8 +39,8 @@ Snickers sits at `GAEV 84` with a distinctive package: extraordinary Body Depth 
 - Rear Udder Arch — intermediate; protect from erosion rather than chase aggressively.
 
 ## Breeding Notes
-- **Preferred buck type:** High dairyness + better MSL/teats + wider rump, **without further flattening Rump Angle** (bucks with RA > 36). **Michael** (RA 34) is slightly steeper than her 36 — he does not further flatten; offers balance, strength/capacity, and width help. **Smithy** (RA 28) steepens (does not flatten) her liked 36 — that changes the liked angle and he stays narrow (RW 24) with only moderate dairyness — weak favorite package. **Finale** (estimated intermediate RA) is a natural dairyness/width candidate — still only middling on MSL/teats, so not a complete mammary solution; angle protection less certain than Michael’s measured 34.
-- **Key offspring risks:** Further flattening of liked Rump Angle (36); losing depth; stacking narrow rumps; fixing soft MSL + teats; steepening the liked angle with lower-RA bucks (changes favorite look even though it is not flattening).
+- **Preferred buck type:** High dairyness + better MSL/teats + wider rump, **without further flattening Rump Angle** (bucks with RA > 36). **Michael** (RA 34) is slightly steeper than her 36 — he does not further flatten; offers balance, strength/capacity, and width help. **Smithy** (RA 28) steepens (does not flatten) her liked 36 — that changes the liked angle and he stays narrow (RW 24) with only moderate dairyness — weak angle/width package. **Finale** (estimated intermediate RA) is a natural dairyness/width candidate — still only middling on MSL/teats, so not a complete mammary solution; angle protection less certain than Michael’s measured 34.
+- **Key offspring risks:** Further flattening of liked Rump Angle (36); losing depth; stacking narrow rumps; fixing soft MSL + teats; steepening the liked angle with lower-RA bucks (changes the liked look even though it is not flattening).
 - **Mitigations:** Any buck flatter than she is must bring clear Rump Width; never stack soft dairyness onto her 23; prefer partners that improve MSL/teats if available.
-- Favorite: every recommendation should state expected Final Score benefit **and** whether Rump Angle / depth are protected.
+- Every recommendation should state expected Final Score benefit **and** whether Rump Angle / depth are protected.
 - First lactation — mammary may still mature; dairyness and width gaps are already large enough to act on.

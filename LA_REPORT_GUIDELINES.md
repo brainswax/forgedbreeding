@@ -23,7 +23,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
    - `DAIRY_CONCEPTS.md` (**ADGA trait definitions, scales, polarity, terminology** — required so reports do not reverse or invent linear meanings)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
    - `HERD_BREEDING_ROSTER.md` (**who is currently available** for breeding — does and bucks on hand)
-   - `HERD_ROSTER.md` (ADGA identity, Barn Names, LA summary, favorites, and other per-animal notes)
+   - `HERD_ROSTER.md` (ADGA identity, Barn Names, LA summary, and other per-animal notes)
    - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
 2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use the animals on `HERD_BREEDING_ROSTER.md` (scores from `LA_SCORES_2026.md`). For a Doe Breeding Report, compare against every buck listed as available on the roster (unless the prompt narrows the set). For a Buck Breeding Report, compare against every doe listed as available on the roster (unless the prompt narrows the set). **Never** treat `LA_REFERENCE_SCORES.md` animals as on-hand breeding partners unless they also appear on the roster.
 3. **Ground every claim in the score file and in `DAIRY_CONCEPTS.md`.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`. If unsure about trait polarity (especially Rump Angle or Udder Depth), check `DAIRY_CONCEPTS.md` before writing.
@@ -45,12 +45,11 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from `HERD_ROSTER.md` when referring to herd animals in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (see `DAIRY_CONCEPTS.md`).
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
-7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
-8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
-9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion. Prefer **Barn Names** from `HERD_ROSTER.md` in prose.
-10. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md` against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
-11. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md` against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Favorites’ protected traits still constrain which does are good partners.
-12. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-snickers.md`, `breeding-michael.md`, `herd-forged-farm.md`, `planning-michael-x-amber.md`. Use lowercase barn names; for herd-level reports use the herd slug.
+7. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
+8. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion. Prefer **Barn Names** from `HERD_ROSTER.md` in prose.
+9. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md` against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
+10. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md` against that buck’s strengths and risks; pick one primary recommendation (and optionally a runner-up / ranked shortlist). Weight real LA scores more heavily than estimated transmitting profiles. Named strengths-to-protect in `HERD_ROSTER.md` notes still constrain which does are good partners.
+11. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-snickers.md`, `breeding-michael.md`, `herd-forged-farm.md`, `planning-michael-x-amber.md`. Use lowercase barn names; for herd-level reports use the herd slug.
 
 ### Trait priority lens (from GOALS.md)
 
@@ -125,7 +124,7 @@ Low impact, already adequate, or low-heritability (slow to change).
 - Preferred buck type or specific herd bucks (with rationale)
 - Key risks in offspring (e.g., further flattening of rump, loss of a current strength)
 - Mitigations worth seeking (e.g., wider thurls)
-- Special notes if this is a favorite animal
+- Special notes for named strengths-to-protect (from `HERD_ROSTER.md`)
 ```
 
 ### Type-specific notes
@@ -233,7 +232,7 @@ Concrete actions that move the most Final Score and functional quality in the ne
 How current appraised bucks (and any evaluated young buck) best fit herd needs.
 
 ## Strategic Notes
-Broader observations (age structure, favorite-animal considerations, re-appraisal timing, etc.).
+Broader observations (age structure, strengths-to-protect, re-appraisal timing, etc.).
 ```
 
 ### Type-specific notes
@@ -254,7 +253,7 @@ Broader observations (age structure, favorite-animal considerations, re-appraisa
 # Doe Breeding Report: [Doe Name] ([Reg #])
 
 **Doe Final Score:** GAEV 84
-**Lactation / appraisal context:** (e.g. first-freshener 2026; favorite — protect Rump Angle)
+**Lactation / appraisal context:** (e.g. first-freshener 2026; protect from flatter Rump Angle)
 **Bucks compared:** [list names + Final Scores or “estimated”]
 **Doe priorities this breeding:** (3–5 bullets from her gaps + strengths to protect, ordered by GOALS.md leverage)
 
@@ -300,7 +299,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 ### Type-specific notes
 - Default buck set = **Available bucks** in `HERD_BREEDING_ROSTER.md` (not reference-score animals).
 - Ground pros/cons in **numbers** relative to this doe, not generic buck praise.
-- Favorites (Snickers, Tinkles): explicitly score each buck on whether he protects liked Rump Angle (and other named strengths).
+- When `HERD_ROSTER.md` names strengths to protect (e.g. preferred Rump Angle), explicitly score each buck against those.
 - Estimated bucks: label every claim as estimated; never rank an estimate above a clearly better appraised package without stating the uncertainty.
 - Keep the Individual Report’s breeding notes consistent if one already exists; this report should be able to stand alone.
 - Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name).
@@ -332,7 +331,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 - Note if she already supplies what he lacks (e.g. width, dairyness, teat placement)
 
 **Cons / risks (for this buck)**
-- Stacking faults both share, extremes, or erosion of her protected strengths (especially favorites)
+- Stacking faults both share, extremes, or erosion of her protected strengths
 - Note severity: low / moderate / higher
 
 **Fit summary:** One sentence on overall fit.
@@ -350,7 +349,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 
 **Also acceptable / ranked shortlist (optional):** brief list if several does fit similarly.
 
-**Avoid or deprioritize:** [Doe(s)] — brief reason (e.g. shared soft Medial Suspensory Ligament; favorite Rump Angle at risk).
+**Avoid or deprioritize:** [Doe(s)] — brief reason (e.g. shared soft Medial Suspensory Ligament; liked Rump Angle at risk).
 
 ## Benefit / Risk / Mitigation Package (recommended breeding)
 - Expected benefit to Final Score and key goals
@@ -368,7 +367,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 - Default doe set = **Available does** in `HERD_BREEDING_ROSTER.md` (exclude only if the prompt says so; check `HERD_ROSTER.md` for incomplete-LA or other per-animal caveats).
 - Ground pros/cons in **numbers** relative to this buck, not generic doe praise.
 - Frame each doe as: what the buck **improves in her**, what she **covers for him**, and what they **risk stacking**.
-- Favorites (Snickers, Tinkles): only recommend if the buck package protects liked Rump Angle (and other named strengths); otherwise deprioritize with an explicit reason.
+- Only recommend does whose named strengths-to-protect are compatible with this buck’s package; otherwise deprioritize with an explicit reason.
 - Estimated bucks: label every claim as estimated; be more conservative on primary picks.
 - Keep any existing Individual Report or Doe Breeding Report recommendations consistent where the same pair appears; this report should still stand alone.
 - Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name). Same filename pattern as Doe Breeding Reports — one breeding report per animal.

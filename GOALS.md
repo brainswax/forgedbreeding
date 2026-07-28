@@ -44,8 +44,8 @@ The same structure applies to production decisions (e.g., high production that m
 
 - Prefer improvements that raise the primary metric *and* support longevity and soundness.  
 - Prefer to avoid extremes known to increase kidding difficulty, early udder breakdown, metabolic stress, or early culling — but do not treat them as automatic disqualifiers.  
-- Favorite animals (especially Snickers and Tinkles) should have their current strengths preserved where possible.  
-  - Their present rump angles are liked.  
+- Preserve named strengths on individual animals where possible (see `HERD_ROSTER.md` notes).  
+  - Present rump angles on Snickers and Tinkles are liked.  
   - Further flattening is a risk to be quantified and mitigated rather than forbidden.  
 - When evaluating any breeding or selection, present:  
   - Expected impact on the primary metric  
@@ -112,7 +112,7 @@ When analyzing milk-test results or making production-oriented decisions, apply 
 ## Breeding Philosophy
 
 - Maximize the primary metric through the highest-leverage traits available.  
-- Keep and build on the strengths of favorite animals.  
+- Keep and build on named individual strengths.  
 - Treat every decision as a balance of expected gains versus functional risks; always surface the trade-offs and any mitigations.  
 - Use real-world measurements and observations alongside official scores/records.  
 - Re-evaluate animals over time; stability with age is itself a positive longevity signal.

@@ -6,7 +6,7 @@
 **Buck priorities this breeding:**
 1. Put estimated dairyness + rump-width strengths on does weak there (especially Snickers, Amber)
 2. Do **not** sell him as an elite Medial Suspensory Ligament or teat fixer (est. MSL ~mid-20s, TP ~21)
-3. Prefer partners whose liked flatter Rump Angle is not put at high risk (favorites; scale: 0 steep → 50 flat) — protect against further flattening; note estimated intermediate RA may steepen favorites relative to Michael’s 34
+3. Prefer partners whose liked flatter Rump Angle is not put at high risk (scale: 0 steep → 50 flat) — protect against further flattening; note estimated intermediate RA may steepen Snickers/Tinkles relative to Michael’s 34
 4. Keep service limited until his own LA or early daughters confirm the estimate
 
 ## Buck Snapshot
@@ -24,20 +24,20 @@ Finale is estimated to transmit strong dairyness, usable width, and a capacious 
 **Cons:** Soft estimated teats vs her TP 21 priority; estimate risk (moderate).  
 **Fit summary:** Compatible but low urgency vs Michael for strength (with her width buffering any flattening).
 
-### Snickers (PD2380420) — `GAEV 84` (favorite)
+### Snickers (PD2380420) — `GAEV 84`
 **Pros:** Best gap match — estimated dairyness + width vs her 23 / 23.  
 **Cons:** Estimated intermediate RA may steepen liked 36 vs Michael’s closer 34; mammary estimate only middling; youth (moderate–higher).  
-**Fit summary:** Best *thematic* use if breeding him at all — still behind Michael for favorite safety (Michael does not further flatten).
+**Fit summary:** Best *thematic* use if breeding him at all — still behind Michael for protecting her liked flatter angle (Michael does not further flatten).
 
 ### Amber (PD2407240) — `GEEV 86`
 **Pros:** Estimated width targets her 21; dairyness holds; estimated intermediate RA flattens steep 21 less than Michael’s 34 if estimate holds.  
 **Cons:** Mammary priorities still open; estimate/youth (moderate–higher).  
 **Fit summary:** Reasonable second-target if estimate is trusted.
 
-### Tinkles (PD2434405) — `VVVA 84` (favorite)
+### Tinkles (PD2434405) — `VVVA 84`
 **Pros:** Width help possible.  
-**Cons:** Favorite flatter angle less securely matched than with Michael’s 34; estimated RA may steepen liked 38; mammary `A` needs stronger MSL/teats than estimate offers (higher).  
-**Fit summary:** Deprioritize vs Michael for favorite protection.
+**Cons:** Liked flatter angle less securely matched than with Michael’s 34; estimated RA may steepen liked 38; mammary `A` needs stronger MSL/teats than estimate offers (higher).  
+**Fit summary:** Deprioritize vs Michael for protecting her liked flatter angle.
 
 ### Lux (PD2292494) — LA incomplete
 **Pros:** None specific.  
@@ -55,19 +55,19 @@ Finale is estimated to transmit strong dairyness, usable width, and a capacious 
 | Medial Suspensory Ligament | ~24–25 est. | 13 | 17 | 18 | 17 | 17 | ? |
 | Teat Placement | ~21 est. | 17 | 21 | 20 | 17 | 20 | ? |
 
-\*Favorite — protect against further flattening
+\*Protect liked flatter Rump Angle against further flattening
 
 ## Recommendation
-**Primary pick:** Snickers — only if choosing to use Finale this season; estimated dairyness/width match her biggest scored holes. Prefer Michael first for favorite-angle protection (no further flattening); Finale as a deliberate secondary experiment.
+**Primary pick:** Snickers — only if choosing to use Finale this season; estimated dairyness/width match her biggest scored holes. Prefer Michael first for protecting her liked flatter angle (no further flattening); Finale as a deliberate secondary experiment.
 
 **Runner-up:** Amber — estimated width for the narrowest doe (acknowledge estimated RA still flattens her steep 21).
 
 **Also acceptable:** Limited use on Lizbeth/Sapphire for reinforcement — low urgency.
 
-**Avoid or deprioritize:** Tinkles (favorite angle safer with Michael), Lux (unknown), and any plan that treats Finale as the herd’s MSL/teat solution.
+**Avoid or deprioritize:** Tinkles (liked flatter angle safer with Michael), Lux (unknown), and any plan that treats Finale as the herd’s MSL/teat solution.
 
 ## Benefit / Risk / Mitigation Package (recommended breeding: Snickers)
-- **Benefit:** Possible dairyness + width lift on a favorite who needs both
+- **Benefit:** Possible dairyness + width lift on a doe who needs both
 - **Risk:** Estimate wrong; may steepen liked 36 vs Michael’s closer 34; mammary may stay soft (higher / moderate)
 - **Mitigation:** Keep Michael as primary on Snickers; use Finale lightly; re-evaluate after his LA
 - **Assessment:** Conditional / experimental

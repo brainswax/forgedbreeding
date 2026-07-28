@@ -1,7 +1,7 @@
 # Doe Breeding Report: Snickers (PD2380420)
 
 **Doe Final Score:** `GAEV 84`  
-**Lactation / appraisal context:** Lactation 1 (2026); **favorite — protect liked flatter Rump Angle (36; scale: 0 steep → 50 flat)** and body depth  
+**Lactation / appraisal context:** Lactation 1 (2026); protect liked flatter Rump Angle (36; scale: 0 steep → 50 flat) and body depth  
 **Bucks compared:** Michael (`VGE 88`), Smithy (`VVE 86`), Finale (estimated)  
 **Doe priorities this breeding:**
 1. Protect liked flatter Rump Angle (36) against further flattening; hold Body Depth (47)
@@ -16,7 +16,7 @@ Snickers is a capacity standout with a liked flatter rump angle, limited by Dair
 
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
-- Rump Angle 34 is slightly steeper than her 36 — does **not** further flatten; best favorite-angle fit among herd bucks
+- Rump Angle 34 is slightly steeper than her 36 — does **not** further flatten; best angle fit among herd bucks for protecting her liked flatter RA
 - Strength/capacity reinforce her Body Capacity `E` story
 - Rump Width 28 improves on her 23
 
@@ -25,7 +25,7 @@ Snickers is a capacity standout with a liked flatter rump angle, limited by Dair
 - MSL/teats unscored — mammary lift unproven (moderate)
 - Slight steepening vs liked 36 (low) — changes angle mildly, not flattening
 
-**Fit summary:** Safest favorite-protection pick with real width help.
+**Fit summary:** Safest angle-protection pick with real width help.
 
 ### Smithy (PD2380421) — `VVE 86`
 **Pros (for this doe)**
@@ -33,15 +33,15 @@ Snickers is a capacity standout with a liked flatter rump angle, limited by Dair
 - Strength/stature useful
 
 **Cons / risks (for this doe)**
-- Rump Angle 28 steepens (does **not** flatten) her liked 36 — changes the favorite angle (higher for a favorite)
+- Rump Angle 28 steepens (does **not** flatten) her liked 36 — changes the liked flatter angle
 - Rump Width 24 barely helps / can stack narrow (higher)
 
-**Fit summary:** Wrong risk package for a favorite whose liked flatter angle and width both need care.
+**Fit summary:** Wrong risk package for a doe whose liked flatter angle and width both need care.
 
 ### Finale (PD2487767) — Estimated
 **Pros (for this doe)**
 - Estimated dairyness and rump-width strengths match her two biggest scored gaps
-- Estimated intermediate rump angle (~27–29) — steepens relative to 36 if estimate holds, but less extreme than Smithy’s 28 move; still behind Michael’s measured 34 for favorite protection
+- Estimated intermediate rump angle (~27–29) — steepens relative to 36 if estimate holds, but less extreme than Smithy’s 28 move; still behind Michael’s measured 34 for protecting her liked flatter angle
 
 **Cons / risks (for this doe)**
 - Estimate only; unappraised ~5 mo (higher uncertainty)
@@ -66,14 +66,14 @@ Snickers is a capacity standout with a liked flatter rump angle, limited by Dair
 
 **Runner-up:** Finale — if prioritizing estimated dairyness + width and accepting youth/estimate uncertainty; still monitor angle in daughters.
 
-**Avoid or deprioritize:** Smithy — steepens liked angle (does not flatten) and stays narrow; poor favorite package.
+**Avoid or deprioritize:** Smithy — steepens liked angle (does not flatten) and stays narrow; poor angle/width package.
 
 ## Benefit / Risk / Mitigation Package (recommended breeding)
 - **Benefit:** Liked flatter angle not further flattened; width and some dairyness improved; capacity reinforced
 - **Risk:** Mammary support may remain soft; dairyness may not fully correct (moderate)
 - **Mitigation:** Cull/select daughters on MSL/teats and dairyness; consider outside mammary bucks next cycle
-- **Assessment:** Favorable for favorite protection among on-hand bucks
+- **Assessment:** Favorable for protecting her liked flatter angle among on-hand bucks
 
 ## Breeding Notes
-- Favorite rule: do not trade Rump Angle 36 for a speculative dairy gain from Smithy (steepening + narrow width).
+- Do not trade Rump Angle 36 for a speculative dairy gain from Smithy (steepening + narrow width).
 - First lactation — mammary may still mature; dairyness and width gaps are already actionable.
