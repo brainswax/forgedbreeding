@@ -55,6 +55,7 @@ Use these words when describing scores:
 | Rear Legs Side View | posty / straight | sickled / angled (intermediate often preferred) |
 | Rump Angle | steep | level / flat |
 | Udder Depth | deep / pendulous | shallow / high |
+| Body Depth | shallow | deep |
 
 ---
 
@@ -206,6 +207,22 @@ SOP bands [2024]: weakness typically **&lt;20**; strength typically **&gt;30**; 
 | ≥45 | Extremely flat boned and open ribbed |
 
 **SOP [2024]:** Round-boned, tight-ribbed animals can only score **Fair or Poor** in the Dairy Strength **major category**.
+
+---
+
+### Capacity — Body Depth
+
+**Meaning:** Depth of body from the top of the spine to the bottom of the barrel at the point of the last rib (SOP §13.2). The horizontal line between the knee and the hock can assist assessment.
+
+**Polarity:** Low = shallow; high = deep.
+
+| Score | Description |
+|------:|-------------|
+| ≤5 | Very shallow body |
+| 25 | Intermediate depth |
+| ≥45 | Very deep body |
+
+Contributes to feed capacity and the Body Capacity major category.
 
 ---
 
@@ -485,7 +502,7 @@ Total structure: head, shoulder blades, back, loin, rump, legs, feet. Attractive
 Bone structure (neck, withers, ribs, thighs), flanks, angularity, openness, fleshing, animation, skin/hair. Sharp, angular, refined bone, lean blending neck, open ribbing, incurving thighs → E/V. Round bone / tight rib → **F/P only** in this category (SOP §12.1).
 
 ### Body Capacity
-Length, width, depth with correct shape (feed capacity). Deep supported barrel, sprung ribs widening rearward, large heart girth, wide chest floor → E/V. Narrow/pinched girth, frailness, shallow or cramped ribbing → **F/P** (SOP §13.1). Body depth assessed spine-to-barrel at last rib; very deep ≥45, very shallow ≤5 on the body-depth continuum (SOP §13.2).
+Length, width, depth with correct shape (feed capacity). Deep supported barrel, sprung ribs widening rearward, large heart girth, wide chest floor → E/V. Narrow/pinched girth, frailness, shallow or cramped ribbing → **F/P** (SOP §13.1). See **Body Depth** linear trait above (SOP §13.2).
 
 ### Mammary System (does)
 Capacity and shape; rear and fore attachments; texture; teats. Capacious, strongly attached, well-carried, quality udder for production and longevity. Soft, pliable texture; uniform, well-placed teats. Short/bulgy/loose fore, low/narrow/loose/pinched rear, tied/twisted/pendulous → may be **F/P** (SOP §14.7).
@@ -666,6 +683,7 @@ Use this section when a breeding or selection package includes an undesirable ex
 | Stature | Short | Tall | Breed/goals dependent (miniatures!) |
 | Strength | Frail/narrow | Wide/strong | Higher usually preferred |
 | Dairyness | Coarse/round/tight rib | Flat bone/open rib | Higher usually preferred |
+| Body Depth | Shallow | Deep | Higher usually preferred |
 | **Rump Angle** | **Steep** | **Level / flat** | Avoid extremes; flattening = **up** |
 | Rump Width | Narrow | Wide | Higher usually preferred |
 | Rear Legs Side View | Posty | Sickled | Intermediate often preferred |
