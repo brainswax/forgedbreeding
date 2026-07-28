@@ -6,25 +6,31 @@
 
 Defines how to generate consistent Linear Appraisal (LA) reports.
 
+**Report types:**
+1. Individual Report
+2. Planning Report
+3. Herd Report
+4. Doe Breeding Report
+
 ---
 
 ## How to produce a report
 
-When asked to produce a report from these guidelines (e.g. *“Produce a Herd Evaluation based on LA_REPORT_GUIDELINES.md”*), do the following without waiting for extra data:
+When asked to produce a report from these guidelines (e.g. *“Produce a Herd Report based on LA_REPORT_GUIDELINES.md”*), do the following without waiting for extra data:
 
 1. **Read required inputs**
    - This file (templates + rules)
    - `GOALS.md` (objectives, trade-off framework, trait priorities)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
-   - For Doe Mating Choice reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
-2. **Pick the report type** from the prompt (Individual / Parentage–Pairing / Herd / Doe Mating Choice). If the animal or pairing is named, use that; otherwise for Herd Evaluation use every animal in `LA_SCORES_2026.md`. For Doe Mating Choice, include every herd buck on hand (appraised bucks in `LA_SCORES_2026.md` plus any young/unappraised bucks that have an estimated profile unless the prompt narrows the set).
+   - For Doe Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
+2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use every animal in `LA_SCORES_2026.md`. For a Doe Breeding Report, include every herd buck on hand (appraised bucks in `LA_SCORES_2026.md` plus any young/unappraised bucks that have an estimated profile unless the prompt narrows the set).
 3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`.
 
 **Example prompts that should work as-is:**
-- `Produce a Herd Evaluation based on LA_REPORT_GUIDELINES.md`
-- `Produce an Individual Evaluation for Snickers based on LA_REPORT_GUIDELINES.md`
-- `Produce a Parentage / Pairing Evaluation for Michael Darling × Amber Waves based on LA_REPORT_GUIDELINES.md`
-- `Produce a Doe Mating Choice report for Tinkles based on LA_REPORT_GUIDELINES.md`
+- `Produce a Herd Report based on LA_REPORT_GUIDELINES.md`
+- `Produce an Individual Report for Snickers based on LA_REPORT_GUIDELINES.md`
+- `Produce a Planning Report for Michael Darling × Amber Waves based on LA_REPORT_GUIDELINES.md`
+- `Produce a Doe Breeding Report for Tinkles based on LA_REPORT_GUIDELINES.md`
 
 ---
 
@@ -37,9 +43,9 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Ev
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. Favorite animals (Snickers, Tinkles) get extra attention to preserving current strengths (especially liked rump angle).
-8. End individual, parentage/pairing, and doe mating-choice reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
+8. End Individual, Planning, and Doe Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed mating.
 9. Style: clear headings, scannable bullets, consistent GOALS.md terminology, actionable closings — not open-ended discussion.
-10. For Doe Mating Choice reports: compare **every buck on hand** against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
+10. For Doe Breeding Reports: compare **every buck on hand** against that doe’s gaps and strengths-to-protect; pick one primary recommendation (and optionally a runner-up). Weight real LA scores more heavily than estimated transmitting profiles.
 
 ### Trait priority lens (from GOALS.md)
 
@@ -79,14 +85,14 @@ then compare with the official LA stature score.
 
 ---
 
-## Report Type 1: Individual Evaluation
+## Report Type 1: Individual Report
 
 **Purpose:** Evaluate one animal’s current LA performance, identify highest-ROI improvements, and recommend breeding direction.
 
 ### Template
 
 ```markdown
-# Individual LA Evaluation: [Animal Name] ([Reg #])
+# Individual Report: [Animal Name] ([Reg #])
 
 **Age / Lactation at appraisal:**
 **Final Score:** GAEV 84
@@ -123,14 +129,14 @@ Low impact, already adequate, or low-heritability (slow to change).
 
 ---
 
-## Report Type 2: Parentage / Pairing Evaluation
+## Report Type 2: Planning Report
 
 **Purpose:** Use LA scores of two animals (sire + dam, or prospective pair) to explain/predict an existing offspring’s profile **or** forecast a planned mating. Supports both retrospective analysis and forward breed planning.
 
 ### Template
 
 ```markdown
-# Parentage / Pairing LA Evaluation
+# Planning Report
 
 **Mode:** [Existing offspring analysis | Prospective mating]
 
@@ -175,14 +181,14 @@ Plain-language prediction of what the mating is most and least likely to deliver
 
 ---
 
-## Report Type 3: Herd Evaluation
+## Report Type 3: Herd Report
 
 **Purpose:** Strategic overview of the appraised herd — collective strengths to lock in, gaps, weaknesses at risk of becoming fixed, and highest-leverage opportunities.
 
 ### Template
 
 ```markdown
-# Herd LA Evaluation
+# Herd Report
 **Appraisal period / data set:**
 **Animals included:** (list or count of does and bucks)
 
@@ -230,14 +236,14 @@ Broader observations (age structure, favorite-animal considerations, re-appraisa
 
 ---
 
-## Report Type 4: Doe Mating Choice
+## Report Type 4: Doe Breeding Report
 
-**Purpose:** For one doe, compare each buck currently on hand — pros, cons, and fit to her improvement targets — then recommend which buck to breed her to. Decision aid for the breeding season; not a full Individual Evaluation (use Type 1 for that) and not a deep single-pair forecast (use Type 2 for that).
+**Purpose:** For one doe, compare each buck currently on hand — pros, cons, and fit to her improvement targets — then recommend which buck to breed her to. Decision aid for the breeding season; not a full Individual Report (use Type 1 for that) and not a deep single-pair forecast (use Type 2 Planning Report for that).
 
 ### Template
 
 ```markdown
-# Doe Mating Choice: [Doe Name] ([Reg #])
+# Doe Breeding Report: [Doe Name] ([Reg #])
 
 **Doe Final Score:** GAEV 84
 **Lactation / appraisal context:** (e.g. first-freshener 2026; favorite — protect Rump Angle)
@@ -288,8 +294,8 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 - Ground pros/cons in **numbers** relative to this doe, not generic buck praise.
 - Favorites (Snickers, Tinkles): explicitly score each buck on whether he protects liked Rump Angle (and other named strengths).
 - Estimated bucks: label every claim as estimated; never rank an estimate above a clearly better appraised package without stating the uncertainty.
-- Keep the Individual Evaluation’s breeding notes consistent if one already exists; this report should be able to stand alone.
-- Write reports to `reports/` as `mating-choice-[doe-slug].md` unless the user names another path.
+- Keep the Individual Report’s breeding notes consistent if one already exists; this report should be able to stand alone.
+- Write reports to `reports/` as `doe-breeding-[doe-slug].md` unless the user names another path.
 
 ---
 
