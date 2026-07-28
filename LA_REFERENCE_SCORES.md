@@ -58,21 +58,6 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
-## SPRINGWATER U JANE'S FINALE (PD2487767)
-
-**Role:** Young / third Forged Farm herd buck (unappraised)  
-**Identity:** See `HERD_ROSTER.md` (ADGA registration block).  
-**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
-**Dam:** SPRINGWATER BF JANE DOE (PD1775314)  
-
-**LA scores:** None yet (too young as of 2026-07-27).  
-
-**Notes**  
-- Estimated transmitting profile: `reports/estimated-buck-profile-janes-finale.md`.  
-- Listed on `HERD_BREEDING_ROSTER.md` as available young / third buck.
-
----
-
 ## GCH PRIMROSE HILL U CASCADE (PD2061839)
 
 **Role:** Daughter of Unlimited (progeny reference)  

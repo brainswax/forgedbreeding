@@ -8,10 +8,7 @@ Authoritative reference for how Linear Appraisal (LA) traits are defined, measur
 
 Where the SOP is silent on educational biological anchors (e.g. intermediate verbal landmarks) but the ADGA Unified Scorecard (SOP Appendix C) or long-standing LA education language is consistent with the SOP, that language may be retained. **If the SOP and any older booklet conflict, the SOP wins.**
 
-Companion files (in a herd repo that uses this concepts file):
-- Report rules: `LA_REPORT_GUIDELINES.md`
-- Herd breeding goals / preferences: `GOALS.md` (herd-specific — not defined here)
-- Score tables: whatever LA score files that herd maintains
+This document is self-contained ADGA LA concepts only. It does not define herd-specific preferences or target bands.
 
 ---
 
@@ -581,7 +578,7 @@ Codes marked DQ / starred in Appendix A may affect category and/or Final Score. 
 
 ## Functional risks & mitigations
 
-Use this section when a breeding or selection package includes an undesirable extreme or a known functional concern. **Herd target bands and owner preferences belong in that herd’s `GOALS.md`** — this section only states biological/functional risks and usual mitigations.
+Use this section when a breeding or selection package includes an undesirable extreme or a known functional concern. This section states biological/functional risks and usual mitigations only — not herd-specific target bands or owner preferences.
 
 ### Rump Angle
 
@@ -637,7 +634,7 @@ Use this section when a breeding or selection package includes an undesirable ex
 
 1. Name the trait risk in plain language (using correct polarity from this file).  
 2. Cite the mitigation from this table when one exists.  
-3. Apply **herd preferences** (target bands, animals to protect) only from that herd’s `GOALS.md` / roster notes — do not invent them here.
+3. Do not invent herd-specific target bands or owner preferences here.
 
 ---
 
@@ -670,12 +667,12 @@ Use this section when a breeding or selection package includes an undesirable ex
 3. **Treating every linear as “higher is always better”** — SOP §2.4: linears describe; they do not define ideal by themselves.
 4. **Confusing structural Rump letter** with linear Rump Angle / Rump Width.
 5. **Assuming bucks have mammary linear scores** — RUH and other mammary linears are not recorded on bucks as applicable.
-6. **Inventing heritabilities** — use the herd’s `GOALS.md` priorities rather than fabricating numbers.
+6. **Inventing heritabilities** — do not fabricate numbers; cite known approximate ranges only when needed.
 7. **Ignoring miniature scales** — stature, rump width, udder depth, MSL, teat diameter, and teat length have official miniature inch→score tables in SOP Appendix A.
 8. **Treating RUSV as a 1–50 trait** — it is **0–4**.
 9. **Using absolute-inch RUH conversion** — mature RUH is body-relative (midpoint = 10, ¾ = 30, etc.).
 10. **Using `+` as the only Good Plus letter** — official SOP letter is **G** (`+` on older exports = same band).
-11. **Duplicating mitigations or herd preferences** outside this file / `GOALS.md`.
+11. **Mixing herd preferences into this file** — keep owner target bands and animal-specific priorities out of concepts.
 
 ---
 

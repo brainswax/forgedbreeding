@@ -13,18 +13,60 @@ python3 scripts/bis.py
 python3 scripts/herd_data.py
 ```
 
+## Document map & dependencies
+
+`README.md` is the only place that describes how documents relate. Prefer reading this map over chasing cross-links inside the files themselves.
+
+```text
+README.md  (this file — anchor)
+│
+├── DAIRY_CONCEPTS.md          self-contained (ADGA SOP only; no repo deps)
+├── GOALS.md                   → DAIRY_CONCEPTS.md (concepts only; once)
+├── HERD_ROSTER.md             self-contained
+├── HERD_BREEDING_ROSTER.md    → HERD_ROSTER.md only
+├── LA_SCORES_2026.md          optional → DAIRY_CONCEPTS.md (only if needed)
+├── LA_REFERENCE_SCORES.md     optional → DAIRY_CONCEPTS.md (only if needed)
+├── ESTIMATED_BUCK_PROFILE_TEMPLATE.md → scripts/bis.py only
+├── LA_REPORT_GUIDELINES.md    may use any source below (listed once in its Inputs table)
+│     ├── GOALS.md
+│     ├── DAIRY_CONCEPTS.md
+│     ├── LA_SCORES_2026.md
+│     ├── HERD_BREEDING_ROSTER.md
+│     ├── HERD_ROSTER.md
+│     ├── LA_REFERENCE_SCORES.md
+│     ├── reports/estimated-buck-profile-*.md
+│     └── scripts/bis.py
+└── reports/*                  generated outputs (not source-of-truth docs)
+```
+
+**Rules of thumb**
+
+| Document | May depend on |
+|----------|----------------|
+| `DAIRY_CONCEPTS.md` | ADGA sources only (no other repo files) |
+| `GOALS.md` | `DAIRY_CONCEPTS.md` when needed (avoid unnecessary refs) |
+| `HERD_ROSTER.md` | nothing else in the repo |
+| `HERD_BREEDING_ROSTER.md` | `HERD_ROSTER.md` only |
+| `LA_SCORES_2026.md` | `DAIRY_CONCEPTS.md` only if needed |
+| `LA_REFERENCE_SCORES.md` | `DAIRY_CONCEPTS.md` only if needed |
+| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | `scripts/bis.py` only |
+| `LA_REPORT_GUIDELINES.md` | any of the above (minimize; list each once) |
+| Any file | `README.md` if it needs the map |
+
+When a dependency is needed, name the file **once** near the top (or in one Inputs table). Do not spam the same path through the body.
+
 ## Core documents
 
 | File | Role |
 |------|------|
 | `GOALS.md` | Herd-specific breeding objectives and preferences |
 | `DAIRY_CONCEPTS.md` | Generic ADGA LA concepts (2025 Linear Appraisal SOP), polarity, risks & mitigations, terminology |
-| `LA_REPORT_GUIDELINES.md` | Generic report process / templates / **BIS** (no herd preference essays) |
+| `LA_REPORT_GUIDELINES.md` | Report process / templates / **BIS** |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect notes |
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks) |
 | `LA_SCORES_2026.md` | Current herd linear traits, categories, Final Scores |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners) |
-| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | Template for unappraised bucks |
+| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | Template for unappraised bucks (+ BIS script inputs) |
 
 ## Reports
 

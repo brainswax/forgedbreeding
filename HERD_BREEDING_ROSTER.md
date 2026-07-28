@@ -3,11 +3,7 @@
 **Last updated:** 2026-07-27  
 
 Animals **currently available for breeding**. Partner sets for Doe Breeding / Buck Breeding Reports come from this file only.  
-Names below are **Barn Names** from `HERD_ROSTER.md`.
-
-Identity, LA summaries, and other per-animal notes: `HERD_ROSTER.md`  
-Scores: `LA_SCORES_2026.md`  
-Reference / non-herd animals: `LA_REFERENCE_SCORES.md` (not available unless listed below)
+Barn Names and Reg #s must match `HERD_ROSTER.md` (identity / notes live there).
 
 ---
 
@@ -31,7 +27,7 @@ Reference / non-herd animals: `LA_REFERENCE_SCORES.md` (not available unless lis
 ## Maintain
 
 - Add/remove animals here when they enter or leave the breeding pool (use Barn Name + Reg #).
-- Keep matching entries in `HERD_ROSTER.md`.
+- Keep identity entries in sync with the herd roster.
 - Update **Last updated** when this list changes.
 
 ---

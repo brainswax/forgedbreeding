@@ -1,17 +1,15 @@
 # Estimated Buck Profile Template  
 **For young / unappraised bucks**  
-**Last updated:** 2026-07-27  
+**Last updated:** 2026-07-28  
 
 Use this when a buck does not yet have his own Linear Appraisal scores.  
 You supply the **full** LA reports (or raw score sheets) for the parents and any relevant progeny. The AI synthesizes the estimated transmitting profile from those complete sources.
-
-Feed this profile header + the full source reports together with `GOALS.md` and `LA_REPORT_GUIDELINES.md`.
 
 ---
 
 ## How to Use
 
-1. Fill in the short header below (name, status, links/pointers to source reports).
+1. Fill in the short header below (name, status, pedigree notes).
 2. Attach or paste the **complete** LA reports / score data for:
    - Sire
    - Dam
@@ -57,7 +55,7 @@ Using the complete LA reports listed above (do not rely on any pre-summaries):
 4. State confidence level and major data gaps.
 5. Provide a short Quick Reference paragraph suitable for use in pairing or herd reports.
 6. When ranking this buck against appraised herd sires, treat the estimates as directional only and weight real LA scores more heavily.
-7. Add a **Script inputs (BIS)** table (see below) so `scripts/bis.py` can load transmitting values without hardcoding.
+7. Add a **Script inputs (BIS)** table (see below) so the BIS script can load transmitting values without hardcoding.
 ```
 
 ### Script inputs (BIS) block (required for unappraised bucks used in breeding reports)

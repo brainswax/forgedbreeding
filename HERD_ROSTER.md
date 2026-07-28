@@ -4,11 +4,9 @@
 **Last updated:** 2026-07-27  
 
 Canonical ADGA registration identity for animals currently (or recently) owned at Forged Farm.  
-**Barn Name** is the everyday name to use in reports and conversation. Registered names below are authoritative for ADGA identity.  
-`LA_SCORES_2026.md` may use longer appraisal labels — map to animals via Reg # or Barn Name from this file.
+**Barn Name** is the everyday name to use in reports and conversation. Registered names below are authoritative for ADGA identity.
 
-Also holds per-animal notes (LA summary, strengths-to-protect, role, caveats).  
-Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presence here.
+Also holds per-animal notes (LA summary, strengths-to-protect, role, caveats). Presence here does not by itself mean the animal is currently available for breeding.
 
 ---
 
@@ -202,7 +200,6 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 ## Pedigree notes (herd)
 
 - **Full sibs / shared sires among herd does:** Lizbeth and Lux share sire Sleepnstag (different dams). Sapphire and Amber share sire Cupids Arrow (different dams). Snickers and Smithy share DOB and farm prefix but different parents.
-- Parent LA (if needed for Planning Reports) may live in `LA_REFERENCE_SCORES.md` when collected; absence there does not remove the animal from this herd file.
 
 ---
 

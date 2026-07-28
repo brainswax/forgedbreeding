@@ -7,7 +7,7 @@
 This document defines the owner’s breeding objectives and how trade-offs should be evaluated.  
 It is intended to be used as a shared context prompt for both Linear Appraisal (conformation) analysis and milk-test / production analysis.
 
-Trait definitions, polarity, functional risks, and mitigations: **`DAIRY_CONCEPTS.md`** (do not restate them here).
+Trait definitions, polarity, functional risks, and mitigations are in **`DAIRY_CONCEPTS.md`** — do not restate them here.
 
 ---
 
@@ -32,11 +32,11 @@ When a choice is projected to improve the primary metric but carries a functiona
 
 1. State the expected benefit to the primary metric clearly.  
 2. State the functional risk and its approximate severity (low / moderate / higher).  
-3. Pull practical mitigations from **`DAIRY_CONCEPTS.md`** (Functional risks & mitigations) where they apply.  
+3. Apply practical mitigations from the concepts document (Functional risks & mitigations) where they apply.  
 4. Present the package so the owner can decide whether the residual risk is acceptable.
 
 **Example language (conformation context):**  
-“This breeding is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. See `DAIRY_CONCEPTS.md` for whether width/other traits mitigate that risk. Overall package still looks favorable if the score gain materializes.”
+“This breeding is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. Width and other mitigations may reduce that risk. Overall package still looks favorable if the score gain materializes.”
 
 The same structure applies to production decisions (e.g., high production that may stress udder support or body condition).
 
@@ -46,11 +46,11 @@ The same structure applies to production decisions (e.g., high production that m
 
 - Prefer improvements that raise the primary metric *and* support longevity and soundness.  
 - Prefer to avoid extremes known to increase kidding difficulty, early udder breakdown, metabolic stress, or early culling — but do not treat them as automatic disqualifiers.  
-- Preserve named strengths on individual animals where possible (see `HERD_ROSTER.md` notes).  
+- Preserve named strengths on individual animals where possible.  
 - **Preferred Rump Angle band:** 30–35  
   - Steep scores below this band → improving toward 30–35 is desirable.  
   - Scores above 35 → protect from further flattening.  
-- When evaluating any breeding or selection, present expected primary-metric impact, main risks, and mitigations (from concepts).
+- When evaluating any breeding or selection, present expected primary-metric impact, main risks, and mitigations.
 
 ---
 
@@ -67,7 +67,7 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 7. Other mammary traits (fore attachment, rear udder height/arch, udder depth)  
 8. Rear leg set and lower-heritability structural details  
 
-Rump Angle selection follows the preferred band above; polarity and functional mitigations are in `DAIRY_CONCEPTS.md`.
+Rump Angle selection follows the preferred band above; use concepts polarity and functional mitigations when describing it.
 
 ---
 

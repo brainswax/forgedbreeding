@@ -2,7 +2,8 @@
 **Linear Appraisal Report Templates & Guidelines**  
 **Last updated:** 2026-07-28  
 
-Defines how to generate consistent Linear Appraisal (LA) reports. Trait definitions, scales, and polarity live in `DAIRY_CONCEPTS.md` (authoritative: ADGA Linear Appraisal SOP, Revised 3/2025).
+Defines how to generate consistent Linear Appraisal (LA) reports.  
+Repo file roles and allowed dependencies: see `README.md`.
 
 **Report types:**
 1. Individual Report
@@ -13,20 +14,32 @@ Defines how to generate consistent Linear Appraisal (LA) reports. Trait definiti
 
 ---
 
+## Inputs (read once per report job)
+
+| File | Use for |
+|------|---------|
+| `GOALS.md` | Objectives, trade-off framework, trait priorities, preferred Rump Angle band |
+| `DAIRY_CONCEPTS.md` | ADGA trait definitions, scales, polarity, terminology, functional risks & mitigations |
+| `LA_SCORES_2026.md` | Current herd linear traits, category letters, Final Scores |
+| `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks on hand) |
+| `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect / caveats |
+| `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners unless also on the breeding roster) |
+| `reports/estimated-buck-profile-*.md` | Estimated transmitting values for unappraised bucks |
+| `scripts/bis.py` | Breeding Impact Score implementation |
+
+---
+
 ## How to produce a report
 
 When asked to produce a report from these guidelines (e.g. *“Produce a Herd Report based on LA_REPORT_GUIDELINES.md”*), do the following without waiting for extra data:
 
-1. **Read required inputs**
-   - This file (templates + rules)
-   - `GOALS.md` (objectives, trade-off framework, trait priorities)
-   - `DAIRY_CONCEPTS.md` (**ADGA trait definitions, scales, polarity, terminology** — required so reports do not reverse or invent linear meanings)
-   - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
-   - `HERD_BREEDING_ROSTER.md` (**who is currently available** for breeding — does and bucks on hand)
-   - `HERD_ROSTER.md` (ADGA identity, Barn Names, LA summary, and other per-animal notes)
-   - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
-2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use the animals on `HERD_BREEDING_ROSTER.md` (scores from `LA_SCORES_2026.md`). For a Doe Breeding Report, compare against every buck listed as available on the roster (unless the prompt narrows the set). For a Buck Breeding Report, compare against every doe listed as available on the roster (unless the prompt narrows the set). **Never** treat `LA_REFERENCE_SCORES.md` animals as on-hand breeding partners unless they also appear on the roster.
-3. **Ground every claim in the score file and in `DAIRY_CONCEPTS.md`.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full ADGA trait names** in prose and tables; abbreviations are fine in compact score shorthand like `VEVV 88`. For trait polarity, risks, and mitigations, use `DAIRY_CONCEPTS.md`. For herd priorities and owner preferences, use `GOALS.md`. Do not copy preference or mitigation essays into reports.
+1. **Read the Inputs table above** (only the files needed for that report type).
+2. **Pick the report type** from the prompt. If the animal or pairing is named, use that. Otherwise:
+   - Herd Report → animals on the breeding roster; scores from the score table.
+   - Doe Breeding Report → every available buck on the breeding roster (unless the prompt narrows the set).
+   - Buck Breeding Report → every available doe on the breeding roster (unless the prompt narrows the set).
+   - Never treat reference-score animals as on-hand breeding partners unless they also appear on the breeding roster.
+3. **Ground every claim** in the score table and concepts. Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full ADGA trait names** in prose and tables; abbreviations are fine in compact score shorthand like `VEVV 88`. Pull polarity, risks, and mitigations from concepts; priorities and owner preferences from herd goals. Do not copy preference or mitigation essays into reports.
 
 **Example prompts that should work as-is:**
 - `Produce a Herd Report based on LA_REPORT_GUIDELINES.md`
@@ -39,21 +52,21 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 
 ## General Rules (all report types)
 
-1. **Primary objective** = maximize Final Score while supporting longevity and functional durability (see `GOALS.md`).
-2. Present every recommendation as a **package**: expected score impact + functional risks + mitigations (risks/mitigations from `DAIRY_CONCEPTS.md`; priorities from `GOALS.md`).
+1. **Primary objective** = maximize Final Score while supporting longevity and functional durability (per herd goals).
+2. Present every recommendation as a **package**: expected score impact + functional risks + mitigations (risks/mitigations from concepts; priorities from herd goals).
 3. Distinguish high-heritability / high-impact traits (short-to-medium term levers) from low-heritability traits (long-term focus). Explicitly note low-h² traits the animal or herd is **weak** in (need introduction) and **strong** in (need protection).
-4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from `HERD_ROSTER.md` when referring to herd animals in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (see `DAIRY_CONCEPTS.md`).
+4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from the herd roster in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (concepts language rules).
 5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
 6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
 7. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
-8. Style: clear headings, scannable bullets, actionable closings — not open-ended discussion. Prefer **Barn Names** from `HERD_ROSTER.md` in prose.
-9. For Doe Breeding Reports: compare **every available buck** from `HERD_BREEDING_ROSTER.md`; compute **BIS** for each pair; list **most → least by BIS**; primary pick = highest BIS.
-10. For Buck Breeding Reports: compare **every available doe** from `HERD_BREEDING_ROSTER.md`; compute BIS for each pair (same score as the doe-side report); list **most → least by BIS**; primary pick = highest BIS.
+8. Style: clear headings, scannable bullets, actionable closings — not open-ended discussion.
+9. For Doe Breeding Reports: compare **every available buck** on the breeding roster; compute **BIS** for each pair; list **most → least by BIS**; primary pick = highest BIS.
+10. For Buck Breeding Reports: compare **every available doe** on the breeding roster; compute BIS for each pair (same score as the doe-side report); list **most → least by BIS**; primary pick = highest BIS.
 11. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-[barn].md`, `breeding-[barn].md`, `herd-[herd-slug].md`, `planning-[buck]-x-[doe].md`.
 
 ### Trait priority lens
 
-Rank improvements using the ordered priorities in **`GOALS.md`**. Do not maintain a second hardcoded priority list here.
+Rank improvements using the ordered priorities in herd goals. Do not maintain a second hardcoded priority list here.
 
 ### Breeding Impact Score (BIS)
 
@@ -65,7 +78,7 @@ BIS = GapClosure − RiskPenalty − ConfidencePenalty
 
 - Higher = more preferred for expected net LA improvement (after risks).
 - Round to **1 decimal**. Incomplete doe LA → **BIS N/A** (list last).
-- Implementation: `scripts/bis.py` (animals/scores from markdown; Rump Angle preference band from `GOALS.md` when present). **Do not hardcode herd animals or owner preferences in scripts.**
+- Implementation: the BIS script listed in Inputs (loads animals/scores from markdown; Rump Angle preference band from herd goals when present). **Do not hardcode herd animals or owner preferences in scripts.**
 
 | BIS | Meaning |
 |-----|---------|
@@ -74,7 +87,7 @@ BIS = GapClosure − RiskPenalty − ConfidencePenalty
 | **Negative** | Risks, dilution, or missing mammary proof outweigh gains |
 | **N/A** | Cannot score (incomplete LA) |
 
-**GapClosure** — weighted traits (default weights follow typical GOALS leverage):
+**GapClosure** — weighted traits (default weights follow typical goals leverage):
 
 | Trait | Key | Weight (W) |
 |-------|-----|------------|
@@ -93,9 +106,9 @@ For each trait with numeric doe score `D` and partner value `P` (except Rump Ang
 2. **Dilution** (doe at/above 32 and partner lower): `W × max((P−D)/5, −1.5) × 0.5`.
 3. Otherwise 0. Partner unscored → 0 for that trait.
 
-**Rump Angle GapClosure:** If `GOALS.md` defines `Preferred Rump Angle band: LOW–HIGH`, credit partners closer to that band than the doe. If no band is defined, skip RA GapClosure.
+**Rump Angle GapClosure:** If herd goals define `Preferred Rump Angle band: LOW–HIGH`, credit partners closer to that band than the doe. If no band is defined, skip RA GapClosure.
 
-**RiskPenalty** (functional basis in `DAIRY_CONCEPTS.md`):
+**RiskPenalty** (functional basis in concepts):
 
 | Condition | Penalty |
 |-----------|---------|
@@ -108,11 +121,11 @@ For each trait with numeric doe score `D` and partner value `P` (except Rump Ang
 
 **ConfidencePenalty:** **`+2.0`** if partner is estimated / unappraised; **`0`** if partner has own LA.
 
-**Report requirements:** BIS-descending order; BIS in headings; Side-by-Side BIS row preferred; primary = highest BIS. Discuss risks/mitigations via `DAIRY_CONCEPTS.md` — do not paste preference or mitigation tables into every report.
+**Report requirements:** BIS-descending order; BIS in headings; Side-by-Side BIS row preferred; primary = highest BIS. Discuss risks/mitigations from concepts — do not paste preference or mitigation tables into every report.
 
 ### Miniature stature scale (height → expected score)
 
-Official miniature inch→score table from **SOP Appendix A** (same table in `DAIRY_CONCEPTS.md` — Stature). Stature is measured and recorded as a linear on all goats [2024].
+Official miniature inch→score table from ADGA Linear Appraisal SOP Appendix A. Stature is measured and recorded as a linear on all goats [2024].
 
 | Height (inches) | Expected Linear Score |
 |-----------------|-----------------------|
@@ -159,16 +172,16 @@ then compare with the official LA stature score.
 - Flag any functional/longevity concerns
 
 ## Highest-ROI Improvement Targets
-Ranked easiest / highest-leverage traits based on: current score gap, heritability, scorecard weight, GOALS.md priorities.
+Ranked easiest / highest-leverage traits based on: current score gap, heritability, scorecard weight, herd-goal priorities.
 
 ## Lower-Priority or Harder Traits
 Low impact, already adequate, or low-heritability (slow to change).
 
 ## Breeding Notes
 - Preferred buck type or top on-hand buck by **BIS** (cite BIS and point to `reports/breeding-[barn].md` for the full ranking)
-- Key risks in offspring (from scores + `DAIRY_CONCEPTS.md`)
-- Mitigations (from `DAIRY_CONCEPTS.md` when applicable)
-- Special notes for named strengths-to-protect (from `HERD_ROSTER.md` / `GOALS.md`)
+- Key risks in offspring (from scores + concepts)
+- Mitigations (from concepts when applicable)
+- Special notes for named strengths-to-protect (from herd roster / herd goals)
 ```
 
 ### Type-specific notes
@@ -177,7 +190,6 @@ Low impact, already adequate, or low-heritability (slow to change).
 - For young first-fresheners, note that some mammary traits may still mature.
 - Omit owner-height lines when no measurement is available (do not invent heights).
 - In **Breeding Notes**, name the current top on-hand buck by **BIS** and state main package risks; do not re-litigate the full buck comparison here.
-- Trait terminology and mitigations: `DAIRY_CONCEPTS.md`. Herd preferences: `GOALS.md`.
 - Write reports to `reports/` as `individual-[barn-name].md`.
 
 ---
@@ -303,7 +315,7 @@ Broader observations (age structure, strengths-to-protect, re-appraisal timing, 
 **Doe Final Score:** GAEV 84
 **Lactation / appraisal context:** (e.g. first-freshener 2026; strengths to protect from roster/goals)
 **Bucks compared (BIS order):** [list names + Final Scores or “estimated” + BIS, highest first]
-**Doe priorities this breeding:** (3–5 bullets from her gaps + strengths to protect, ordered by GOALS.md leverage)
+**Doe priorities this breeding:** (3–5 bullets from her gaps + strengths to protect, ordered by herd-goal leverage)
 
 ## Doe Snapshot
 2–4 sentences: overall quality, binding limits, and what must not be lost in offspring.
@@ -346,10 +358,10 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 ```
 
 ### Type-specific notes
-- Default buck set = **Available bucks** in `HERD_BREEDING_ROSTER.md` (not reference-score animals).
-- Rank and recommend using **BIS** (`scripts/bis.py` / § Breeding Impact Score); do not hand-rank against the score without stating why.
+- Default buck set = **Available bucks** on the breeding roster (not reference-score animals).
+- Rank and recommend using **BIS** (§ Breeding Impact Score); do not hand-rank against the score without stating why.
 - Ground pros/cons in **numbers** relative to this doe, not generic buck praise.
-- When `HERD_ROSTER.md` or `GOALS.md` names strengths to protect, those must appear in prose and may feed BIS risk penalties.
+- When the herd roster or herd goals name strengths to protect, those must appear in prose and may feed BIS risk penalties.
 - Estimated bucks: label every claim as estimated; BIS already applies ConfidencePenalty.
 - Keep the Individual Report’s breeding notes consistent if one already exists; this report should be able to stand alone.
 - Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name).
@@ -368,7 +380,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 **Buck Final Score:** VGE 88 (or “Estimated” + pointer to estimated profile)
 **Appraisal / profile context:** (e.g. appraised 2026; or unappraised — using estimated transmitting profile)
 **Does compared (BIS order):** [list names + Final Scores + BIS, highest first]
-**Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by GOALS.md leverage)
+**Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by herd-goal leverage)
 
 ## Buck Snapshot
 2–4 sentences: overall quality / estimated transmitting outlook, clearest strengths, and main risks he brings to a breeding.
@@ -391,7 +403,7 @@ List **most → least preferred by BIS**. Incomplete LA does appear last as **BI
 (repeat for every available doe, in BIS order)
 
 ## Side-by-Side (optional but preferred)
-Compact table: each doe vs the buck’s priority transmitting traits (e.g. Medial Suspensory Ligament, Teat Placement, Dairyness, Rump Width, Rump Angle, Strength). Include a **BIS** row. Use doe scores from `LA_SCORES_2026.md`; for the buck, use his own scores or estimated outlook (marked estimated). Column order = BIS order.
+Compact table: each doe vs the buck’s priority transmitting traits (e.g. Medial Suspensory Ligament, Teat Placement, Dairyness, Rump Width, Rump Angle, Strength). Include a **BIS** row. Use doe scores from the score table; for the buck, use his own scores or estimated outlook (marked estimated). Column order = BIS order.
 
 ## Recommendation
 **Primary pick:** [Doe] (BIS +X.X) — why this package best uses his strengths without stacking his risks (expected Final Score / trait impact + main risk + mitigation).
@@ -415,7 +427,7 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 ```
 
 ### Type-specific notes
-- Default doe set = **Available does** in `HERD_BREEDING_ROSTER.md` (exclude only if the prompt says so; check `HERD_ROSTER.md` for incomplete-LA or other per-animal caveats).
+- Default doe set = **Available does** on the breeding roster (exclude only if the prompt says so; check the herd roster for incomplete-LA or other per-animal caveats).
 - Rank and recommend using **BIS**; pair scores must match the corresponding Doe Breeding Report.
 - Ground pros/cons in **numbers** relative to this buck, not generic doe praise.
 - Frame each doe as: what the buck **improves in her**, what she **covers for him**, and what they **risk stacking**.
