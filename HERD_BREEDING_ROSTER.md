@@ -37,9 +37,9 @@ Use this file — not `LA_REFERENCE_SCORES.md` and not every row in `LA_SCORES_2
 
 | Reg #     | Name                      | DOB        | LA / notes                                                                 | Role |
 |-----------|---------------------------|------------|-----------------------------------------------------------------------------|------|
-| PD2277726 | Michael Darling           | 2023-01-09 | `VGE 88` (2026)                                                             | Herd sire |
-| PD2380421 | AX Smithy                 | 2024-03-18 | `VVE 86` (2026)                                                             | Herd sire |
-| —         | Springwater U Jane's Finale | —        | Unappraised; estimated profile: `reports/estimated-buck-profile-janes-finale.md` | Young / third buck |
+| PD2277726 | Michael Darling             | 2023-01-09 | `VGE 88` (2026)                                                             | Herd sire |
+| PD2380421 | AX Smithy                   | 2024-03-18 | `VVE 86` (2026)                                                             | Herd sire |
+| PD2487767 | Springwater U Jane's Finale | 2026-02-22 | Unappraised (ET; ~5 mo as of roster date); estimated profile: `reports/estimated-buck-profile-janes-finale.md` | Young / third buck |
 
 ---
 

@@ -8,7 +8,7 @@ Full Linear Appraisal records. One row per evaluation.
 
 ## FARM OLDESOUTH LMT UNLIMITED (PD1896060)
 
-**Role:** Sire of Springwater U Jane's Finale  
+**Role:** Sire of Springwater U Jane's Finale (PD2487767)
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2017-08-24  
 **Sex:** Male  
@@ -34,7 +34,7 @@ Full Linear Appraisal records. One row per evaluation.
 
 ## SPRINGWATER BF JANE DOE (PD1775314)
 
-**Role:** Dam of the young/third buck (Springwater U Jane's Finale)  
+**Role:** Dam of Springwater U Jane's Finale (PD2487767)
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2016-03-29  
 **Sex:** Female  
@@ -55,6 +55,30 @@ Full Linear Appraisal records. One row per evaluation.
 - Final Score format in reports: `VGEV 86`, `VVVV 87`, `++VV 85` (adjust letters to match exact category order used in herd reports: typically GA / DS / Body / MMY or as shown).  
 - ST missing on 2022 appraisal in source data.  
 - RUSV = 1 on 2022 appraisal (unusual; verify if data entry or actual score).
+
+---
+
+## SPRINGWATER U JANE'S FINALE (PD2487767)
+
+**Role:** Young / third Forged Farm herd buck (unappraised)  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**DOB:** 2026-02-22  
+**Sex:** Male  
+**Status:** Alive  
+**Description:** Buckskin  
+**Ears:** Erect | **Horns:** Disbudded  
+**Tattoo:** RE:FMG LE:V16  
+**Breeding method:** Artificial (ET)  
+**Breeder:** Nancy Boling (1520488)  
+**Owner:** Brian Denton (1660541)  
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
+**Dam:** SPRINGWATER BF JANE DOE (PD1775314)  
+
+**LA scores:** None yet (too young as of 2026-07-27).  
+
+**Notes**  
+- Estimated transmitting profile: `reports/estimated-buck-profile-janes-finale.md`.  
+- Listed on `HERD_BREEDING_ROSTER.md` as available young / third buck.
 
 ---
 

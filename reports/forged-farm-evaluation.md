@@ -52,7 +52,7 @@ Concrete actions for the next 1–3 generations:
 ## Buck Utilization Summary
 - **Michael Darling (VGE 88)**: Primary herd sire for balance, strength, and capacity. Highest immediate utility for lifting overall quality without extreme risk.
 - **AX Smithy (VVE 86)**: Solid young option for stature and strength; best used on does that already supply better width or mammary traits. Monitor rump-width transmission closely.
-- Young third buck (not yet scored in this data set): Evaluate once parental scores and his own LA are available; priority will be whether he improves MSL/teats/width relative to the two existing bucks.
+- **Springwater U Jane's Finale (PD2487767):** Young third buck (DOB 2026-02-22; ET; unappraised). Use estimated profile in `reports/estimated-buck-profile-janes-finale.md` until his own LA; priority will be whether he improves MSL/teats/width relative to the two existing bucks.
 
 ## Strategic Notes
 Age structure is young (most does first-lactation 2024–2025; Tinkles is a 2025 first-freshener). Mammary traits on the youngest animals may still mature — re-appraise after subsequent lactations. Favorites Snickers and Tinkles should be bred with explicit protection of their current rump angles and (for Snickers) body depth. The herd’s ceiling is currently limited more by mammary support traits than by frame or dairy character; addressing MSL and teat placement will move Final Scores and functional durability farther and faster than any other single focus. Consistency will come from deliberately retaining the good capacity and rear-udder traits already present while systematically diluting the shared mammary weaknesses.

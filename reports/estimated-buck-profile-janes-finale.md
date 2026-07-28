@@ -1,6 +1,16 @@
-# Estimated Buck Profile: Springwater U Jane's Finale
+# Estimated Buck Profile: Springwater U Jane's Finale (PD2487767)
 
-**Status:** Unappraised (young / third herd buck)  
+**LA status:** Unappraised (young / third herd buck)  
+**ADGA status:** Alive  
+**DOB:** 2026-02-22  
+**Breed:** Purebred Nigerian Dwarf (100% D)  
+**Sex:** Male  
+**Description:** Buckskin  
+**Ears:** Erect | **Horns:** Disbudded  
+**Tattoo:** RE:FMG LE:V16  
+**Breeding method:** Artificial (ET)  
+**Breeder:** Nancy Boling (1520488)  
+**Owner:** Brian Denton (1660541)  
 **Pedigree:** Farm Oldesouth LMT Unlimited (PD1896060) × Springwater BF Jane Doe (PD1775314)  
 **Source data:** `LA_REFERENCE_SCORES.md` — Unlimited (2 appraisals), Jane Doe (3 appraisals), 24 Unlimited daughters (+ 1 Unlimited son for frame corroboration)  
 **Confidence:** Moderate overall — high for Unlimited’s transmitting pattern; lower for Jane Doe–specific maternal pull (no Finale full sisters in the reference set)
@@ -130,7 +140,7 @@ When ranking Finale against **Michael Darling** (`VGE 88`) or **AX Smithy** (`VV
 
 ## Quick Reference
 
-Springwater U Jane's Finale (Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and persistently soft teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael Darling and Smithy’s real Linear Appraisal more heavily in buck rankings until then.
+Springwater U Jane's Finale (PD2487767; Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and persistently soft teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael Darling and Smithy’s real Linear Appraisal more heavily in buck rankings until then.
 
 ---
 
