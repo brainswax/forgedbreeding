@@ -106,7 +106,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 
 | Trait | Estimated transmitting outlook | Notes |
 |-------|--------------------------------|-------|
-| **Rump Angle** | Intermediate (~27–30) | Not a primary lever (scale: 0 steep → 50 flat); watch extremes on individual breedings; use width as mitigation when flattening |
+| **Rump Angle** | Intermediate (~27–30) | Prefer herd band 30–35 (`GOALS.md`); width matters for kidding when angle is ~30+ |
 | **Medial Suspensory Ligament / mammary support** | Modest positive vs herd floor; not elite | ~mid-20s expected influence; better than current Forged Farm doe suspensory, below ideal |
 | **Teat traits** | Placement soft (~20–22); diameter variable | Do not choose Finale to fix teat placement; screen partner teats carefully |
 | **Dairyness** | Likely strength | One of his clearest uses on low-dairyness does (e.g. Snickers-type) |
@@ -160,7 +160,7 @@ When ranking Finale against **Michael** (`VGE 88`) or **Smithy** (`VVE 86`), tre
 
 ## Quick Reference
 
-Finale (PD2487767; Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and persistently soft teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael and Smithy’s real Linear Appraisal more heavily in buck rankings until then.
+Finale (PD2487767; Unlimited × Jane Doe) is estimated to transmit **strong dairyness, usable rump width, and a capacious mid–high-80s score package**, with **only intermediate Medial Suspensory Ligament (~mid-20s) and wide teat placement (~21)** — patterns shared by Unlimited’s daughters and reinforced by Jane Doe’s own scores. Best used to improve low-dairyness / narrow-rumped does; do not rely on him to fix teat placement or deliver elite suspensory. Confidence is moderate until he is appraised; weight Michael and Smithy’s real Linear Appraisal more heavily when BIS values are close.
 
 ---
 

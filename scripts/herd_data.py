@@ -11,7 +11,23 @@ ROOT = Path(__file__).resolve().parents[1]
 BREEDING_ROSTER = ROOT / "HERD_BREEDING_ROSTER.md"
 HERD_ROSTER = ROOT / "HERD_ROSTER.md"
 LA_SCORES = ROOT / "LA_SCORES_2026.md"
+GOALS = ROOT / "GOALS.md"
 ESTIMATED_PROFILES_GLOB = "reports/estimated-buck-profile-*.md"
+
+
+def load_preferred_ra_band(path: Path = GOALS) -> tuple[float, float] | None:
+    """Parse `Preferred Rump Angle band: LOW–HIGH` from GOALS.md. None if absent."""
+    if not path.exists():
+        return None
+    text = path.read_text()
+    m = re.search(
+        r"Preferred Rump Angle band:\*?\*?\s*(\d+(?:\.\d+)?)\s*[–\-]\s*(\d+(?:\.\d+)?)",
+        text,
+        re.I,
+    )
+    if not m:
+        return None
+    return float(m.group(1)), float(m.group(2))
 
 # LA_SCORES_2026.md column header → BIS trait key
 SCORE_COLUMNS = {
@@ -67,7 +83,7 @@ def parse_breeding_roster(path: Path = BREEDING_ROSTER) -> tuple[list[tuple[str,
 
 
 def parse_herd_roster_meta(path: Path = HERD_ROSTER) -> dict[str, dict]:
-    """Map reg# → {barn_name, sex, notes, protect_ra}."""
+    """Map reg# → {barn_name, sex, notes, owner_height_in}."""
     text = path.read_text()
     meta: dict[str, dict] = {}
     current_reg = None
@@ -76,20 +92,22 @@ def parse_herd_roster_meta(path: Path = HERD_ROSTER) -> dict[str, dict]:
     def flush():
         nonlocal current_reg, current
         if current_reg and current.get("barn_name"):
-            notes = current.get("notes") or ""
-            current["protect_ra"] = bool(
-                re.search(r"protect\s+liked\s+flatter\s+rump\s+angle", notes, re.I)
-            )
             meta[current_reg] = current
         current_reg = None
         current = {}
 
     for line in text.splitlines():
-        heading = re.match(r"^### .+\((PD\d+)\)\s*$", line)
+        heading = re.match(r"^### (.+)\((PD\d+)\)\s*$", line)
         if heading:
             flush()
-            current_reg = heading.group(1)
-            current = {"barn_name": None, "sex": None, "notes": ""}
+            current_reg = heading.group(2)
+            current = {
+                "barn_name": None,
+                "sex": None,
+                "notes": "",
+                "owner_height_in": None,
+                "registered_name": heading.group(1).strip(),
+            }
             continue
         if current_reg is None:
             continue
@@ -97,6 +115,8 @@ def parse_herd_roster_meta(path: Path = HERD_ROSTER) -> dict[str, dict]:
             current["barn_name"] = m.group(1).strip()
         elif m := re.match(r"^\*\*Sex:\*\*\s*(.+?)\s*$", line):
             current["sex"] = m.group(1).strip()
+        elif m := re.match(r"^\*\*Owner height:\*\*\s*([0-9.]+)\s*\"?\s*$", line):
+            current["owner_height_in"] = float(m.group(1))
         elif m := re.match(r"^\*\*Notes:\*\*\s*(.+?)\s*$", line):
             current["notes"] = m.group(1).strip()
     flush()
@@ -228,17 +248,24 @@ def load_breeding_animals(
     does: dict[str, dict | None] = {}
     for barn, reg in does_list:
         animal_meta = meta.get(reg, {})
-        protect_ra = bool(animal_meta.get("protect_ra"))
         row = scores.get(reg)
         if row is None or row.get("incomplete"):
             does[barn] = None
             continue
+        ra = row["ra"]
+        band = load_preferred_ra_band()
+        protect_above = band[1] if band else None
         does[barn] = {
             **{k: row[k] for k in TRAIT_KEYS},
-            "protect_ra": protect_ra,
+            # Protect from further flattening when already above GOALS preferred upper bound
+            "protect_ra": (
+                protect_above is not None and ra is not None and ra > protect_above
+            ),
             "fs": row["fs"],
             "reg": reg,
             "estimated": False,
+            "owner_height_in": animal_meta.get("owner_height_in"),
+            "registered_name": animal_meta.get("registered_name"),
         }
 
     bucks: dict[str, dict] = {}

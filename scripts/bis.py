@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Breeding Impact Score (BIS) — see LA_REPORT_GUIDELINES.md § Breeding Impact Score.
 
-Herd animals and scores are loaded from markdown via herd_data.py — nothing animal-specific
-is hardcoded here.
+Herd animals and scores are loaded from markdown via herd_data.py.
+Rump Angle preference band is loaded from GOALS.md when present — not hardcoded.
 """
 
 from __future__ import annotations
 
-from herd_data import load_breeding_animals
+from herd_data import load_breeding_animals, load_preferred_ra_band
 
-# Formula constants (not herd data) — keep in sync with LA_REPORT_GUIDELINES.md
+# Formula constants (not herd preferences) — keep in sync with LA_REPORT_GUIDELINES.md
 WEIGHTS = {
     "msl": 5.0,
     "tp": 4.0,
@@ -19,10 +19,14 @@ WEIGHTS = {
     "st": 2.0,
     "stat": 1.0,
 }
+RA_WEIGHT = 2.0
+# Relatively level rump range on ADGA linear scale (see DAIRY_CONCEPTS.md)
+LEVEL_RA_THRESHOLD = 30.0
+NARROW_RW_THRESHOLD = 26.0
 GAP_THRESHOLD = 30
 STRONG_THRESHOLD = 32
-ESTIMATE_POSITIVE_MULT = 0.50
-CONFIDENCE_PENALTY_ESTIMATED = 8.0
+ESTIMATE_POSITIVE_MULT = 0.75
+CONFIDENCE_PENALTY_ESTIMATED = 2.0
 
 
 def trait_contrib(weight: float, doe_v, partner_v, estimated: bool) -> float:
@@ -38,62 +42,95 @@ def trait_contrib(weight: float, doe_v, partner_v, estimated: bool) -> float:
     return 0.0
 
 
-def gap_closure(doe: dict, buck: dict) -> float:
-    return sum(
+def ra_distance(score: float, low: float, high: float) -> float:
+    """0 if inside preferred band; else how far outside."""
+    if low <= score <= high:
+        return 0.0
+    if score < low:
+        return low - score
+    return score - high
+
+
+def ra_contrib(doe_ra, partner_ra, estimated: bool, band: tuple[float, float] | None) -> float:
+    if band is None or doe_ra is None or partner_ra is None:
+        return 0.0
+    low, high = band
+    improvement = ra_distance(doe_ra, low, high) - ra_distance(partner_ra, low, high)
+    if improvement > 0:
+        c = RA_WEIGHT * min(improvement / 5.0, 2.0)
+        return c * ESTIMATE_POSITIVE_MULT if estimated else c
+    if improvement < 0:
+        return RA_WEIGHT * max(improvement / 5.0, -1.5) * 0.5
+    return 0.0
+
+
+def gap_closure(doe: dict, buck: dict, band: tuple[float, float] | None) -> float:
+    total = sum(
         trait_contrib(w, doe[k], buck[k], buck["estimated"])
         for k, w in WEIGHTS.items()
     )
+    total += ra_contrib(doe.get("ra"), buck.get("ra"), buck["estimated"], band)
+    return total
 
 
-def risk_penalty(doe: dict, buck: dict) -> tuple[float, list[str]]:
+def risk_penalty(
+    doe: dict, buck: dict, band: tuple[float, float] | None
+) -> tuple[float, list[str]]:
     pen = 0.0
     reasons: list[str] = []
-    dra, pra, prw = doe["ra"], buck["ra"], buck["rw"]
+    dra, pra, prw = doe.get("ra"), buck.get("ra"), buck.get("rw")
 
-    if doe["protect_ra"] and dra is not None and pra is not None:
-        if pra > dra:
-            p = 2.0 + 0.4 * (pra - dra)
-            pen += p
-            reasons.append(f"further flatten liked RA +{p:.1f}")
-        elif pra < dra - 4:
-            p = 1.5 + 0.25 * (dra - pra)
-            pen += p
-            reasons.append(f"steepen liked RA +{p:.1f}")
+    protect_above = band[1] if band else None
+    if (
+        protect_above is not None
+        and dra is not None
+        and pra is not None
+        and dra > protect_above
+        and pra > dra
+    ):
+        p = 2.0 + 0.4 * (pra - dra)
+        pen += p
+        reasons.append(f"further flatten RA>{protect_above:.0f} +{p:.1f}")
 
-    if dra is not None and pra is not None and dra <= 25 and pra > dra:
-        amt = pra - dra
-        if prw is not None and prw < 26:
-            p = min(1.0 + 0.35 * amt, 5.0)
-            pen += p
-            reasons.append(f"flatten steep without width buffer +{p:.1f}")
-        else:
-            p = min(0.3 + 0.12 * amt, 2.0)
-            pen += p
-            reasons.append(f"flatten steep with width buffer +{p:.1f}")
+    # Level-range angle + narrow width (DAIRY_CONCEPTS kidding mitigation)
+    if (
+        pra is not None
+        and pra >= LEVEL_RA_THRESHOLD
+        and prw is not None
+        and prw < NARROW_RW_THRESHOLD
+    ):
+        pen += 1.5
+        reasons.append(f"RA≥{LEVEL_RA_THRESHOLD:.0f} with narrow width +1.5")
 
-    if doe["msl"] is not None and doe["msl"] <= 20:
-        p_msl = buck["msl"]
+    if doe.get("msl") is not None and doe["msl"] <= 20:
+        p_msl = buck.get("msl")
         if p_msl is None:
             pen += 1.5
             reasons.append("unproven MSL +1.5")
         elif p_msl <= 22:
             pen += 3.0
-            reasons.append("soft MSL stack +3.0")
+            reasons.append("weak MSL stack +3.0")
 
-    if doe["tp"] is not None and doe["tp"] <= 21:
-        p_tp = buck["tp"]
+    if doe.get("tp") is not None and doe["tp"] <= 21:
+        p_tp = buck.get("tp")
         if p_tp is None:
             pen += 1.0
-            reasons.append("unproven TP +1.0")
+            reasons.append("unproven teat placement +1.0")
         elif p_tp <= 22:
             pen += 2.5
-            reasons.append("soft TP stack +2.5")
+            reasons.append("wide teat placement stack +2.5")
 
     return pen, reasons
 
 
-def bis_pair(doe: dict | None, buck: dict) -> dict:
+def bis_pair(
+    doe: dict | None,
+    buck: dict,
+    band: tuple[float, float] | None = None,
+) -> dict:
     """Score one doe×buck pair from loaded trait dicts."""
+    if band is None:
+        band = load_preferred_ra_band()
     if doe is None:
         return {
             "bis": None,
@@ -102,8 +139,8 @@ def bis_pair(doe: dict | None, buck: dict) -> dict:
             "confidence_penalty": None,
             "reasons": ["incomplete doe LA"],
         }
-    gc = gap_closure(doe, buck)
-    rp, reasons = risk_penalty(doe, buck)
+    gc = gap_closure(doe, buck, band)
+    rp, reasons = risk_penalty(doe, buck, band)
     cp = CONFIDENCE_PENALTY_ESTIMATED if buck["estimated"] else 0.0
     score = round(gc - rp - cp, 1)
     return {
@@ -122,7 +159,8 @@ def format_bis(score) -> str:
 
 
 def rank_bucks_for_doe(doe_name: str, does: dict, bucks: dict) -> list[tuple[str, dict]]:
-    rows = [(b, bis_pair(does[doe_name], bucks[b])) for b in bucks]
+    band = load_preferred_ra_band()
+    rows = [(b, bis_pair(does[doe_name], bucks[b], band)) for b in bucks]
     rows.sort(
         key=lambda x: (x[1]["bis"] is not None, x[1]["bis"] if x[1]["bis"] is not None else -999),
         reverse=True,
@@ -131,7 +169,8 @@ def rank_bucks_for_doe(doe_name: str, does: dict, bucks: dict) -> list[tuple[str
 
 
 def rank_does_for_buck(buck_name: str, does: dict, bucks: dict) -> list[tuple[str, dict]]:
-    rows = [(d, bis_pair(does[d], bucks[buck_name])) for d in does]
+    band = load_preferred_ra_band()
+    rows = [(d, bis_pair(does[d], bucks[buck_name], band)) for d in does]
     rows.sort(
         key=lambda x: (x[1]["bis"] is not None, x[1]["bis"] if x[1]["bis"] is not None else -999),
         reverse=True,
@@ -147,15 +186,18 @@ def bis(doe_name: str, buck_name: str, does: dict | None = None, bucks: dict | N
 
 
 if __name__ == "__main__":
+    band = load_preferred_ra_band()
+    print(f"Preferred RA band from GOALS.md: {band}")
     does, bucks = load_breeding_animals()
 
-    print("Doe Breeding rankings (bucks by BIS)")
+    print("\nDoe Breeding rankings (bucks by BIS)")
     for d in does:
         print(f"\n{d}")
         for b, m in rank_bucks_for_doe(d, does, bucks):
             print(
                 f"  {b:8} {format_bis(m['bis'])}  "
                 f"(gap={m['gap_closure']}, risk={m['risk_penalty']}, conf={m['confidence_penalty']})"
+                f"  {m['reasons']}"
             )
 
     print("\nBuck Breeding rankings (does by BIS)")

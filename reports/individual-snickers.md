@@ -1,42 +1,43 @@
-# Individual Report: Snickers (PD2380420)
+# Individual Report: Cade's Lil Farm SW Snickers (PD2380420)
 
+**Barn Name:** Snickers  
 **Age / Lactation at appraisal:** ~2y 4m (DOB 2024-03-18); Lactation 1 (appraised 2026-07-26)  
 **Final Score:** `GAEV 84`  
-**Strengths to protect:** Liked flatter Rump Angle (36; scale: 0 steep → 50 flat); exceptional Body Depth (47)
+**Owner height:** 20.25″ → expected stature score ≈ 21–22  
+**Official LA stature score:** 22  
+**Strengths to protect:** Rump Angle 36 (above preferred 30–35 — no further flattening); Body Depth 47
 
 ## Summary
-Snickers is a capacity standout (Body Capacity `E`, Body Depth 47) with a liked flatter Rump Angle (36) that must not be further flattened. Score is capped by Dairy Strength `A` (Dairyness 23), narrow Rump Width (23), soft mammary support (MSL 18, Teat Placement 20), and General Appearance `G` (Feet/Rump `A`, Rear Legs Side View 21). Highest-ROI path is dairyness + width + mammary support while protecting angle and depth.
+Snickers is a capacity standout (Body Capacity `E`, Body Depth 47) with Rump Angle 36 just above the preferred band — protect from further flattening. Score is limited by Dairy Strength `A` (Dairyness 23), narrow Rump Width (23), weak Medial Suspensory Ligament (18), and wide Teat Placement (20). Owner height and LA stature align (~21–22). Highest-ROI path is dairyness + width + mammary support while holding depth and not pushing RA higher.
 
 ## Strengths
-- **Body Depth 47** / Body Capacity `E` / Strength 36 — exceptional capacity; protect depth as a defining asset
-- **Rump Angle 36** — liked flatter angle; protect against further flattening (bucks with RA > 36). Lower-RA bucks steepen the liked look but do not flatten it
-- **Fore Udder Attachment 39** — strong fore attachment under Mammary `V`
-- **Rear Udder Height 31 / Rear Udder Arch 32** — usable rear udder; arch is low-h² — don’t casually lose it
+- **Body Depth 47** / Body Capacity `E` / Strength 36 — protect depth
+- **Rump Angle 36** — slightly above preferred 30–35; protect from further flattening
+- **Fore Udder Attachment 39** under Mammary `V`
+- **Rear Udder Height 31 / Rear Udder Arch 32** — usable; arch low-h²
 
 ## Weaknesses / Areas for Improvement
-1. **Dairyness 23** / Dairy Strength `A` — largest high-leverage score gap after mammary support
-2. **Medial Suspensory Ligament 18** and **Teat Placement 20 / Teat Diameter 21** — soft support/teat package
-3. **Rump Width 23** — narrow; also weak buffer if angle moves
-4. **Rear Legs Side View 21** — soft set (low-h² — slow fix; flag for long-term strategy)
+1. **Dairyness 23** / Dairy Strength `A`
+2. **Medial Suspensory Ligament 18**; **Teat Placement 20** (wide); **Teat Diameter 21** (narrow)
+3. **Rump Width 23** — narrow
+4. **Rear Legs Side View 21** — low-h²; long-term track
 5. **Feet `A` / structural Rump `A`** — drag on General Appearance `G`
-6. **Stature 22** — short side; only prioritize if height goals demand it
 
 ## Highest-ROI Improvement Targets
-1. **Dairyness**
-2. **Medial Suspensory Ligament** and **Teat Placement**
-3. **Rump Width**
-4. Protect **Rump Angle 36** and **Body Depth 47** in every pairing decision
+1. Dairyness  
+2. Medial Suspensory Ligament and Teat Placement  
+3. Rump Width  
+4. Keep RA from rising further; holding near preferred is fine  
 
 ## Lower-Priority or Harder Traits
-- **Rear Legs Side View / Feet** — low-h² or slow structural polish; track, don’t over-weight for one breeding season
-- **Rump Angle** — not a primary improvement target; it is a **protection** target (no further flattening)
-- **Udder Depth 33** — intermediate; not the binding limit
-- **Stature** — secondary unless breeding for taller frame deliberately
+- Rear legs / feet — slow structural polish  
+- Stature — matches owner height; not a lever  
+- Udder Depth 33 — intermediate  
 
 ## Breeding Notes
-- **Preferred on-hand buck (BIS):** **Michael** (`VGE 88`, BIS +8.1) — dairyness and width help without further flattening liked 36 (his RA 34 is slightly steeper). Highest BIS pair currently in the herd. Full ranking: `reports/breeding-snickers.md`.
-- **Runner-up:** Smithy (BIS +4.6) — stronger measured dairyness (33) but steepens liked 36 and stays narrow (RW 24); conditional only.
-- **Deprioritize as primary:** Finale (BIS −3.2) — estimate/youth penalty; thematic dairyness/width match only as a secondary experiment.
-- **Key offspring risks:** Further flattening of liked Rump Angle if a flatter buck is used (higher for protection goals); losing depth; stacking narrow rumps; soft MSL/teats persisting; steepening liked 36 with low-RA bucks (changes liked look even though it is not flattening).
-- **Mitigations:** Prefer Michael’s measured RA 34 + RW 28 package; every recommendation should state whether Rump Angle and depth are protected.
-- First lactation — dairyness 23 is already a clear lever; re-check mammary next year but do not delay dairyness/width strategy.
+- **Preferred on-hand buck (BIS):** **Finale** (estimated, BIS +12.0) — strongest estimated dairyness/width/MSL package on paper; still unappraised. Full ranking: `reports/breeding-snickers.md`.
+- **Top appraised:** **Michael** (BIS +8.5) — dairyness and width; RA 34 is inside preferred (slight steepening from 36 toward the band, not further flattening).
+- **Smithy** (BIS +7.9) — more dairyness on paper, but narrower and RA 28 sits below preferred.
+- **Key risks:** Further flattening if a flatter buck is used; losing depth; stacking narrow rumps; MSL/teats may stay weak; Finale estimate may not hold.
+- **Mitigations:** Prefer partners ≤ her RA when protecting from further flatness; keep depth-strong daughters.
+- First lactation — dairyness 23 is already a clear lever.

@@ -17,9 +17,9 @@ python3 scripts/herd_data.py
 
 | File | Role |
 |------|------|
-| `GOALS.md` | Breeding objectives and trade-off framework |
-| `DAIRY_CONCEPTS.md` | ADGA LA trait definitions, scales, terminology (including **breeding** not mating) |
-| `LA_REPORT_GUIDELINES.md` | How to produce Individual / Planning / Herd / Breeding reports; **BIS** formula |
+| `GOALS.md` | Herd-specific breeding objectives and preferences |
+| `DAIRY_CONCEPTS.md` | Generic ADGA LA trait definitions, polarity, risks & mitigations, terminology |
+| `LA_REPORT_GUIDELINES.md` | Generic report process / templates / **BIS** (no herd preference essays) |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect notes |
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks) |
 | `LA_SCORES_2026.md` | Current herd linear traits, categories, Final Scores |
@@ -54,11 +54,11 @@ All Python lives in `scripts/`.
 `herd_data.py` reads:
 
 1. **`HERD_BREEDING_ROSTER.md`** — available does and bucks (Barn Name + Reg #)
-2. **`HERD_ROSTER.md`** — Barn Names, notes (e.g. protect liked flatter Rump Angle)
+2. **`HERD_ROSTER.md`** — Barn Names, owner heights, notes
 3. **`LA_SCORES_2026.md`** — linear traits and Final Scores by Reg #
 4. **`reports/estimated-buck-profile-*.md`** — for bucks without usable LA, a **`## Script inputs (BIS)`** key/value table
 
-When you add or change animals, update the markdown sources — not the scripts.
+`scripts/bis.py` also reads **`Preferred Rump Angle band: LOW–HIGH`** from `GOALS.md` when present. Functional risks/mitigations stay in `DAIRY_CONCEPTS.md` only.
 
 ### Breeding Impact Score (BIS)
 

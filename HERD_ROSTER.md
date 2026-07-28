@@ -79,6 +79,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 ### Twin Willows SS Lizbeth (PD2292496)
 
 **Barn Name:** Lizbeth  
+**Owner height:** 19.5"  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2023-03-28  
 **Sex:** Female  
@@ -118,6 +119,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 ### Cade's Lil Farm CA Sapphire (PD2380418)
 
 **Barn Name:** Sapphire  
+**Owner height:** 20.75"  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-12  
 **Sex:** Female  
@@ -137,6 +139,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 ### Cade's Lil Farm SW Snickers (PD2380420)
 
 **Barn Name:** Snickers  
+**Owner height:** 20.25"  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-18  
 **Sex:** Female  
@@ -150,13 +153,14 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Fairland Farm SC Swagger (PD2337282)  
 **Dam:** Cade's Lil Farm BF Candy Crush (PD2259980)  
 **LA (2026):** `GAEV 84` (Lactation 1)  
-**Notes:** Protect liked flatter Rump Angle (36) against further flattening.
+**Notes:** Rump Angle 36 is above preferred band (30–35) — protect from further flattening.
 
 ---
 
 ### Cade's Lil Farm CA Amber Waves (PD2407240)
 
 **Barn Name:** Amber  
+**Owner height:** 19.0"  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-27  
 **Sex:** Female  
@@ -177,6 +181,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 ### Cade's Lil Farm AL Tinkles (PD2434405)
 
 **Barn Name:** Tinkles  
+**Owner height:** 20.625"  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2025-03-29  
 **Sex:** Female  
@@ -190,7 +195,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Cade's Lil Farm PR Aladdin (PD2076307)  
 **Dam:** GCH Cade's Lil Farm AX Cuddles (PD1869395)  
 **LA (2026):** `VVVA 84` (Lactation 1)  
-**Notes:** Protect liked flatter Rump Angle (38) against further flattening.
+**Notes:** Rump Angle 38 is above preferred band (30–35) — protect from further flattening.
 
 ---
 

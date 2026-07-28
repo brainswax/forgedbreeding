@@ -6,11 +6,6 @@
 Authoritative reference for how Linear Appraisal (LA) traits are defined and scored.  
 **Use this file whenever writing or interpreting LA reports** so trait polarity, ideal direction, and terminology stay consistent with ADGA — do not invent scales or reverse biological extremes.
 
-Companion files:
-- Scores: `LA_SCORES_2026.md`, `LA_REFERENCE_SCORES.md`
-- Report rules: `LA_REPORT_GUIDELINES.md`
-- Breeding goals: `GOALS.md`
-
 ---
 
 ## How to use this document
@@ -188,7 +183,6 @@ Booklet guidance: steepness often **≤20**; levelness often **≥30**; intermed
 **Report language:**
 - Say **steep** for low RA scores; say **level / flat** for high RA scores.
 - “Further **flattening**” means moving the score **up** toward 50.
-- Never call a low RA (e.g. 21–24) “flat.”
 
 ---
 
@@ -335,7 +329,9 @@ About **10 points per 1″** of cleft. **Higher MSL is generally desirable** for
 | 35 | Midway between ⅓ and ⅔ out |
 | 45 | About ⅓ of the way out on the udder half |
 
-Outside-third placements are typically **&lt;25**; more medial useful placements **&gt;25**.
+Outside-third placements are typically **&lt;25** (**wide** placement); more medial useful placements **&gt;25** (**narrower / close** to midline on the half).
+
+**Report language:** Use **wide** and **narrow** (or **close**) for Teat Placement.
 
 ---
 
@@ -510,6 +506,67 @@ Remarks describe status; defects identify functional structural problems. Up to 
 
 ---
 
+## Functional risks & mitigations
+
+Use this section when a breeding or selection package includes an undesirable extreme or a known functional concern. **Herd target bands and owner preferences belong in that herd’s `GOALS.md`** — this section only states biological/functional risks and usual mitigations.
+
+### Rump Angle
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Very steep** (booklet: steepness often ≤20) | Can affect kidding ease, reproductive-tract drainage, and related udder topography | Select toward a more moderate/level angle over generations; pair with adequate **Rump Width** for pelvic capacity |
+| **Very level / flat** (booklet: levelness often ≥30; extreme toward inverted) | Relatively level pelves can increase kidding difficulty, especially if the pelvis is also narrow | Prefer adequate-to-wide **Rump Width** (thurls) when angle is in the level range; avoid stacking extreme flatness with narrow rumps |
+| **Moving steep → more level** | Often desirable structurally when leaving an extreme steep | Treat as improvement toward moderation unless the herd’s goals say otherwise; do **not** invent a risk solely because the score rose from steep toward moderate/level |
+| **Further flattening** when already very level | Harder to reverse; can compound kidding risk | Avoid partners that push angle still higher; maintain or improve width |
+
+**Rump Width** is always useful for pelvic capacity. It is also the usual mitigation for kidding risk when Rump Angle is relatively level (~≥30) or flatter.
+
+### Rump Width
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Narrow** | Limits pelvic capacity; weaker kidding buffer; may limit udder width potential | Prefer wider partners; avoid stacking two narrow rumps |
+
+### Medial Suspensory Ligament
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Weak / low cleft** | Udder support fails earlier; teats displace; longevity and Final Score suffer | Prefer partners with stronger MSL (or proven mammary transmitting); avoid stacking two weak-MSL animals |
+
+### Teat Placement (rear) & Teat Diameter
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Wide placement** (low score — too far outside) | Harder milking; higher injury risk | Prefer partners with closer/more medial placement; avoid stacking wide×wide |
+| **Extremely narrow or extremely wide diameter** | Milking difficulty; injury or machine fit issues | Prefer intermediate diameters; don’t stack extremes |
+
+### Udder Depth
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Very deep / pendulous** (low score) | Injury, mastitis, and longevity risk | Prefer partners that carry udders higher; strong MSL and attachments help hold shape |
+
+### Rear Legs — Side View
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Posty or sickled extremes** | Foot/leg durability over time (low heritability — slow change) | Prefer intermediate set; track multi-generationally rather than expecting one breeding to “fix” it |
+
+### Strength / Dairyness extremes
+
+| Concern | Why it matters | Usual mitigation / counterbalance |
+|---------|----------------|-----------------------------------|
+| **Very frail (low Strength)** | Harder to sustain production and general thrift | Prefer stronger partners; don’t stack frail×frail |
+| **Very coarse (low Dairyness)** | Score and dairy character suffer | Prefer sharper, cleaner-boned partners |
+
+### How reports should use this
+
+1. Name the trait risk in plain language (using correct polarity from this file).  
+2. Cite the mitigation from this table when one exists.  
+3. Apply **herd preferences** (target bands, animals to protect) only from that herd’s `GOALS.md` / roster notes — do not invent them here.
+
+---
+
 ## Quick polarity cheat sheet
 
 | Trait | Low score means | High score means | “Better” direction (typical) |
@@ -538,8 +595,9 @@ Remarks describe status; defects identify functional structural problems. Up to 
 3. **Treating every 50-point trait as “higher is always better.”**
 4. **Confusing structural Rump letter** with linear Rump Angle / Rump Width.
 5. **Assuming bucks have mammary linear scores** — many mammary traits are not recorded on bucks.
-6. **Inventing heritabilities** — booklet notes dairy-goat structural h² were historically inferred from cattle; use `GOALS.md` herd priorities rather than fabricating numbers.
+6. **Inventing heritabilities** — booklet notes dairy-goat structural h² were historically inferred from cattle; use the herd’s `GOALS.md` priorities rather than fabricating numbers.
 7. **Ignoring miniature proportion** — stature/rump width/udder depth may be inches or proportionately scored.
+8. **Duplicating mitigations or herd preferences** outside this file / `GOALS.md` — keep functional mitigations here; keep owner targets in goals.
 
 ---
 

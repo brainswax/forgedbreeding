@@ -7,6 +7,8 @@
 This document defines the owner’s breeding objectives and how trade-offs should be evaluated.  
 It is intended to be used as a shared context prompt for both Linear Appraisal (conformation) analysis and milk-test / production analysis.
 
+Trait definitions, polarity, functional risks, and mitigations: **`DAIRY_CONCEPTS.md`** (do not restate them here).
+
 ---
 
 ## Primary Objective
@@ -30,11 +32,11 @@ When a choice is projected to improve the primary metric but carries a functiona
 
 1. State the expected benefit to the primary metric clearly.  
 2. State the functional risk and its approximate severity (low / moderate / higher).  
-3. Suggest practical mitigations where they exist.  
+3. Pull practical mitigations from **`DAIRY_CONCEPTS.md`** (Functional risks & mitigations) where they apply.  
 4. Present the package so the owner can decide whether the residual risk is acceptable.
 
 **Example language (conformation context):**  
-“This breeding is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. That risk can be partially mitigated by the buck’s wider rump width / thurl placement. Overall package still looks favorable if the score gain materializes.”
+“This breeding is projected to improve MSL and dairyness enough to move Final Score meaningfully. It also carries a moderate chance of producing a flatter rump than the dam. See `DAIRY_CONCEPTS.md` for whether width/other traits mitigate that risk. Overall package still looks favorable if the score gain materializes.”
 
 The same structure applies to production decisions (e.g., high production that may stress udder support or body condition).
 
@@ -45,12 +47,10 @@ The same structure applies to production decisions (e.g., high production that m
 - Prefer improvements that raise the primary metric *and* support longevity and soundness.  
 - Prefer to avoid extremes known to increase kidding difficulty, early udder breakdown, metabolic stress, or early culling — but do not treat them as automatic disqualifiers.  
 - Preserve named strengths on individual animals where possible (see `HERD_ROSTER.md` notes).  
-  - Present rump angles on Snickers and Tinkles are liked.  
-  - Further flattening is a risk to be quantified and mitigated rather than forbidden.  
-- When evaluating any breeding or selection, present:  
-  - Expected impact on the primary metric  
-  - Main functional / longevity risks  
-  - Available mitigations
+- **Preferred Rump Angle band:** 30–35  
+  - Steep scores below this band → improving toward 30–35 is desirable.  
+  - Scores above 35 → protect from further flattening.  
+- When evaluating any breeding or selection, present expected primary-metric impact, main risks, and mitigations (from concepts).
 
 ---
 
@@ -61,13 +61,13 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 1. **Medial Suspensory Ligament (MSL)** – high impact on both Final Score and longevity  
 2. **Teat Placement & Teat Diameter**  
 3. **Dairyness** (especially where currently low)  
-4. **Rump Width** (where narrow) – also useful as a mitigation for flatter angles  
-5. **Strength** (where light)  
+4. **Rump Width** (where narrow)  
+5. **Strength** (where weak)  
 6. **Stature** (mainly when outside a functional or breed-standard range)  
 7. Other mammary traits (fore attachment, rear udder height/arch, udder depth)  
 8. Rear leg set and lower-heritability structural details  
 
-**Rump angle** is not a primary selection target. It becomes relevant only when a breeding is likely to move offspring into a more extreme (and higher-risk) range than the dam already occupies. On the ADGA linear scale, **low = steep and high = level/flat** (see `DAIRY_CONCEPTS.md`); further flattening means a **higher** score. In those cases, always discuss width/thurl and overall pelvic capacity as possible mitigations.
+Rump Angle selection follows the preferred band above; polarity and functional mitigations are in `DAIRY_CONCEPTS.md`.
 
 ---
 
