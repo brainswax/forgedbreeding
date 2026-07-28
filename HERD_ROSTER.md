@@ -15,7 +15,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### IlenesRascals Michael Darling (PD2277726)
 
-**Roster / LA short name:** Michael Darling  
+**Barn Name:** Michael  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2023-01-09  
 **Sex:** Male  
@@ -35,7 +35,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Cade's Lil Farm AX Smithy (PD2380421)
 
-**Roster / LA short name:** AX Smithy  
+**Barn Name:** Smithy  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-18  
 **Sex:** Male  
@@ -55,7 +55,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Springwater U Jane's Finale (PD2487767)
 
-**Roster / LA short name:** Springwater U Jane's Finale (Jane's Finale)  
+**Barn Name:** Finale  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2026-02-22  
 **Sex:** Male  
@@ -77,7 +77,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Twin Willows SS Lizbeth (PD2292496)
 
-**Roster / LA short name:** SS Lizbeth  
+**Barn Name:** Lizbeth  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2023-03-28  
 **Sex:** Female  
@@ -96,7 +96,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Twin Willows SS Luxury Model (PD2292494)
 
-**Roster / LA short name:** SS Luxury Model  
+**Barn Name:** Lux 
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2023-03-31  
 **Sex:** Female  
@@ -116,7 +116,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Cade's Lil Farm CA Sapphire (PD2380418)
 
-**Roster / LA short name:** CA Sapphire  
+**Barn Name:** Sapphire  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-12  
 **Sex:** Female  
@@ -135,7 +135,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Cade's Lil Farm SW Snickers (PD2380420)
 
-**Roster / LA short name:** SW Snickers  
+**Barn Name:** Snickers  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-18  
 **Sex:** Female  
@@ -155,7 +155,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Cade's Lil Farm CA Amber Waves (PD2407240)
 
-**Roster / LA short name:** CA Amber Waves  
+**Barn Name:** Amber  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2024-03-27  
 **Sex:** Female  
@@ -175,7 +175,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 
 ### Cade's Lil Farm AL Tinkles (PD2434405)
 
-**Roster / LA short name:** AL Tinkles  
+**Barn Name:** Tinkles  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2025-03-29  
 **Sex:** Female  
