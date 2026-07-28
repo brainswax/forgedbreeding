@@ -1,4 +1,6 @@
-# Individual LA Evaluation: SW Snickers (PD2380420)
+# Individual Report: Cade's Lil Farm SW Snickers (PD2380420)
+
+**Short name:** SW Snickers
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `GAEV 84`  

@@ -1,7 +1,7 @@
 # Estimated Buck Profile: Springwater U Jane's Finale (PD2487767)
 
 **LA status:** Unappraised (young / third herd buck)  
-**ADGA status:** Alive  
+**ADGA identity:** See `HERD_ROSTER.md`  
 **DOB:** 2026-02-22  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **Sex:** Male  

@@ -1,4 +1,6 @@
-# Individual LA Evaluation: CA Sapphire (PD2380418)
+# Individual Report: Cade's Lil Farm CA Sapphire (PD2380418)
+
+**Short name:** CA Sapphire
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `VEVV 88`  

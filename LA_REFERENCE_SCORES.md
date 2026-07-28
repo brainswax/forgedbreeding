@@ -61,16 +61,7 @@ Full Linear Appraisal records. One row per evaluation.
 ## SPRINGWATER U JANE'S FINALE (PD2487767)
 
 **Role:** Young / third Forged Farm herd buck (unappraised)  
-**Breed:** Purebred Nigerian Dwarf (100% D)  
-**DOB:** 2026-02-22  
-**Sex:** Male  
-**Status:** Alive  
-**Description:** Buckskin  
-**Ears:** Erect | **Horns:** Disbudded  
-**Tattoo:** RE:FMG LE:V16  
-**Breeding method:** Artificial (ET)  
-**Breeder:** Nancy Boling (1520488)  
-**Owner:** Brian Denton (1660541)  
+**Identity:** See `HERD_ROSTER.md` (ADGA registration block).  
 **Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)  
 **Dam:** SPRINGWATER BF JANE DOE (PD1775314)  
 

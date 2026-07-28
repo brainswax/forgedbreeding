@@ -1,4 +1,6 @@
-# Individual LA Evaluation: SS Lizbeth (PD2292496)
+# Individual Report: Twin Willows SS Lizbeth (PD2292496)
+
+**Short name:** SS Lizbeth
 
 **Age / Lactation at appraisal:** ~3y 4m / Lactation 2 (appraisal 26-Jul-2026)  
 **Final Score:** `VEEG 85`  

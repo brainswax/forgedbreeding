@@ -1,4 +1,6 @@
-# Individual LA Evaluation: AL Tinkles (PD2434405)
+# Individual Report: Cade's Lil Farm AL Tinkles (PD2434405)
+
+**Short name:** AL Tinkles
 
 **Age / Lactation at appraisal:** ~1y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `VVVA 84`  

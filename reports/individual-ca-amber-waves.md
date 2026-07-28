@@ -1,4 +1,6 @@
-# Individual LA Evaluation: CA Amber Waves (PD2380421)
+# Individual Report: Cade's Lil Farm CA Amber Waves (PD2407240)
+
+**Short name:** CA Amber Waves
 
 **Age / Lactation at appraisal:** ~2y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `GEEV 86`  
