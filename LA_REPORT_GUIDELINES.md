@@ -24,7 +24,7 @@ Repo file roles and allowed dependencies: see `README.md`.
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks on hand) |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect / caveats |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners unless also on the breeding roster) |
-| `profiles/estimated-buck-profile-*.md` | Estimated transmitting values for unappraised bucks |
+| `profiles/estimated-buck-profile-*.md` | Estimated transmitting values: full profile for unappraised bucks, or mammary/blank fills for appraised bucks |
 | `scripts/bis.py` | Breeding Impact Score implementation |
 
 ---
@@ -102,7 +102,7 @@ BIS = GapClosure − RiskPenalty − ConfidencePenalty
 
 For each trait with numeric doe score `D` and partner value `P` (except Rump Angle):
 
-1. **Gap fill** (doe below 30 and partner higher): `W × min((P−D)/5, 2.0)` (×**0.75** if estimated).
+1. **Gap fill** (doe below 30 and partner higher): `W × min((P−D)/5, 2.0)` (×**0.75** if that partner trait is profile-estimated).
 2. **Dilution** (doe at/above 32 and partner lower): `W × max((P−D)/5, −1.5) × 0.5`.
 3. Otherwise 0. Partner unscored → 0 for that trait.
 
@@ -119,7 +119,9 @@ For each trait with numeric doe score `D` and partner value `P` (except Rump Ang
 | Doe Teat Placement ≤ 21 (wide) and partner unscored | `+1.0` |
 | Doe Teat Placement ≤ 21 and partner TP ≤ 22 | `+2.5` |
 
-**ConfidencePenalty:** **`+2.0`** if partner is estimated / unappraised; **`0`** if partner has own LA.
+**ConfidencePenalty:** **`+2.0`** if the partner is fully estimated / unappraised (`estimated: yes` in Script inputs); **`0`** if the partner has own LA (mammary fills from a profile do **not** add ConfidencePenalty — those traits already use the ×0.75 GapClosure multiplier).
+
+**Profiles & mammary on bucks:** ADGA does not score most mammary linears on bucks. When a matching `profiles/estimated-buck-profile-*.md` exists, the loader uses official LA for scored traits and **fills blanks** (typically `msl`, `tp`, `td`) from Script inputs. Mark filled-trait claims as estimated in report prose.
 
 **Report requirements:** BIS-descending order; BIS in headings; Side-by-Side BIS row preferred; primary = highest BIS. Discuss risks/mitigations from concepts — do not paste preference or mitigation tables into every report.
 

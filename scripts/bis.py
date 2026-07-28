@@ -29,6 +29,13 @@ ESTIMATE_POSITIVE_MULT = 0.75
 CONFIDENCE_PENALTY_ESTIMATED = 2.0
 
 
+def trait_is_estimated(buck: dict, key: str) -> bool:
+    """True if this trait value is from a profile fill or a fully estimated buck."""
+    if buck.get("estimated"):
+        return True
+    return key in (buck.get("estimated_traits") or ())
+
+
 def trait_contrib(weight: float, doe_v, partner_v, estimated: bool) -> float:
     if doe_v is None or partner_v is None:
         return 0.0
@@ -66,10 +73,15 @@ def ra_contrib(doe_ra, partner_ra, estimated: bool, band: tuple[float, float] | 
 
 def gap_closure(doe: dict, buck: dict, band: tuple[float, float] | None) -> float:
     total = sum(
-        trait_contrib(w, doe[k], buck[k], buck["estimated"])
+        trait_contrib(w, doe[k], buck[k], trait_is_estimated(buck, k))
         for k, w in WEIGHTS.items()
     )
-    total += ra_contrib(doe.get("ra"), buck.get("ra"), buck["estimated"], band)
+    total += ra_contrib(
+        doe.get("ra"),
+        buck.get("ra"),
+        trait_is_estimated(buck, "ra"),
+        band,
+    )
     return total
 
 

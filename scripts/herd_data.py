@@ -218,13 +218,34 @@ def parse_estimated_bis_inputs(path: Path) -> dict:
     return values
 
 
+def merge_profile_fills(base: dict, profile_values: dict) -> tuple[dict, set[str]]:
+    """
+    Fill missing trait keys from a profile. Official LA values win when present.
+
+    Returns (merged trait dict for TRAIT_KEYS, set of keys filled from the profile).
+    """
+    filled: set[str] = set()
+    merged = {k: base.get(k) for k in TRAIT_KEYS}
+    for key in TRAIT_KEYS:
+        if merged[key] is None and profile_values.get(key) is not None:
+            merged[key] = profile_values[key]
+            filled.add(key)
+    return merged, filled
+
+
 def find_estimated_profile(reg: str, barn_name: str) -> Path | None:
-    """Locate estimated-buck-profile markdown for a reg# or barn name."""
-    for path in sorted(ROOT.glob(ESTIMATED_PROFILES_GLOB)):
-        head = path.read_text()[:800]
-        if reg in head:
+    """Locate profile whose title Reg # matches, else title barn-name match."""
+    paths = sorted(ROOT.glob(ESTIMATED_PROFILES_GLOB))
+    title_reg = re.compile(rf"\({re.escape(reg)}\)")
+    for path in paths:
+        title = path.read_text().splitlines()[0]
+        if title_reg.search(title):
             return path
-        if re.search(rf"\b{re.escape(barn_name)}\b", head, re.I):
+    if not barn_name:
+        return None
+    for path in paths:
+        title = path.read_text().splitlines()[0]
+        if re.search(rf"\b{re.escape(barn_name)}\b", title, re.I):
             return path
     return None
 
@@ -239,7 +260,9 @@ def load_breeding_animals(
     Build doe and buck trait maps keyed by Barn Name.
 
     Does with incomplete LA → value None (BIS N/A).
-    Bucks without usable LA scores → load Script inputs from estimated profile.
+    Bucks without usable LA → full Script inputs from estimated profile (`estimated=True`).
+    Bucks with LA → official scores, then fill any blank traits (typically mammary)
+    from a matching `profiles/estimated-buck-profile-*.md` when present.
     """
     does_list, bucks_list = parse_breeding_roster(breeding_roster)
     meta = parse_herd_roster_meta(herd_roster)
@@ -264,6 +287,7 @@ def load_breeding_animals(
             "fs": row["fs"],
             "reg": reg,
             "estimated": False,
+            "estimated_traits": set(),
             "owner_height_in": animal_meta.get("owner_height_in"),
             "registered_name": animal_meta.get("registered_name"),
         }
@@ -271,28 +295,35 @@ def load_breeding_animals(
     bucks: dict[str, dict] = {}
     for barn, reg in bucks_list:
         row = scores.get(reg)
+        profile = find_estimated_profile(reg, barn)
+        profile_values = parse_estimated_bis_inputs(profile) if profile else None
+
         if row and not row.get("incomplete"):
-            # Appraised buck: mammary often blank — leave None
+            traits = {k: row[k] for k in TRAIT_KEYS}
+            estimated_traits: set[str] = set()
+            if profile_values is not None:
+                traits, estimated_traits = merge_profile_fills(traits, profile_values)
             bucks[barn] = {
-                **{k: row[k] for k in TRAIT_KEYS},
+                **traits,
                 "estimated": False,
+                "estimated_traits": estimated_traits,
                 "fs": row["fs"],
                 "reg": reg,
+                "profile": str(profile.relative_to(ROOT)) if profile else None,
             }
             continue
 
-        profile = find_estimated_profile(reg, barn)
-        if profile is None:
+        if profile_values is None:
             raise FileNotFoundError(
                 f"No LA scores and no estimated profile for buck {barn} ({reg}). "
                 f"Add scores to {la_scores.name} or a profiles/estimated-buck-profile-*.md "
                 f"with a ## Script inputs (BIS) table."
             )
-        est = parse_estimated_bis_inputs(profile)
         bucks[barn] = {
-            **{k: est[k] for k in TRAIT_KEYS},
-            "estimated": bool(est.get("estimated", True)),
-            "fs": est.get("fs") or "estimated",
+            **{k: profile_values[k] for k in TRAIT_KEYS},
+            "estimated": bool(profile_values.get("estimated", True)),
+            "estimated_traits": set(TRAIT_KEYS),
+            "fs": profile_values.get("fs") or "estimated",
             "reg": reg,
             "profile": str(profile.relative_to(ROOT)),
         }
