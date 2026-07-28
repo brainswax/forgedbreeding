@@ -4,8 +4,9 @@
 **Last updated:** 2026-07-27  
 
 Canonical ADGA registration identity for animals currently (or recently) owned at Forged Farm.  
-Short names in `LA_SCORES_2026.md` and `HERD_BREEDING_ROSTER.md` match the appraisal / roster labels; **registered names** below are authoritative.
+Short names in `LA_SCORES_2026.md` and `HERD_BREEDING_ROSTER.md` match the appraisal / breeding-list labels; **registered names** below are authoritative.
 
+Also holds per-animal notes (LA summary, favorites, role, caveats).  
 Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presence here.
 
 ---
@@ -27,7 +28,8 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Owner:** Brian Denton (1660541)  
 **Sire:** Agape's Prize Damascus CQuinn (PD2007077)  
 **Dam:** GCH Urban Acres ASD Tinker Bell (PD1675567)  
-**LA (2026):** `VGE 88`
+**LA (2026):** `VGE 88`  
+**Notes:** Herd sire.
 
 ---
 
@@ -46,7 +48,8 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Owner:** Brian Denton (1660541)  
 **Sire:** Cade's Lil Farm BD Axel (PD1787788)  
 **Dam:** Cade's Lil Farm AL Sydney (PD2235669)  
-**LA (2026):** `VVE 86`
+**LA (2026):** `VVE 86`  
+**Notes:** Herd sire.
 
 ---
 
@@ -65,7 +68,8 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Owner:** Brian Denton (1660541)  
 **Sire:** Farm Oldesouth LMT Unlimited (PD1896060)  
 **Dam:** Springwater BF Jane Doe (PD1775314)  
-**LA:** None yet — estimated profile: `reports/estimated-buck-profile-janes-finale.md`
+**LA:** None yet — estimated profile: `reports/estimated-buck-profile-janes-finale.md`  
+**Notes:** Young / third herd buck (ET). Unappraised as of 2026-07-27 (~5 months old). Weight estimated transmitting profile below real LA on Michael Darling and Smithy.
 
 ---
 
@@ -105,7 +109,8 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Owner:** Brian Denton (1660541)  
 **Sire:** Cade's Lil Farm SE Sleepnstag (PD2076291)  
 **Dam:** Cade's Lil Farm SE Venice (PD2166626)  
-**LA (2026):** Incomplete (Final Score NA)
+**LA (2026):** Incomplete (Final Score NA)  
+**Notes:** In breeding pool; state the incomplete-LA gap if recommending her in a Buck Breeding Report.
 
 ---
 
@@ -144,7 +149,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Fairland Farm SC Swagger (PD2337282)  
 **Dam:** Cade's Lil Farm BF Candy Crush (PD2259980)  
 **LA (2026):** `GAEV 84` (Lactation 1)  
-**Favorite:** Yes — protect Rump Angle
+**Notes:** Favorite — protect Rump Angle.
 
 ---
 
@@ -184,7 +189,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Cade's Lil Farm PR Aladdin (PD2076307)  
 **Dam:** GCH Cade's Lil Farm AX Cuddles (PD1869395)  
 **LA (2026):** `VVVA 84` (Lactation 1)  
-**Favorite:** Yes — protect Rump Angle
+**Notes:** Favorite — protect Rump Angle.
 
 ---
 
