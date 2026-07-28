@@ -17,7 +17,7 @@ Lux is available for breeding but has incomplete 2026 Linear Appraisal (Final Sc
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
 - Highest Final Score and most balanced appraised herd sire
-- Steeper Rump Angle (34) and moderate width (28) — safer defaults vs herd-wide flat/narrow patterns
+- Intermediate Rump Angle (34; scale: 0 steep → 50 flat) and moderate width (28) — safer generalist defaults vs herd-wide narrow-rump patterns (do not label his 34 as a “steeper” fix for unknown angle)
 
 **Cons / risks (for this doe)**
 - Unknown complementarity — her gaps are unknown (higher uncertainty)

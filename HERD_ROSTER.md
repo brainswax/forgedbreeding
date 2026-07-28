@@ -150,7 +150,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Fairland Farm SC Swagger (PD2337282)  
 **Dam:** Cade's Lil Farm BF Candy Crush (PD2259980)  
 **LA (2026):** `GAEV 84` (Lactation 1)  
-**Notes:** Favorite — protect Rump Angle.
+**Notes:** Favorite — protect liked flatter Rump Angle (36) against further flattening.
 
 ---
 
@@ -190,7 +190,7 @@ Breeding availability is controlled by `HERD_BREEDING_ROSTER.md`, not by presenc
 **Sire:** Cade's Lil Farm PR Aladdin (PD2076307)  
 **Dam:** GCH Cade's Lil Farm AX Cuddles (PD1869395)  
 **LA (2026):** `VVVA 84` (Lactation 1)  
-**Notes:** Favorite — protect Rump Angle.
+**Notes:** Favorite — protect liked flatter Rump Angle (38) against further flattening.
 
 ---
 

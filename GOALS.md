@@ -67,7 +67,7 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 7. Other mammary traits (fore attachment, rear udder height/arch, udder depth)  
 8. Rear leg set and lower-heritability structural details  
 
-**Rump angle** is not a primary selection target. It becomes relevant only when a mating is likely to move offspring into a more extreme (and higher-risk) range than the dam already occupies. In those cases, always discuss width/thurl and overall pelvic capacity as possible mitigations.
+**Rump angle** is not a primary selection target. It becomes relevant only when a mating is likely to move offspring into a more extreme (and higher-risk) range than the dam already occupies. On the ADGA linear scale, **low = steep and high = level/flat** (see `DAIRY_CONCEPTS.md`); further flattening means a **higher** score. In those cases, always discuss width/thurl and overall pelvic capacity as possible mitigations.
 
 ---
 

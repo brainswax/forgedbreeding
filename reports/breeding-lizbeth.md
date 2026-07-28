@@ -6,35 +6,37 @@
 **Doe priorities this breeding:**
 1. Improve Medial Suspensory Ligament (13)
 2. Improve Teat Placement (17)
-3. Protect Rump Width (31) as buffer for flat Rump Angle (23)
-4. Do not further flatten Rump Angle
+3. Protect Rump Width (31) as buffer for steep Rump Angle (23; scale: 0 steep → 50 flat)
+4. Manage flattening risk when using higher-RA bucks
 5. Hold dairyness (38) and strength (36)
 
 ## Doe Snapshot
-Lizbeth is a solid dairy/body package held back by Mammary `G`, especially Medial Suspensory Ligament 13 and Teat Placement 17. She already brings usable width and strong dairyness — offspring should keep those while lifting mammary support. No on-hand buck is a clear elite MSL/teat fixer.
+Lizbeth is a solid dairy/body package held back by Mammary `G`, especially Medial Suspensory Ligament 13 and Teat Placement 17. She already brings usable width and strong dairyness — offspring should keep those while lifting mammary support. She is steep, not flat; her width buffers flattening from higher-RA bucks. No on-hand buck is a clear elite MSL/teat fixer.
 
 ## Buck Comparisons
 
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
 - Stronger / more balanced frame (Strength 36, Body Capacity `E`) without needing her dairyness
-- Rump Angle 34 is steeper than her 23 — helpful direction
 - Rump Width 28 is adequate; less likely to erase her width advantage than Smithy
+- Overall best on-hand balance package
 
 **Cons / risks (for this doe)**
+- Rump Angle 34 will flatten her steep 23 (scale: 0 steep → 50 flat) — her width 31 is the mitigation (moderate)
 - No scored Medial Suspensory Ligament or teat linears (buck) — mammary lift is unproven (moderate)
 - Rump Width 28 is narrower than her 31 — mild width dilution risk (low–moderate)
 
-**Fit summary:** Best overall on-hand package for angle + balance without wrecking width.
+**Fit summary:** Best overall on-hand package for balance and width retention; accept flattening with her width buffer.
 
 ### Smithy (PD2380421) — `VVE 86`
 **Pros (for this doe)**
 - Stature 34 and Strength 36 / Body Depth 42 add frame
 - Dairyness 33 won’t pull her 38 down hard
+- Flattens less than Michael (28 vs 34) relative to her 23
 
 **Cons / risks (for this doe)**
 - Rump Width 24 stacks against her need to *keep* width (higher)
-- Rump Angle 28 is only a mild improvement over 23 and pairs poorly with his narrow width (moderate)
+- Still flattens her steep 23 somewhat, without width mitigation (moderate)
 
 **Fit summary:** Poor width fit; not her mammary or pelvic solution.
 
@@ -61,16 +63,16 @@ Lizbeth is a solid dairy/body package held back by Mammary `G`, especially Media
 | Strength | 36 | 36 | 36 | adequate est. |
 
 ## Recommendation
-**Primary pick:** Michael — steepest available rump angle among herd bucks, usable width, and strongest overall balance; best chance to avoid flattening her further while holding a competitive package.
+**Primary pick:** Michael — best balance and usable width among herd bucks; he flattens her steep 23 toward 34, but her width 31 buffers that risk. Do not frame him as giving a “steeper” angle.
 
 **Runner-up:** Finale — only if prioritizing estimated width/dairyness and accepting that MSL/teats remain open problems (and that he is still very young).
 
-**Avoid or deprioritize:** Smithy — too narrow for a doe whose width is one of her main buffers.
+**Avoid or deprioritize:** Smithy — too narrow for a doe whose width is one of her main buffers against flattening.
 
 ## Benefit / Risk / Mitigation Package (recommended mating)
-- **Benefit:** Better rump-angle direction and continued strength/capacity; supports Final Score stability
-- **Risk:** Medial Suspensory Ligament and Teat Placement may not improve much (moderate–higher)
-- **Mitigation:** Treat this as structural packaging; still seek outside mammary genetics later if daughters stay soft
+- **Benefit:** Continued strength/capacity; supports Final Score stability; width largely retained vs Smithy
+- **Risk:** Flattening of steep Rump Angle (23→toward 34); Medial Suspensory Ligament and Teat Placement may not improve much (moderate–higher)
+- **Mitigation:** Rely on her width 31 as buffer; still seek outside mammary genetics later if daughters stay soft
 - **Assessment:** Conditional-favorable for on-hand options; mammary gap remains herd-wide
 
 ## Breeding Notes

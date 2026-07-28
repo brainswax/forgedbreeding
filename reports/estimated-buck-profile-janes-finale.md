@@ -59,7 +59,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 | **Dairyness** | 32.9 | 32.5 | 26–40 | Consistently dairy — Unlimited lifts dairyness hard |
 | **Strength** | 30.2 | 31.0 | 25–35 | Adequate–good strength |
 | **Rump Width** | 30.2 | 29.0 | 24–41 | Width is a clear Unlimited strength |
-| **Rump Angle** | 29.1 | 29.0 | 24–41 | Mostly intermediate; occasional flatter outliers |
+| **Rump Angle** | 29.1 | 29.0 | 24–41 | Mostly intermediate (~27–29 like Unlimited); occasional very flat outliers (e.g. Sweet Emotion 41; scale: 0 steep → 50 flat) |
 | **Medial Suspensory Ligament** | 24.5 | 25.0 | 15–36 | Middling; 13/24 ≥25, 4/24 ≤20 |
 | **Teat Placement** | 21.0 | 21.0 | 15–26 | Soft cluster; only 8/24 ≥22 |
 | **Teat Diameter** | 26.0 | 25.0 | 15–36 | Highly variable; several very small-teat daughters |
@@ -78,7 +78,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 
 - **Body Capacity / overall score package** — Unlimited daughters routinely land Body Capacity Excellent/Very Good and Final Scores in the mid–high 80s; Unlimited himself is `VEE 90`. Finale should transmit capacity and competitive Final Score potential.
 - **Dairyness** — Daughter mean dairyness ≈ 33 despite many dams; Unlimited’s own dairyness 33–34. Even with Jane Doe’s weak mature dairyness (22), sire-side dairy transmission looks strong. Expect Finale to be a dairyness improver relative to low-dairyness does.
-- **Rump Width** — Unlimited rump width 29–30; daughter mean ≈ 30. Clear contrast to Jane Doe’s 15–25. Finale is more likely than average to help narrow-rumped does (and to buffer flatter angles via width).
+- **Rump Width** — Unlimited rump width 29–30; daughter mean ≈ 30. Clear contrast to Jane Doe’s 15–25. Finale is more likely than average to help narrow-rumped does (and to buffer flattening — higher RA toward 50 — via width).
 - **Rear Udder Height / Rear Udder Arch** — Daughter means rear udder height ≈ 35, rear udder arch ≈ 35. Useful mammary topography even when Medial Suspensory Ligament / teats are only middling.
 
 ### Possible strengths (moderate confidence)
@@ -92,7 +92,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 - **Teat Placement** — Unlimited daughters cluster around teat placement ≈ 21 (same as Jane Doe’s best mature score). Dam had teat placement 16–21. Finale is **unlikely** to be a teat-placement fixer; expect transmission near the low-20s unless the doe already brings better placement.
 - **Medial Suspensory Ligament** — Daughter mean ≈ 24–25 is only intermediate. Jane Doe was 19–23. Finale may still *improve* Forged Farm does that sit at 13–18, but he should not be treated as an elite Medial Suspensory Ligament buck. Risk of stacking soft suspensory if used on the weakest does without other improvement.
 - **Teat Diameter / size** — Wide scatter in Unlimited daughters (teat diameter 15–36), including several high-scoring does with very small teats (Hello Goodbye 15, Wedding Vows 18, Glimmer 17). Flag as a **watch item**, not a fixed fault.
-- **Rump Angle extremes** — Usually intermediate (~29), but outliers exist (Sweet Emotion 41; Lil Firecracker 36). Combined with Jane Doe’s 26–28, Finale’s own rump angle is probably intermediate; still avoid assuming he “corrects” flat or steep extremes.
+- **Rump Angle extremes** — Usually intermediate (~29; Unlimited ~27–29), but outliers exist (Sweet Emotion 41 = very flat; Lil Firecracker 36 = flatter side). Combined with Jane Doe’s 26–28, Finale’s own rump angle is probably intermediate (scale: 0 steep → 50 flat); still avoid assuming he “corrects” steep or flat extremes.
 - **Rear Legs Side View** — Daughter mean ≈ 26; Unlimited 25–26. Soft rear-leg set can appear; low heritability — track, don’t over-weight for short-term selection.
 
 ### Traits with insufficient data
@@ -106,7 +106,7 @@ Held mid-80s Final Scores with Very Good mammary, but dairyness faded with age, 
 
 | Trait | Estimated transmitting outlook | Notes |
 |-------|--------------------------------|-------|
-| **Rump Angle** | Intermediate (~27–30) | Not a primary lever; watch extremes on individual matings; use width as mitigation |
+| **Rump Angle** | Intermediate (~27–30) | Not a primary lever (scale: 0 steep → 50 flat); watch extremes on individual matings; use width as mitigation when flattening |
 | **Medial Suspensory Ligament / mammary support** | Modest positive vs herd floor; not elite | ~mid-20s expected influence; better than current Forged Farm doe suspensory, below ideal |
 | **Teat traits** | Placement soft (~20–22); diameter variable | Do not choose Finale to fix teat placement; screen partner teats carefully |
 | **Dairyness** | Likely strength | One of his clearest uses on low-dairyness does (e.g. Snickers-type) |
@@ -130,7 +130,7 @@ When ranking Finale against **Michael** (`VGE 88`) or **Smithy** (`VVE 86`), tre
 
 **Expected benefit:** Lift dairyness and rump width; support Body Capacity and Final Score; modest Medial Suspensory Ligament improvement vs the current doe floor (13–18 → toward low–mid 20s if he transmits like Unlimited daughters).
 
-**Main risks:** Soft teat placement stacking; only intermediate Medial Suspensory Ligament; occasional small-teat or flatter rump-angle outliers in the Unlimited book.
+**Main risks:** Soft teat placement stacking; only intermediate Medial Suspensory Ligament; occasional small-teat or very flat rump-angle outliers in the Unlimited book (higher RA toward 50).
 
 **Mitigations:** Prefer partners that already bring better teat placement (and ideally stronger Medial Suspensory Ligament); avoid using him as the sole “mammary fixer”; pair width-needy or low-dairyness does where his clearer strengths apply; re-evaluate after his own appraisal and first daughters.
 

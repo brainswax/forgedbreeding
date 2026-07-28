@@ -5,41 +5,44 @@
 **Bucks compared:** Michael (`VGE 88`), Smithy (`VVE 86`), Finale (estimated)  
 **Doe priorities this breeding:**
 1. Improve Medial Suspensory Ligament (17) and Teat Placement (17)
-2. Improve Rump Width (21) — also required as buffer for flat Rump Angle (21)
-3. Do not further flatten Rump Angle
+2. Improve Rump Width (21) — required as buffer when Rump Angle is flattened
+3. Manage flattening of steep Rump Angle (21; scale: 0 steep → 50 flat)
 4. Protect dairyness (36) and Rear Udder Height (40)
 
 ## Doe Snapshot
-Amber is a strong dairy/body doe with excellent rear udder height, already at the herd’s flattest rump angle and narrowest width. She needs width + steeper angle direction and mammary support; stacking another narrow/flat package is the main risk.
+Amber is a strong dairy/body doe with excellent rear udder height, already at the herd’s steepest rump angle and narrowest width. She needs width and mammary support; higher-RA bucks will flatten her (raise RA toward 50). Stacking another narrow package is the main pelvic risk — do not call her flat or claim Michael “steepens” her.
 
 ## Buck Comparisons
 
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
-- Rump Width 28 and Rump Angle 34 are the clearest measured upgrades vs her 21 / 21
+- Rump Width 28 is the clearest measured width upgrade vs her 21
 - Strength/capacity compatible with her Body Capacity `E`
+- Best on-hand overall balance
 
 **Cons / risks (for this doe)**
+- Rump Angle 34 will flatten her steep 21 toward 34 (scale: 0 steep → 50 flat); width 28 is the mitigation (moderate)
 - Dairyness 30 is below her 36 — mild dairy dilution (low–moderate)
 - MSL/teats unscored (moderate mammary uncertainty)
 
-**Fit summary:** Best on-hand structural correction for her worst scored pair (width + angle).
+**Fit summary:** Best on-hand width upgrade; accept flattening with his width as buffer — not a “steeper angle” package.
 
 ### Smithy (PD2380421) — `VVE 86`
 **Pros (for this doe)**
 - Dairyness 33 holds dairy character better than Michael
 - Strength/stature useful
+- Less flattening than Michael (28 vs 34) relative to her 21
 
 **Cons / risks (for this doe)**
-- Rump Width 24 still narrow — weak correction (higher)
-- Rump Angle 28 only modestly better than 21 without width mitigation (moderate–higher)
+- Rump Width 24 still narrow — weak correction and weak flattening buffer (higher)
+- Still flattens steep 21 without enough width mitigation (moderate–higher)
 
-**Fit summary:** Insufficient width fix for the flattest/narrowest doe.
+**Fit summary:** Insufficient width fix for the steepest/narrowest doe.
 
 ### Finale (PD2487767) — Estimated
 **Pros (for this doe)**
 - Estimated rump-width and dairyness strengths target her needs
-- Estimated intermediate angle may help vs 21
+- Estimated intermediate angle (~27–29) flattens less than Michael if estimate holds
 
 **Cons / risks (for this doe)**
 - Estimate / very young (higher uncertainty)
@@ -59,18 +62,18 @@ Amber is a strong dairy/body doe with excellent rear udder height, already at th
 | Rear Udder Height | 40 | — | — | — |
 
 ## Recommendation
-**Primary pick:** Michael — largest measured improvement to rump width and angle, her most urgent structural pairing risks.
+**Primary pick:** Michael — largest measured width upgrade for her narrowest gap; he flattens steep 21 toward 34, mitigated by his width 28. Do not claim he steepens or “corrects flatness.”
 
 **Runner-up:** Finale — if leaning on estimated width/dairyness after accepting youth/estimate risk.
 
-**Avoid or deprioritize:** Smithy — still too narrow to fix her defining pelvic weakness.
+**Avoid or deprioritize:** Smithy — still too narrow to fix her defining pelvic weakness (and still flattens without enough width buffer).
 
 ## Benefit / Risk / Mitigation Package (recommended mating)
-- **Benefit:** Meaningful width and angle correction; supports Final Score and kidding/pelvic resilience
-- **Risk:** Soft MSL/teats may persist; slight dairyness pull (moderate / low–moderate)
-- **Mitigation:** Select daughters for mammary support; keep dairy-strong daughters when possible
+- **Benefit:** Meaningful width upgrade; supports Final Score and kidding/pelvic resilience
+- **Risk:** Flattening of steep Rump Angle (21→toward 34); soft MSL/teats may persist; slight dairyness pull (moderate / low–moderate)
+- **Mitigation:** Width 28 buffers flattening; select daughters for mammary support; keep dairy-strong daughters when possible
 - **Assessment:** Favorable among on-hand bucks for her specific gaps
 
 ## Breeding Notes
 - Outside mammary genetics still needed herd-wide; Michael does not close MSL/TP by himself.
-- First lactation — re-check teats/MSL next year, but width/angle strategy can proceed now.
+- First lactation — re-check teats/MSL next year, but width strategy (with explicit flattening acknowledgment) can proceed now.

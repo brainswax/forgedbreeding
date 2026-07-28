@@ -22,12 +22,13 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 1. **Read required inputs**
    - This file (templates + rules)
    - `GOALS.md` (objectives, trade-off framework, trait priorities)
+   - `DAIRY_CONCEPTS.md` (**ADGA trait definitions, scales, polarity, terminology** — required so reports do not reverse or invent linear meanings)
    - `LA_SCORES_2026.md` (current herd LA linear traits, category letters, Final Scores)
    - `HERD_BREEDING_ROSTER.md` (**who is currently available** for breeding — does and bucks on hand)
    - `HERD_ROSTER.md` (ADGA identity, Barn Names, LA summary, favorites, and other per-animal notes)
    - For Doe Breeding / Buck Breeding Reports (and any unappraised buck): also `reports/estimated-buck-profile-*.md` and/or `LA_REFERENCE_SCORES.md` when an estimated profile exists
 2. **Pick the report type** from the prompt (Individual / Planning / Herd / Doe Breeding / Buck Breeding). If the animal or pairing is named, use that; otherwise for a Herd Report use the animals on `HERD_BREEDING_ROSTER.md` (scores from `LA_SCORES_2026.md`). For a Doe Breeding Report, compare against every buck listed as available on the roster (unless the prompt narrows the set). For a Buck Breeding Report, compare against every doe listed as available on the roster (unless the prompt narrows the set). **Never** treat `LA_REFERENCE_SCORES.md` animals as on-hand breeding partners unless they also appear on the roster.
-3. **Ground every claim in the score file.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`.
+3. **Ground every claim in the score file and in `DAIRY_CONCEPTS.md`.** Compose Final Score as `GAEV 84` from the four category letters (GENERAL APPEARANCE, DAIRY STRENGTH, BODY CAPACITY, MAMMARY) plus FINAL SCORE. Omit a letter if that category is blank (typical for bucks). Prefer **full trait names** in prose and tables (e.g. Stature, Medial Suspensory Ligament, Final Score); abbreviations are fine in compact score shorthand like `VEVV 88`. If unsure about trait polarity (especially Rump Angle or Udder Depth), check `DAIRY_CONCEPTS.md` before writing.
 
 **Example prompts that should work as-is:**
 - `Produce a Herd Report based on LA_REPORT_GUIDELINES.md`
@@ -69,7 +70,7 @@ When ranking improvements or opportunities:
 - Rump angle (mainly when risk of becoming more extreme)
 - Rear Udder Arch, Rear Leg set, and other low-h² structural details (track for long-term strategy)
 
-Always pair rump-angle discussion with width/thurl and pelvic capacity as potential mitigations.
+**Rump Angle scale (ADGA linear):** **Low = steep**, **high = level/flat** (toward inverted). See `DAIRY_CONCEPTS.md`. “Further flattening” means moving the score **up** toward 50. Always pair flattening risk with width/thurl and pelvic capacity as potential mitigations.
 
 ### Miniature stature scale (height → expected score)
 

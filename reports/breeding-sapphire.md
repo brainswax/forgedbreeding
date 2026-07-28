@@ -7,33 +7,35 @@
 1. Improve Medial Suspensory Ligament (17)
 2. Improve Teat Placement / Teat Diameter (21 / 21)
 3. Protect Rump Width (35) and Rear Udder Height/Arch (39 / 37)
-4. Do not further flatten Rump Angle (24)
+4. Manage flattening of steep Rump Angle (24; scale: 0 steep → 50 flat) via width buffer
 5. Modest Strength lift (29) if available without costing dairyness/width
 
 ## Doe Snapshot
-Sapphire is the herd’s highest-scoring doe and a dairyness / rear-udder / width anchor. Binding limits are still the herd mammary pattern (MSL 17, soft teats). Breed to raise support traits without giving away width, dairyness, or rear-udder topography.
+Sapphire is the herd’s highest-scoring doe and a dairyness / rear-udder / width anchor. Binding limits are still the herd mammary pattern (MSL 17, soft teats). She is steep (24), not flat; breed to raise support traits without giving away width, dairyness, or rear-udder topography.
 
 ## Buck Comparisons
 
 ### Michael (PD2277726) — `VGE 88`
 **Pros (for this doe)**
 - Strength 36 addresses her lightest trait (29)
-- Rump Angle 34 better direction than her 24
 - Rump Width 28 won’t match her 35 but is safer than Smithy’s 24
+- Best on-hand overall balance
 
 **Cons / risks (for this doe)**
+- Rump Angle 34 flattens her steep 24 (scale: 0 steep → 50 flat); her width 35 buffers (moderate)
 - Width dilution vs her 35 (moderate)
 - Mammary linears unscored — MSL/teat lift unproven (moderate)
 
-**Fit summary:** Best on-hand match for strength + angle while limiting width damage.
+**Fit summary:** Best on-hand match for strength while limiting width damage; accept flattening with her width buffer.
 
 ### Smithy (PD2380421) — `VVE 86`
 **Pros (for this doe)**
 - Stature/strength/capacity package; Dairyness 33 compatible with her 40
+- Flattens less than Michael (28 vs 34)
 
 **Cons / risks (for this doe)**
 - Rump Width 24 vs her 35 — meaningful loss of a herd-defining strength (higher)
-- Rump Angle 28 only mild help and pairs with narrow width (moderate)
+- Still some flattening of 24 without width mitigation (moderate)
 
 **Fit summary:** Costs too much width for what he returns.
 
@@ -60,15 +62,15 @@ Sapphire is the herd’s highest-scoring doe and a dairyness / rear-udder / widt
 | Strength | 29 | 36 | 36 | adequate est. |
 
 ## Recommendation
-**Primary pick:** Michael — lifts strength and rump-angle direction with the least damage to her exceptional width among appraised bucks.
+**Primary pick:** Michael — lifts strength with the least damage to her exceptional width among appraised bucks; he flattens her steep 24 toward 34, buffered by width 35. Do not call this a “steeper angle” improvement.
 
 **Runner-up:** Finale — only if deliberately banking on estimated dairyness/width lock-in and accepting mammary uncertainty.
 
 **Avoid or deprioritize:** Smithy — narrow rump is the wrong trade against a 35-width doe.
 
 ## Benefit / Risk / Mitigation Package (recommended mating)
-- **Benefit:** Strength and angle improvement; retain high Final Score potential
-- **Risk:** Width regression and unresolved MSL/teats (moderate)
+- **Benefit:** Strength lift; retain high Final Score potential; width better preserved than with Smithy
+- **Risk:** Flattening of steep Rump Angle; width regression; unresolved MSL/teats (moderate)
 - **Mitigation:** Prefer retaining her widest daughters; plan outside mammary genetics for the soft-support gap
 - **Assessment:** Favorable among on-hand choices; mammary still open
 

@@ -5,13 +5,13 @@
 **Age / Lactation at appraisal:** ~1y 4m / Lactation 1 (appraisal 26-Jul-2026)  
 **Final Score:** `VVVA 84`  
 **Official LA stature score:** 23  
-**Favorite animal:** Yes — protect liked Rump Angle; treat as a very young first-freshener.
+**Favorite animal:** Yes — protect liked flatter Rump Angle (scale: 0 steep → 50 flat); treat as a very young first-freshener.
 
 ## Summary
-Tinkles is the youngest scored doe and already shows a likeable structural look: General Appearance `V`, Dairy Strength `V`, Body Capacity `V`, Strength 37, and a liked steeper Rump Angle (38). Final Score `VVVA 84` is capped by Mammary `A` — Medial Suspensory Ligament 17, modest Rear Udder Height (28), and soft Teat Placement (20). Expect meaningful mammary maturation potential; still treat current MSL/teat weakness as real. Breeding must **protect Rump Angle 38** while lifting mammary support and, secondarily, Rump Width (25).
+Tinkles is the youngest scored doe and already shows a likeable structural look: General Appearance `V`, Dairy Strength `V`, Body Capacity `V`, Strength 37, and a liked flatter Rump Angle (38). Final Score `VVVA 84` is capped by Mammary `A` — Medial Suspensory Ligament 17, modest Rear Udder Height (28), and soft Teat Placement (20). Expect meaningful mammary maturation potential; still treat current MSL/teat weakness as real. Breeding must **protect Rump Angle 38 against further flattening** while lifting mammary support and, secondarily, Rump Width (25).
 
 ## Strengths
-- **Rump Angle 38** — liked favorite trait; protect deliberately (hard to recover if lost).
+- **Rump Angle 38** — liked flatter favorite trait; protect deliberately against further flattening (hard to recover if lost).
 - **Strength 37 / Body Depth 36 / Body Capacity `V`** — substantial strength for age.
 - **Dairyness 36 / Dairy Strength `V`** — already useful dairy character (unlike Snickers).
 - **Structural letters:** Head `V`, Shoulder Assembly `V`, Legs Front `E`, Feet `V`, Back `E`, Rump `V` — strong General Appearance foundation.
@@ -37,10 +37,10 @@ Tinkles is the youngest scored doe and already shows a likeable structural look:
 - Rear Legs Side View — long-term / low heritability; don’t trade away MSL gains for it.
 - Stature — correct only if partners would pull her line clearly too small.
 - Feet / front legs — already strengths; protect.
-- Rump Angle — not a trait to “improve” toward flatter; only manage transmission risk.
+- Rump Angle — not a trait to “improve” toward flatter; only manage transmission risk (further flattening vs steepening away from the liked look).
 
 ## Breeding Notes
-- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement; ideally adds Rump Width; **must not flatten** her Rump Angle (38). Prefer intermediate-to-steeper angle and wider rumps. **Michael** (Rump Angle 34, Rump Width 28) is the most angle-safe herd option with some width help. **Smithy** (Rump Angle 28, Rump Width 24) risks both flattening relative to her and narrowing — poor favorite-protection fit. **Finale** (estimated) may help width/dairyness but is soft on teats and only middling MSL — use carefully and only if angle/width package is acceptable.
-- **Key offspring risks:** Losing the liked Rump Angle; stacking soft MSL + Teat Placement; leaving Rump Width narrow so future flat-angle risk has no buffer.
+- **Preferred buck type:** Improves Medial Suspensory Ligament and Teat Placement; ideally adds Rump Width; **must not further flatten** her Rump Angle (38). Prefer bucks with RA ≤ 38 and wider rumps. **Michael** (Rump Angle 34, Rump Width 28) is slightly steeper than her 38 — he does not further flatten; most angle-safe herd option with some width help. **Smithy** (Rump Angle 28, Rump Width 24) steepens (does not flatten) her liked 38 and stays narrow — changes the liked angle and is a poor favorite-protection fit. **Finale** (estimated) may help width/dairyness but is soft on teats and only middling MSL — use carefully and only if angle/width package is acceptable.
+- **Key offspring risks:** Further flattening of the liked Rump Angle; steepening away from the liked flatter look with lower-RA bucks; stacking soft MSL + Teat Placement; leaving Rump Width narrow so future flat-angle risk has no buffer.
 - **Mitigations:** State angle protection explicitly in every proposed mating; require width when the buck is flatter than she is; do not use her as a test mating for unproven soft-mammary bucks.
 - Favorite + youngest doe: favor conservative mammary-improving mates; re-appraise next lactation before major multi-year decisions.
