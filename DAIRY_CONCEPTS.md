@@ -1,6 +1,6 @@
 # DAIRY_CONCEPTS.md
 **ADGA Linear Appraisal concepts, trait scales, and terminology**  
-**Authoritative source:** [ADGA Linear Appraisal SOP (Revised 3/2025)](https://adga.org/wp-content/uploads/2025/03/2025Linear-SOPDraft1.pdf)  
+**Authoritative source:** [ADGA Linear Appraisal SOP (Revised 3/2026)](https://adga.org/wp-content/uploads/2026/03/2026-Linear-SOP.pdf)  
 **Last updated:** 2026-07-28  
 
 Authoritative reference for how Linear Appraisal (LA) traits are defined, measured, and scored.  
@@ -60,13 +60,14 @@ Use these words when describing scores:
 
 ## System overview
 
-Per the **2025 Linear Appraisal SOP** (§2):
+Per the **2026 Linear Appraisal SOP** (§2):
 
 - Evaluates individual type traits that affect structural and functional durability.
 - Three parts: **linear traits**, **structural/functional characteristics**, and **major scorecard categories** (including Final Score).
-- **15 primary linear traits** scored to describe the biological range for that trait. Most use **1–50**; **Rear Udder Side View** uses **0–4** (SOP §14.11). The description does **not** set a certain point as “ideal,” nor are more, fewer, or mid-range points inherently more desirable (SOP §2.4).
-- **Eight structural/functional areas:** head, shoulder assembly, front legs, rear legs, feet, back, rump, and udder texture — letter-rated **P / F / A / G / V / E** (SOP §2.5).
+- **15 primary linear traits** scored to describe the biological range for that trait. Most use **1–50**. The description does **not** set a certain point as “ideal,” nor are more, fewer, or mid-range points inherently more desirable (SOP §2.4).
+- **Structural/functional assessment (SOP §2.5):** seven areas letter-rated **P / F / A / G / V / E** — head, shoulder assembly, front legs, rear legs, feet, back, and rump — plus **Rear Udder Side View** on a **0–4** scale (degree of udder visible behind the leg in side profile).
 - **Major categories:** General Appearance, Dairy Strength, Body Capacity, and Mammary System (Mammary = does; three categories for bucks), plus Final Score.
+- **Udder texture** is recorded on Excellent **93+** animals (high-score verification form), not as one of the seven lettered structural areas (SOP §14.2).
 - Miscellaneous codes / remarks provide additional herd-owner information (functional codes publish in performance media).
 
 **Genetic evaluation / sire summaries:** Primary linear trait data **plus Final Score** feed USDA/CDCB algorithms for sire summaries (SOP §2.4). Structural letters and most remarks are for management/promotion.
@@ -81,10 +82,12 @@ Per the **2025 Linear Appraisal SOP** (§2):
 
 | Kind | What it is | Scale |
 |------|------------|--------|
-| Primary **linear traits** | Observed biological position | Usually **1–50**; RUSV **0–4** |
-| **Structural / functional areas** | Head, shoulders, legs, feet, back, rump, udder texture | Letter: **E / V / G / A / F / P** |
+| Primary **linear traits** | Observed biological position | Usually **1–50** |
+| **Structural / functional** | Head, shoulders, legs, feet, back, rump | Letter: **E / V / G / A / F / P** |
+| **Rear Udder Side View** | Udder behind the leg (side profile) | **0–4** (SOP §2.5 / §14.11) |
 | **Major categories** | General Appearance, Dairy Strength, Body Capacity, Mammary | Same letters (Mammary = does) |
 | **Final Score** | Overall closeness to functional ideal | Numeric for appraised animals (except Poor = `P` in some contexts) |
+| **Udder texture** | Tissue quality (FS **93+** verification) | Recorded on high-score form (SOP §14.2) |
 
 ### Letter ratings (structural areas & major categories)
 
@@ -294,14 +297,14 @@ Posty tendency often **≤20**; greater angulation often **≥30**. Extremes eit
 
 **Meaning:** Height of rear udder attachment relative to the body. **Not scored on bucks** (SOP §14.10.A).
 
-**SOP method (critical — multi-size breeds):** Absolute inch conversion is **not** used. The appraiser visually assesses secretory tissue height relative to the span from **point of hock** to **base of pelvic arch**:
+**SOP method (critical — multi-size breeds):** Absolute inch conversion is **not** used. The appraiser visually assesses secretory tissue height relative to the span from **point of hock** to **base of pelvic arch** (SOP §14.10.B–C):
 
 | Landmark | Linear score |
 |----------|-------------:|
-| Midpoint (halfway pelvic arch ↔ hock) | **10** |
-| ⅝ above hock | **20** |
-| ¾ above hock | **30** |
-| ⅞ above hock | **40** |
+| Midpoint (halfway pelvic arch ↔ hock) | **1** |
+| ⅝ above hock | **13** |
+| ¾ above hock | **25** |
+| ⅞ above hock | **38** |
 | At pelvic arch | **50** |
 
 **Polarity:** Low = low attachment; high = high attachment.
@@ -405,7 +408,7 @@ Outside-third placements are typically **&lt;25** (**wide** placement); more med
 
 **SOP Appendix A:**  
 - Very narrow: ≤ **½″** standard / ≤ **¼″** miniature → **≤5**  
-- Intermediate: about **1½″** standard (proportionate miniature) → **25**  
+- Intermediate: **1½″** standard / **¾″** miniature → **25**  
 - Very wide: ≥ **2½″** standard / ≥ **1¼″** miniature → **≥45**  
 - Step: **½″** standard / **¼″** miniature ≈ **10 points**
 
@@ -436,9 +439,9 @@ Outside-third placements are typically **&lt;25** (**wide** placement); more med
 
 ### Mammary — Rear Udder, Side View (RUSV)
 
-**Meaning:** Shape of the rear udder extending behind the rear leg when legs are square beneath the doe. Indicates rear-udder milk capacity.
+**Meaning:** Degree of udder visible behind the leg when viewed in side profile (SOP §2.5 / §14.11). Indicates rear-udder milk capacity.
 
-**Scale (SOP §14.11):** **0–4** (not 1–50).
+**Scale:** **0–4**.
 
 | Score | Description |
 |------:|-------------|
@@ -446,24 +449,26 @@ Outside-third placements are typically **&lt;25** (**wide** placement); more med
 | **2–3** | Intermediate fullness |
 | **4** | Extremely rounded, bulging, or protruding (beyond the vulva) |
 
-**Polarity:** Low = flat / little capacity; high = rounded / bulging / protruding. Intermediate fullness is often the practical target; avoid extremes.
+**Polarity:** Low = flat / little capacity; high = rounded / bulging / protruding. Intermediate fullness is often the practical target.
 
 ---
 
-## Structural / functional areas (letter scores)
+## Structural / functional areas
 
-Eight areas (SOP §2.5), letter-rated **P / F / A / G / V / E**:
+Per SOP §2.5:
 
-| Area | Notes |
+| Area | Scale |
 |------|--------|
-| Head | |
-| Shoulder Assembly | |
-| Front Legs | |
-| Rear Legs | |
-| Feet | |
-| Back | |
-| Rump | Structural rump evaluation (not the same as linear Rump Angle / Width alone) |
-| Udder Texture | Does; quality/texture of udder tissue. SOP §14.2: routinely recorded on Excellent **93+** animals (high-score verification form); must be re-presented milked out when evaluated for that purpose |
+| Head | Letter **P / F / A / G / V / E** |
+| Shoulder Assembly | Letter |
+| Front Legs | Letter |
+| Rear Legs | Letter |
+| Feet | Letter |
+| Back | Letter |
+| Rump | Letter (structural rump — not the same as linear Rump Angle / Width alone) |
+| Rear Udder Side View | **0–4** (see RUSV above) |
+
+**Udder texture** (does): recorded on Excellent **93+** animals on the high-score verification form; doe must be re-presented milked out when evaluated for that purpose (SOP §14.2).
 
 Does with dry mammary systems remain eligible for mammary scores in the Excellent range (SOP §14.1).
 
@@ -686,7 +691,7 @@ Use this section when a breeding or selection package includes an undesirable ex
 6. **Inventing heritabilities** — do not fabricate numbers; cite known approximate ranges only when needed.
 7. **Ignoring miniature scales** — stature, rump width, udder depth, MSL, teat diameter, and teat length have official miniature inch→score tables in SOP Appendix A.
 8. **Treating RUSV as a 1–50 trait** — it is **0–4**.
-9. **Using absolute-inch RUH conversion** — mature RUH is body-relative (midpoint = 10, ¾ = 30, etc.).
+9. **Using absolute-inch RUH conversion** — mature RUH is body-relative (midpoint = **1**, ¾ = **25**, ⅞ = **38**, pelvic arch = **50**).
 10. **Using `+` as the only Good Plus letter** — official SOP letter is **G** (`+` on older exports = same band).
 11. **Mixing herd preferences into this file** — keep owner target bands and animal-specific priorities out of concepts.
 
@@ -694,8 +699,8 @@ Use this section when a breeding or selection package includes an undesirable ex
 
 ## Source
 
-American Dairy Goat Association — *Linear Appraisal SOP* (Revised 3/2025).  
-PDF: https://adga.org/wp-content/uploads/2025/03/2025Linear-SOPDraft1.pdf  
+American Dairy Goat Association — *Linear Appraisal SOP* (Revised 3/2026).  
+PDF: https://adga.org/wp-content/uploads/2026/03/2026-Linear-SOP.pdf  
 
 Also referenced by the SOP: current *ADGA Guidebook* Article X (Linear Appraisal); Unified Scorecard (SOP Appendix C); LA education materials (SOP Appendix D).
 
