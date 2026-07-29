@@ -11,6 +11,7 @@ Repo file roles and allowed dependencies: see `README.md`.
 3. Herd Report
 4. Doe Breeding Report
 5. Buck Breeding Report
+6. Herd Breeding Report
 
 ---
 
@@ -36,6 +37,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 1. **Read the Inputs table above** (only the files needed for that report type).
 2. **Pick the report type** from the prompt. If the animal or pairing is named, use that. Otherwise:
    - Herd Report → animals on the breeding roster; scores from the score table.
+   - Herd Breeding Report → every available doe×buck on the breeding roster; assign max-BIS pairs.
    - Doe Breeding Report → every available buck on the breeding roster (unless the prompt narrows the set).
    - Buck Breeding Report → every available doe on the breeding roster (unless the prompt narrows the set).
    - Never treat reference-score animals as on-hand breeding partners unless they also appear on the breeding roster.
@@ -47,6 +49,7 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 - `Produce a Planning Report for [Buck] × [Doe] based on LA_REPORT_GUIDELINES.md`
 - `Produce a Doe Breeding Report for [Barn Name] based on LA_REPORT_GUIDELINES.md`
 - `Produce a Buck Breeding Report for [Barn Name] based on LA_REPORT_GUIDELINES.md`
+- `Produce a Herd Breeding Report based on LA_REPORT_GUIDELINES.md`
 
 ---
 
@@ -62,7 +65,8 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 8. Style: clear headings, scannable bullets, actionable closings — not open-ended discussion.
 9. For Doe Breeding Reports: compare **every available buck** on the breeding roster; compute **BIS** for each pair; list **most → least by BIS**; primary pick = highest BIS.
 10. For Buck Breeding Reports: compare **every available doe** on the breeding roster; compute BIS for each pair (same score as the doe-side report); list **most → least by BIS**; primary pick = highest BIS.
-11. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-[barn].md`, `breeding-[barn].md`, `herd-[herd-slug].md`, `planning-[buck]-x-[doe].md`.
+11. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-[barn].md`, `breeding-[barn].md`, `herd-[herd-slug].md`, `herd-breeding-[herd-slug].md`, `planning-[buck]-x-[doe].md`.
+12. For Herd Breeding Reports: assign **every available doe** on the breeding roster a primary buck by **max BIS** (same scores as Doe/Buck Breeding Reports); if one buck is primary for many does, add a **service-priority** order (highest BIS first, then largest BIS edge over the confirmed runner-up) and a confirmed-score fallback plan.
 
 ### Trait priority lens
 
@@ -437,6 +441,65 @@ Compact table: each doe vs the buck’s priority transmitting traits (e.g. Media
 - Estimated bucks: label every claim as estimated; be more conservative on primary picks when several BIS values are close after ConfidencePenalty.
 - Keep any existing Individual Report or Doe Breeding Report recommendations consistent where the same pair appears; this report should still stand alone.
 - Write reports to `reports/` as `breeding-[barn-name].md` (lowercase barn name). Same filename pattern as Doe Breeding Reports — one breeding report per animal.
+
+---
+
+## Report Type 6: Herd Breeding Report
+
+**Purpose:** Season-level pairing plan for the whole breeding roster — one best on-hand buck for each available doe (by BIS), plus homozygous/reinforced strengths, risks, kid-selection notes, and what outside genetics would move the herd most. Complements Type 3 Herd Report (strategic overview) and Types 4–5 (per-animal rankings); does not replace them.
+
+### Template
+
+```markdown
+# Herd Breeding Report: [Herd Name]
+
+**Appraisal / data set:**
+**Does on roster:** (count + names)
+**Bucks on roster:** (count + names)
+**Objective:** Maximize expected herd Final Score / high-impact linears via BIS-ranked pairs
+
+## Season Pairing Plan
+
+Table: Doe | Doe FS | Primary buck | BIS | Confirmed runner-up | Notes
+
+Then short bullets:
+- How primary picks were chosen (max BIS per doe)
+- Service priority if one buck is oversubscribed
+- Confirmed-score fallback plan (e.g. when estimated bucks are capped)
+
+## Recommended Pairs (detail)
+
+One subsection per recommended pair, scored does first (BIS descending), incomplete-LA last:
+
+### [Buck] × [Doe] — BIS +X.X
+**Why this pair:** 1–2 sentences on gap closure vs herd goals.
+**Likely homozygous / reinforced strengths:** Traits both sides score well (≥~30 or clear standout) — what kids are most likely to inherit as a package.
+**Risks:** Stacked faults, extremes, estimate uncertainty, strengths-to-protect — severity low / moderate / higher.
+**Kid selection:** What to keep / cull-lean on in daughters and sons (MSL, teats, dairyness, width, RA band, etc.).
+
+## Buck Utilization
+
+Brief: which bucks carry the season, which are situational, which are limited by estimate or width.
+
+## Outside Genetics — Biggest Herd Levers
+
+**Outside buck (preferred):** Concrete trait targets (scores/ranges) that close herd-wide gaps the on-hand bucks cannot.
+**Outside doe (optional):** When adding dams would help more than another sire.
+**What not to chase first:** Traits already strong herd-wide or low-h² distractions this season.
+
+## Season Notes
+
+Timing, re-appraisal (young bucks/does), Lux/incomplete-LA handling, when to refresh this report.
+```
+
+### Type-specific notes
+- Default animal set = **`HERD_BREEDING_ROSTER.md`** only.
+- Primary pair for each doe = **highest BIS** among available bucks (must match that doe’s Doe Breeding Report). Incomplete doe LA → primary still named if useful, but BIS **N/A** and deprioritize.
+- Do not invent a second ranking system; if you override max-BIS for capacity or confirmed-score preference, say so explicitly and show the BIS cost.
+- **Homozygous / reinforced** = both parents strong or clearly above intermediate on the same trait (or dam elite + sire at least adequate). Mark estimated buck traits as estimated.
+- Outside-genetics section must name the herd’s binding gaps (usually Medial Suspensory Ligament and Teat Placement when bucks lack proven mammary transmitting) with target score bands — not vague “better udders.”
+- Keep per-pair detail shorter than a Planning Report; point to `reports/breeding-[barn].md` for full rankings.
+- Write reports to `reports/` as `herd-breeding-[herd-slug].md` (e.g. `herd-breeding-forged-farm.md`).
 
 ---
 

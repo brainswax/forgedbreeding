@@ -89,7 +89,8 @@ Written under `reports/`:
 |---------|---------|
 | `individual-[barn].md` | Individual LA report |
 | `breeding-[barn].md` | Doe or Buck Breeding Report (partners ranked by BIS) |
-| `herd-[slug].md` | Herd-level summary |
+| `herd-[slug].md` | Herd-level summary (Type 3) |
+| `herd-breeding-[slug].md` | Season pairing plan for the breeding roster (Type 6) |
 | `planning-….md` | Pair planning report |
 
 Barn Names come from `HERD_ROSTER.md` (e.g. Michael, Snickers, Amber).
