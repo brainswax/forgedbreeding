@@ -7,38 +7,44 @@
 **Official LA stature score:** 23
 
 ## Summary
-Amber is a strong dairy/body doe (Dairy Strength / Body Capacity both `E`, Dairyness 36) with excellent Rear Udder Height (40). She has the herd’s steepest Rump Angle (21) and narrowest Rump Width (21). Prefer moving RA toward 30–35 and adding width for pelvic capacity. Mammary `V` is limited by Medial Suspensory Ligament 17 and wide Teat Placement 17. Official stature (23) is above the owner-height expectation (~15).
+
+Amber is a strong dairy/body first-freshener (Dairy Strength and Body Capacity both `E`, Dairyness 36) with high Rear Udder Height (40). Binding limits are Medial Suspensory Ligament 17, wide Teat Placement 17, Rump Width 21 (narrowest scored doe), and steep Rump Angle 21. Prefer partners that lift MSL and teat placement, add width, and move angle toward the herd preferred band 30–35. Official stature (23) sits above the owner-height expectation (~15).
 
 ## Strengths
+
 - **Dairyness 36** / Dairy Strength `E`
 - **Body Depth 37**, Strength 34, Body Capacity `E`
 - **Rear Udder Height 40** — protect
-- **Fore Udder Attachment 35 / Rear Udder Arch 34** (arch low-h² — protect)
-- **Udder Depth 35** — toward shallower/higher (favorable vs deep extremes)
-- **Rear Legs Side View 34**
+- **Fore Udder Attachment 35** / **Rear Udder Arch 34** (arch is low-h² — protect)
+- **Udder Depth 35** — toward shallow/high (favorable vs deep extremes)
+- **Rear Legs Side View 34** — intermediate–angled; adequate
 
 ## Weaknesses / Areas for Improvement
-1. **Medial Suspensory Ligament 17**; **Teat Placement 17** (wide); **Teat Diameter 20** (narrow)
-2. **Rump Width 21** — narrowest scored doe
-3. **Rump Angle 21** — steep; prefer toward 30–35
-4. **General Appearance `G`** — Shoulder / structural Rump `A`
-5. **Stature** — owner height vs LA disagree; secondary to mammary/width
+
+1. **Medial Suspensory Ligament 17** (weak) and **Teat Placement 17** (wide); **Teat Diameter 20** (narrow) — top Final Score / longevity levers  
+2. **Rump Width 21** — narrow; limits pelvic capacity  
+3. **Rump Angle 21** — steep; prefer correction toward 30–35  
+4. **General Appearance `G`** — Shoulder Assembly `A`, structural Rump `A`  
+5. **Stature** — owner height vs LA disagree; secondary to mammary and width  
 
 ## Highest-ROI Improvement Targets
+
 1. Medial Suspensory Ligament and Teat Placement  
 2. Rump Width  
-3. Rump Angle toward preferred 30–35 (with a buck that also adds width)  
-4. Hold Dairyness and Rear Udder Height  
+3. Rump Angle toward preferred 30–35 (ideally with a buck that also adds width)  
+4. Hold Dairyness and Rear Udder Height in daughters  
 
 ## Lower-Priority or Harder Traits
+
 - Rear Udder Arch — already good and low-h²  
 - Strength 34 — adequate  
 - Stature discrepancy — note only  
 
 ## Breeding Notes
-- **Preferred on-hand buck (BIS):** **Finale** (estimated, BIS +11.3) — estimated width + dairyness + modest MSL; unappraised. Full ranking: `reports/breeding-amber.md`.
-- **Top appraised:** **Michael** (BIS +4.9) — measured width upgrade (28) and RA 34 in the preferred band (correction from 21).
-- **Smithy** (BIS +2.9) — less width help (24).
-- **Key risks:** MSL/teats may stay weak; stacking narrow rumps if the buck is also narrow; Finale estimate may not hold. Once angle is ~30+, narrow width is the kidding concern to watch.
-- **Mitigations:** Prefer wider bucks when landing in/near preferred RA; keep dairy-strong, high rear-udder daughters.
-- First lactation — width and mammary strategy can proceed now; re-check teats/MSL next year.
+
+- **Preferred on-hand buck (BIS):** **Finale** (estimated, BIS **+9.7**) — estimated width (~29), modest MSL (~23.5), and angle moving from steep toward preferred; unappraised (`estimated: yes`). Full ranking: `reports/breeding-amber.md`.  
+- **Top appraised:** **Michael** (BIS **+4.9**) — measured Rump Width 28 and Rump Angle 34 in the preferred band (correction from 21). Mammary transmitting unscored on his LA.  
+- **Smithy** (BIS **+2.9**) — less width help (24); RA 28 is partial correction from 21.  
+- **Key risks:** Weak MSL and wide teat placement may persist or stack; Finale’s profile is directional only; once angle nears ~30+, narrow width remains the kidding-capacity concern.  
+- **Mitigations:** Prefer wider bucks when landing in/near preferred RA; protect dairy character and high rear-udder height in daughters.  
+- First lactation — mammary and width strategy can proceed now; re-check MSL and teats next year as she matures.

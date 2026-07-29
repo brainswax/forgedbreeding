@@ -7,36 +7,40 @@
 **Official LA stature score:** 25
 
 ## Summary
-Lizbeth is a strong dairy and capacity doe (Dairy Strength / Body Capacity both `E`) held back by Mammary `G`. Binding limits are Medial Suspensory Ligament 13 and wide Teat Placement 17. She already brings usable Rump Width (31) and high Dairyness (38). Rump Angle 23 is steep — moving toward the preferred band (30–35) is a correction. Official stature (25) reads taller than the owner-height expectation (~17–18).
+
+Lizbeth is a second-lactation dairy/body doe (Dairy Strength and Body Capacity both `E`, Dairyness 38) with usable Rump Width 31. Binding limits are Medial Suspensory Ligament 13 (weakest scored doe), wide Teat Placement 17, and steep Rump Angle 23. Mammary is `G`. Prefer partners that lift MSL and teat placement and move angle toward preferred 30–35 while holding dairyness and width.
 
 ## Strengths
+
 - **Dairyness 38** / Dairy Strength `E`
-- **Strength 36**, **Body Depth 37**, Body Capacity `E`
-- **Rump Width 31**
-- **Rear Udder Height 35 / Rear Udder Arch 34** (arch is low-h² — protect)
-- **Legs Rear `E`**, Back `V`
+- **Body Depth 37**, Strength 36, Body Capacity `E`
+- **Rump Width 31** — protect relative to narrower herd mates
+- **Rear Udder Height 35** / **Rear Udder Arch 34** (arch low-h² — protect)
+- **Fore Udder Attachment 32**, Udder Depth 32, Teat Diameter 25, Teat Length 32
+- **Rear Legs Side View 32** — intermediate
 
 ## Weaknesses / Areas for Improvement
-1. **Medial Suspensory Ligament 13** — primary Final Score and longevity drag
-2. **Teat Placement 17** — wide; Teat Diameter 25 is intermediate
-3. **Rump Angle 23** — steep; prefer movement toward 30–35
-4. **Stature** — owner height suggests a shorter animal than LA 25; watch consistency over time
-5. Structural Rump / Shoulder `G` — secondary polish
+
+1. **Medial Suspensory Ligament 13** (weak) and **Teat Placement 17** (wide) — top Final Score / longevity levers  
+2. **Rump Angle 23** — steep; prefer correction toward 30–35  
+3. **Mammary `G`** — driven by MSL/teats more than rear-udder topography  
+4. **General Appearance `V`** — solid but not the binding gap  
 
 ## Highest-ROI Improvement Targets
-1. Medial Suspensory Ligament  
-2. Teat Placement (toward narrower/closer on the half)  
-3. Hold Dairyness and Rump Width while lifting mammary support  
-4. Rump Angle toward preferred 30–35 when the buck package also fits other goals  
+
+1. Medial Suspensory Ligament and Teat Placement  
+2. Rump Angle toward preferred 30–35 (without giving up width)  
+3. Hold Dairyness and Rump Width  
 
 ## Lower-Priority or Harder Traits
-- Rear Udder Arch / Rear Legs Side View — low-h²; protect current rear-udder strength  
-- Stature mismatch (owner vs LA) — document, don’t over-weight one breeding  
-- Udder Depth 32 — intermediate  
+
+- Rear Udder Arch — already good and low-h²  
+- Strength / Body Depth — adequate to strong  
+- Stature — owner height vs LA close enough; secondary  
 
 ## Breeding Notes
-- **Preferred on-hand buck (BIS):** **Finale** (estimated, BIS +4.8) — lead comes mainly from estimated MSL/teat/width GapClosure; treat as directional until he has his own LA. Full ranking: `reports/breeding-lizbeth.md`.
-- **Top appraised:** **Michael** and **Smithy** (both BIS −0.7) — Michael’s RA 34 sits in the preferred band (correction from 23); Smithy is narrower (RW 24).
-- **Key risks:** MSL/teat improvement may not materialize (especially with unscored bucks); dairyness dilution if the buck is less dairy than 38.
-- **Mitigations:** Prefer partners that don’t erase width 31; outside mammary genetics still needed for MSL 13 / wide TP 17.
-- Lactation 2 already shows the mammary pattern clearly.
+
+- **Preferred on-hand buck (BIS):** **Finale** (estimated, BIS **+4.4**) — estimated MSL/teat/width gap closure; unappraised. Full ranking: `reports/breeding-lizbeth.md`.  
+- **Top appraised:** **Michael** and **Smithy** (both BIS **−0.7**) — Michael’s RA 34 corrects steep 23 into preferred band with better width retention (28) than Smithy (24).  
+- **Key risks:** Weak MSL and wide teat placement may stack; Finale is directional only.  
+- **Mitigations:** Prefer partners that improve MSL/teats; protect dairyness and width in daughters.
