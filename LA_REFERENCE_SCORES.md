@@ -1,6 +1,6 @@
 # LA Reference Scores  
 **Herd breeding reference animals**  
-**Last updated:** 2026-07-29  
+**Last updated:** 2026-07-30  
 
 Full Linear Appraisal records. One row per evaluation.
 
@@ -1061,9 +1061,9 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Final Score format in reports: `GVEV 86`.
 
 ---
-## CADE'S LIL FARM AX CUDDLES (PD1869395)
+## GCH CADE'S LIL FARM AX CUDDLES (PD1869395)
 
-**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Role:** Dam of Cade's Lil Farm AL Tinkles (PD2434405); daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **DOB:** 2017-03-22
 **Sex:** Female
@@ -1071,14 +1071,14 @@ _No Linear History available on ADGA Genetics (guest view)._
 **Dam:** GYPSY MOON DHW GIGGLE MOON (PD1778255)
 **ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001869395
 
-| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
-|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
-| 2024-??-?? | 07-03 | 27 | 33 | 35 | 29 | 32 | 27 | 35 | 36 | 35 | 33 | 27 | 25 | 41 | 36 | 40 | 2 | E | G | V | E | A | E | V | — | V | E | E | E | 91 |
-| 2021-??-?? | 04-03 | 20 | 30 | 34 | 29 | 21 | 25 | 34 | 41 | 38 | 27 | 24 | 26 | 32 | 41 | — | 34 | V | V | V | E | + | E | V | V | V | E | E | E | 91 |
+| Date       | Age (ADGA) | LCT # | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS | PS |
+|------------|------------|-------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|----|
+| 2024-06-27 | 07-03 | 6 | 27 | 33 | 35 | 29 | 32 | 27 | 35 | 36 | 35 | 33 | 27 | 25 | 41 | 36 | 40 | 2 | E | G | V | E | A | E | V | — | V | E | E | E | 91 | YES |
+| 2021-06-11 | 04-02 | 3 | 20 | 30 | 34 | 29 | 21 | 25 | 34 | 41 | 38 | 27 | 24 | 26 | 32 | 41 | — | 34 | V | V | V | E | + | E | V | V | V | E | E | E | 91 | NO |
 
 **Notes**
-- Source: ADGA Genetics Linear History for D001869395 (fetched 2026-07-29).
-- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Source: ADGA Genetics Linear History for D001869395 (screenshot confirmed 2026-07-30; exact appraisal dates and LCT # from score sheet).
+- 2024 appraisal is a permanent score (PS = YES). Notes field `40` recorded as Body Depth (BD).
 - Final Score format in reports: `VEEE 91`, `VEEE 91`.
 - RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
 

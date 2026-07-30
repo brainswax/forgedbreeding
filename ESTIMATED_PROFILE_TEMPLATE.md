@@ -97,8 +97,10 @@ Official LA supplies scored traits. These values fill blanks only.
 | td | 26 |
 ```
 
-Keys: `msl`, `tp`, `td`, `dy`, `rw`, `st` (strength), `stat` (stature), `ra`, plus `estimated` / `fs`.  
+**BIS GapClosure keys:** `msl`, `tp`, `td`, `dy`, `rw`, `st` (strength), `stat` (stature), `ra`, plus `estimated` / `fs`.  
 Positive GapClosure on profile-filled **partner** traits uses the estimate multiplier (×0.75). Full `ConfidencePenalty` (+2) applies when `estimated: yes` on the buck and/or the doe.
+
+**Planning / narrative keys (include when daughter or relative data exists):** `bd` (body depth), `rlsv` (rear legs side view), `ud` (udder depth), and optionally `fa` / `rh` / `rua`. The BIS loader ignores unknown keys today; still record them in Script inputs and the daughter-pattern tables so planning reports are complete.
 
 ---
 
@@ -106,7 +108,7 @@ Positive GapClosure on profile-filled **partner** traits uses the estimate multi
 
 - Keep source reports complete. The AI is responsible for summarization and pattern detection.
 - Store profiles under `profiles/`.
-- **Bucks:** mammary is almost never on the score sheet — prefer daughter-based midpoints when daughters exist.
+- **Bucks:** mammary is almost never on the score sheet — prefer daughter-based midpoints when daughters exist. When typed daughters exist, also publish **BD, strength, RLSV, UD**, and attachment midpoints — not only BIS mammary/frame keys.
 - **Does:** when dry or unscored, prefer dam + paternal half-sib / sire-daughter patterns for a phenotype estimate; mark confidence clearly.
 - Once an animal receives usable own LA, refresh the profile (`estimated: no` + blank fills) or remove full-estimate keys that official scores now cover.
 
