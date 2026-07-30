@@ -25,7 +25,7 @@ Repo file roles and allowed dependencies: see `README.md`.
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks on hand) |
 | `HERD_ROSTER.md` | ADGA identity, Barn Names, LA summary, strengths-to-protect / caveats |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners unless also on the breeding roster) |
-| `profiles/estimated-buck-profile-*.md` | Estimated transmitting values: full profile for unappraised bucks, or mammary/blank fills for appraised bucks |
+| `profiles/estimated-*-profile-*.md` | Estimated phenotype / transmitting values (full estimate or blank fills) |
 | `scripts/bis.py` | Breeding Impact Score implementation |
 
 ---
@@ -81,7 +81,7 @@ BIS = GapClosure − RiskPenalty − ConfidencePenalty
 ```
 
 - Higher = more preferred for expected net LA improvement (after risks).
-- Round to **1 decimal**. Incomplete doe LA → **BIS N/A** (list last).
+- Round to **1 decimal**. Incomplete doe LA with **no** estimated profile → **BIS N/A** (list last). Incomplete/dry does **with** an estimated profile (`estimated: yes`) are scorable; ConfidencePenalty applies.
 - Implementation: the BIS script listed in Inputs (loads animals/scores from markdown; Rump Angle preference band from herd goals when present). **Do not hardcode herd animals or owner preferences in scripts.**
 
 | BIS | Meaning |
@@ -123,9 +123,9 @@ For each trait with numeric doe score `D` and partner value `P` (except Rump Ang
 | Doe Teat Placement ≤ 21 (wide) and partner unscored | `+1.0` |
 | Doe Teat Placement ≤ 21 and partner TP ≤ 22 | `+2.5` |
 
-**ConfidencePenalty:** **`+2.0`** if the partner is fully estimated / unappraised (`estimated: yes` in Script inputs); **`0`** if the partner has own LA (mammary fills from a profile do **not** add ConfidencePenalty — those traits already use the ×0.75 GapClosure multiplier).
+**ConfidencePenalty:** **`+2.0`** if the partner is fully estimated / unappraised (`estimated: yes`); **`+2.0`** if the doe is fully estimated (incomplete/dry LA replaced by a profile with `estimated: yes`). Stack both when applicable. **`0`** for mammary/blank fills on an appraised animal (`estimated: no`) — those traits already use the ×0.75 GapClosure multiplier.
 
-**Profiles & mammary on bucks:** ADGA does not score most mammary linears on bucks. When a matching `profiles/estimated-buck-profile-*.md` exists, the loader uses official LA for scored traits and **fills blanks** (typically `msl`, `tp`, `td`) from Script inputs. Mark filled-trait claims as estimated in report prose.
+**Profiles:** Matching `profiles/estimated-*-profile-*.md` files supply Script inputs. Appraised animals: official LA wins; profile **fills blanks** only. Incomplete/dry does or unappraised bucks: full profile values with `estimated: yes`. Mark estimated claims in report prose.
 
 **Report requirements:** BIS-descending order; BIS in headings; Side-by-Side BIS row preferred; primary = highest BIS. Discuss risks/mitigations from concepts — do not paste preference or mitigation tables into every report.
 

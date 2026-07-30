@@ -26,8 +26,9 @@ README.md  (this file — anchor)
 ├── HERD_BREEDING_ROSTER.md    → HERD_ROSTER.md only
 ├── LA_SCORES_2026.md          optional → DAIRY_CONCEPTS.md (only if needed)
 ├── LA_REFERENCE_SCORES.md     optional → DAIRY_CONCEPTS.md (only if needed)
-├── ESTIMATED_BUCK_PROFILE_TEMPLATE.md → scripts/bis.py only
-├── profiles/estimated-buck-profile-*.md   estimated transmitting profiles (full or mammary fills)
+├── ESTIMATED_PROFILE_TEMPLATE.md → scripts/bis.py only
+├── ESTIMATED_BUCK_PROFILE_TEMPLATE.md → pointer to ESTIMATED_PROFILE_TEMPLATE.md
+├── profiles/estimated-*-profile-*.md   estimated phenotype / transmitting profiles
 ├── LA_REPORT_GUIDELINES.md    may use any source below (listed once in its Inputs table)
 │     ├── GOALS.md
 │     ├── DAIRY_CONCEPTS.md
@@ -35,7 +36,7 @@ README.md  (this file — anchor)
 │     ├── HERD_BREEDING_ROSTER.md
 │     ├── HERD_ROSTER.md
 │     ├── LA_REFERENCE_SCORES.md
-│     ├── profiles/estimated-buck-profile-*.md
+│     ├── profiles/estimated-*-profile-*.md
 │     └── scripts/bis.py
 └── reports/*                  generated report outputs (not source-of-truth docs)
 ```
@@ -50,7 +51,8 @@ README.md  (this file — anchor)
 | `HERD_BREEDING_ROSTER.md` | `HERD_ROSTER.md` only |
 | `LA_SCORES_2026.md` | `DAIRY_CONCEPTS.md` only if needed |
 | `LA_REFERENCE_SCORES.md` | `DAIRY_CONCEPTS.md` only if needed |
-| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | `scripts/bis.py` only |
+| `ESTIMATED_PROFILE_TEMPLATE.md` | `scripts/bis.py` only |
+| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | pointer only — use `ESTIMATED_PROFILE_TEMPLATE.md` |
 | `profiles/*` | follow template; Script inputs for full estimate or blank/mammary fills |
 | `LA_REPORT_GUIDELINES.md` | any of the above (minimize; list each once) |
 | Any file | `README.md` if it needs the map |
@@ -68,8 +70,9 @@ When a dependency is needed, name the file **once** near the top (or in one Inpu
 | `HERD_BREEDING_ROSTER.md` | Who is currently available to breed (does and bucks) |
 | `LA_SCORES_2026.md` | Current herd linear traits, categories, Final Scores |
 | `LA_REFERENCE_SCORES.md` | Outside / pedigree reference scores (not on-hand partners) |
-| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | Template for buck profiles (+ BIS script inputs) |
-| `profiles/estimated-buck-profile-*.md` | Estimated transmitting profiles (unappraised bucks, or mammary fills on appraised bucks) |
+| `ESTIMATED_PROFILE_TEMPLATE.md` | Template for estimated doe/buck profiles (+ BIS script inputs) |
+| `ESTIMATED_BUCK_PROFILE_TEMPLATE.md` | Deprecated pointer → `ESTIMATED_PROFILE_TEMPLATE.md` |
+| `profiles/estimated-*-profile-*.md` | Estimated phenotype (does) or transmitting (bucks) profiles |
 
 ## Profiles
 
@@ -77,9 +80,11 @@ Written under `profiles/` (not `reports/`):
 
 | Pattern | Meaning |
 |---------|---------|
-| `estimated-buck-profile-[slug].md` | Transmitting profile: full estimate and/or mammary blank-fills for BIS |
+| `estimated-profile-[slug].md` | Preferred: full estimate or blank fills (doe or buck) |
+| `estimated-buck-profile-[slug].md` | Legacy / buck-specific name (still loaded) |
+| `estimated-doe-profile-[slug].md` | Optional doe-specific name (still loaded) |
 
-Appraised bucks often lack mammary linears. A matching profile fills those blanks for BIS; official LA still wins for traits that were scored.
+Appraised bucks often lack mammary linears. A matching profile fills those blanks for BIS; official LA still wins for traits that were scored. Dry or incomplete does can use a full estimated profile (`estimated: yes`) so BIS can run.
 
 ## Reports
 
@@ -112,7 +117,7 @@ All Python lives in `scripts/`.
 1. **`HERD_BREEDING_ROSTER.md`** — available does and bucks (Barn Name + Reg #)
 2. **`HERD_ROSTER.md`** — Barn Names, owner heights, notes
 3. **`LA_SCORES_2026.md`** — linear traits and Final Scores by Reg #
-4. **`profiles/estimated-buck-profile-*.md`** — Script inputs for unappraised bucks, and mammary/blank fills for appraised bucks with a matching profile
+4. **`profiles/estimated-*-profile-*.md`** — Script inputs for unappraised/incomplete animals, and blank fills for appraised animals with a matching profile
 
 `scripts/bis.py` also reads **`Preferred Rump Angle band: LOW–HIGH`** from `GOALS.md` when present. Functional risks/mitigations stay in `DAIRY_CONCEPTS.md` only.
 
@@ -130,7 +135,7 @@ Same doe×buck pair always gets the same BIS in Doe and Buck Breeding Reports. H
 
 1. Keep `HERD_BREEDING_ROSTER.md` and `HERD_ROSTER.md` current.
 2. Enter new LA scores in `LA_SCORES_2026.md`.
-3. For bucks, maintain a `profiles/estimated-buck-profile-*.md` when unappraised **or** when mammary transmitting estimates are needed alongside official LA.
+3. Maintain a `profiles/estimated-*-profile-*.md` when an animal is unappraised/incomplete **or** when blank-trait fills (e.g. buck mammary) are needed alongside official LA.
 4. Run `python3 scripts/bis.py` and refresh breeding reports per `LA_REPORT_GUIDELINES.md`.
 
 ## Language

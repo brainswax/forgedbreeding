@@ -110,7 +110,7 @@ Also holds per-animal notes (LA summary, strengths-to-protect, role, caveats). P
 **Sire:** Cade's Lil Farm SE Sleepnstag (PD2076291)  
 **Dam:** Cade's Lil Farm SE Venice (PD2166626)  
 **LA (2026):** Incomplete (Final Score NA)  
-**Notes:** In breeding pool; state the incomplete-LA gap if recommending her in a Buck Breeding Report.
+**Notes:** Dry at 2026 appraisal. Phenotype estimate in `profiles/estimated-profile-lux.md` for BIS until she is scored in milk.
 
 ---
 

@@ -12,7 +12,12 @@ BREEDING_ROSTER = ROOT / "HERD_BREEDING_ROSTER.md"
 HERD_ROSTER = ROOT / "HERD_ROSTER.md"
 LA_SCORES = ROOT / "LA_SCORES_2026.md"
 GOALS = ROOT / "GOALS.md"
-ESTIMATED_PROFILES_GLOB = "profiles/estimated-buck-profile-*.md"
+# Preferred: estimated-profile-*. Also accept legacy estimated-buck- / estimated-doe- names.
+ESTIMATED_PROFILES_GLOBS = (
+    "profiles/estimated-profile-*.md",
+    "profiles/estimated-buck-profile-*.md",
+    "profiles/estimated-doe-profile-*.md",
+)
 
 
 def load_preferred_ra_band(path: Path = GOALS) -> tuple[float, float] | None:
@@ -179,7 +184,7 @@ def parse_la_scores(path: Path = LA_SCORES) -> dict[str, dict]:
 
 def parse_estimated_bis_inputs(path: Path) -> dict:
     """
-    Parse a ## Script inputs (BIS) key/value table from an estimated buck profile.
+    Parse a ## Script inputs (BIS) key/value table from an estimated profile.
 
     Expected markdown:
 
@@ -235,7 +240,10 @@ def merge_profile_fills(base: dict, profile_values: dict) -> tuple[dict, set[str
 
 def find_estimated_profile(reg: str, barn_name: str) -> Path | None:
     """Locate profile whose title Reg # matches, else title barn-name match."""
-    paths = sorted(ROOT.glob(ESTIMATED_PROFILES_GLOB))
+    paths: list[Path] = []
+    for glob in ESTIMATED_PROFILES_GLOBS:
+        paths.extend(ROOT.glob(glob))
+    paths = sorted(set(paths))
     title_reg = re.compile(rf"\({re.escape(reg)}\)")
     for path in paths:
         title = path.read_text().splitlines()[0]
@@ -250,6 +258,72 @@ def find_estimated_profile(reg: str, barn_name: str) -> Path | None:
     return None
 
 
+def _animal_from_scores_and_profile(
+    *,
+    barn: str,
+    reg: str,
+    row: dict | None,
+    profile_values: dict | None,
+    profile: Path | None,
+    animal_meta: dict,
+    require_profile_if_incomplete: bool,
+) -> dict | None:
+    """
+    Build one animal trait dict.
+
+    Complete LA → official traits, optional profile blank-fills.
+    Incomplete/missing LA → full Script inputs from profile, or None if no profile
+    (does) / error (bucks, via require_profile_if_incomplete).
+    """
+    band = load_preferred_ra_band()
+    protect_above = band[1] if band else None
+
+    if row and not row.get("incomplete"):
+        traits = {k: row[k] for k in TRAIT_KEYS}
+        estimated_traits: set[str] = set()
+        if profile_values is not None:
+            traits, estimated_traits = merge_profile_fills(traits, profile_values)
+        ra = traits.get("ra")
+        return {
+            **traits,
+            "protect_ra": (
+                protect_above is not None and ra is not None and ra > protect_above
+            ),
+            "estimated": False,
+            "estimated_traits": estimated_traits,
+            "fs": row["fs"],
+            "reg": reg,
+            "profile": str(profile.relative_to(ROOT)) if profile else None,
+            "owner_height_in": animal_meta.get("owner_height_in"),
+            "registered_name": animal_meta.get("registered_name"),
+        }
+
+    if profile_values is None:
+        if require_profile_if_incomplete:
+            raise FileNotFoundError(
+                f"No LA scores and no estimated profile for {barn} ({reg}). "
+                f"Add scores to {LA_SCORES.name} or a profiles/estimated-*-profile-*.md "
+                f"with a ## Script inputs (BIS) table."
+            )
+        return None
+
+    traits = {k: profile_values[k] for k in TRAIT_KEYS}
+    ra = traits.get("ra")
+    return {
+        **traits,
+        "protect_ra": (
+            protect_above is not None and ra is not None and ra > protect_above
+        ),
+        "estimated": bool(profile_values.get("estimated", True)),
+        "estimated_traits": set(TRAIT_KEYS),
+        "fs": profile_values.get("fs") or "estimated",
+        "reg": reg,
+        "profile": str(profile.relative_to(ROOT)) if profile else None,
+        "owner_height_in": animal_meta.get("owner_height_in"),
+        "registered_name": animal_meta.get("registered_name"),
+    }
+
+
 def load_breeding_animals(
     *,
     breeding_roster: Path = BREEDING_ROSTER,
@@ -259,10 +333,10 @@ def load_breeding_animals(
     """
     Build doe and buck trait maps keyed by Barn Name.
 
-    Does with incomplete LA → value None (BIS N/A).
-    Bucks without usable LA → full Script inputs from estimated profile (`estimated=True`).
-    Bucks with LA → official scores, then fill any blank traits (typically mammary)
-    from a matching `profiles/estimated-buck-profile-*.md` when present.
+    Complete LA → official scores; matching estimated profile fills blanks only.
+    Incomplete/missing LA → full Script inputs from estimated profile when present
+    (`estimated=True`). Does without scores or profile → None (BIS N/A).
+    Bucks without scores or profile → FileNotFoundError.
     """
     does_list, bucks_list = parse_breeding_roster(breeding_roster)
     meta = parse_herd_roster_meta(herd_roster)
@@ -270,63 +344,33 @@ def load_breeding_animals(
 
     does: dict[str, dict | None] = {}
     for barn, reg in does_list:
-        animal_meta = meta.get(reg, {})
-        row = scores.get(reg)
-        if row is None or row.get("incomplete"):
-            does[barn] = None
-            continue
-        ra = row["ra"]
-        band = load_preferred_ra_band()
-        protect_above = band[1] if band else None
-        does[barn] = {
-            **{k: row[k] for k in TRAIT_KEYS},
-            # Protect from further flattening when already above GOALS preferred upper bound
-            "protect_ra": (
-                protect_above is not None and ra is not None and ra > protect_above
-            ),
-            "fs": row["fs"],
-            "reg": reg,
-            "estimated": False,
-            "estimated_traits": set(),
-            "owner_height_in": animal_meta.get("owner_height_in"),
-            "registered_name": animal_meta.get("registered_name"),
-        }
+        profile = find_estimated_profile(reg, barn)
+        profile_values = parse_estimated_bis_inputs(profile) if profile else None
+        does[barn] = _animal_from_scores_and_profile(
+            barn=barn,
+            reg=reg,
+            row=scores.get(reg),
+            profile_values=profile_values,
+            profile=profile,
+            animal_meta=meta.get(reg, {}),
+            require_profile_if_incomplete=False,
+        )
 
     bucks: dict[str, dict] = {}
     for barn, reg in bucks_list:
-        row = scores.get(reg)
         profile = find_estimated_profile(reg, barn)
         profile_values = parse_estimated_bis_inputs(profile) if profile else None
-
-        if row and not row.get("incomplete"):
-            traits = {k: row[k] for k in TRAIT_KEYS}
-            estimated_traits: set[str] = set()
-            if profile_values is not None:
-                traits, estimated_traits = merge_profile_fills(traits, profile_values)
-            bucks[barn] = {
-                **traits,
-                "estimated": False,
-                "estimated_traits": estimated_traits,
-                "fs": row["fs"],
-                "reg": reg,
-                "profile": str(profile.relative_to(ROOT)) if profile else None,
-            }
-            continue
-
-        if profile_values is None:
-            raise FileNotFoundError(
-                f"No LA scores and no estimated profile for buck {barn} ({reg}). "
-                f"Add scores to {la_scores.name} or a profiles/estimated-buck-profile-*.md "
-                f"with a ## Script inputs (BIS) table."
-            )
-        bucks[barn] = {
-            **{k: profile_values[k] for k in TRAIT_KEYS},
-            "estimated": bool(profile_values.get("estimated", True)),
-            "estimated_traits": set(TRAIT_KEYS),
-            "fs": profile_values.get("fs") or "estimated",
-            "reg": reg,
-            "profile": str(profile.relative_to(ROOT)),
-        }
+        animal = _animal_from_scores_and_profile(
+            barn=barn,
+            reg=reg,
+            row=scores.get(reg),
+            profile_values=profile_values,
+            profile=profile,
+            animal_meta=meta.get(reg, {}),
+            require_profile_if_incomplete=True,
+        )
+        assert animal is not None
+        bucks[barn] = animal
 
     return does, bucks
 

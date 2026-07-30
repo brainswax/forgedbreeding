@@ -153,7 +153,13 @@ def bis_pair(
         }
     gc = gap_closure(doe, buck, band)
     rp, reasons = risk_penalty(doe, buck, band)
-    cp = CONFIDENCE_PENALTY_ESTIMATED if buck["estimated"] else 0.0
+    cp = 0.0
+    if buck.get("estimated"):
+        cp += CONFIDENCE_PENALTY_ESTIMATED
+        reasons.append("estimated buck +2.0")
+    if doe.get("estimated"):
+        cp += CONFIDENCE_PENALTY_ESTIMATED
+        reasons.append("estimated doe +2.0")
     score = round(gc - rp - cp, 1)
     return {
         "bis": score,

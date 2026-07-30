@@ -870,3 +870,161 @@ Full Linear Appraisal records. One row per evaluation.
 - Final Score format in reports: `GVGG 82`.
 
 ---
+## CADE'S LIL FARM SE SLEEPNSTAG (PD2076291)
+
+**Role:** Reference sire — own LA (PD2076291)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-02-03
+**Sex:** Male
+**Sire:** OLD MOUNTAIN FARM STAGSURPRISE (PD1804965)
+**Dam:** OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002076291
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 05-04 | 32 | 38 | 35 | 33 | 30 | 40 | — | — | 36 | — | — | — | — | — | 46 | — | E | A | V | E | G | G | A | — | G | E | E | — | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002076291 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GEE 86`.
+- Buck: mammary linears (FA, RH, MS, UD, TP, TD, TL, RUSV) often blank / unscored.
+
+---
+## TWIN WILLOWS SS LIMITEDEDITION (PD2292495)
+
+**Role:** Daughter of CADE'S LIL FARM SE SLEEPNSTAG (PD2076291) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-31
+**Sex:** Female
+**Sire:** CADE'S LIL FARM SE SLEEPNSTAG (PD2076291)
+**Dam:** CADE'S LIL FARM SE VENICE (PD2166626)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002292495
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 22 | 29 | 42 | 32 | 21 | 38 | 35 | 32 | 35 | 20 | 32 | 15 | 33 | 30 | 34 | 1 | V | G | V | G | V | E | G | — | V | E | V | G | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002292495 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEVG 86`.
+
+---
+## TWIN WILLOWS SS LONDON (PD2330571)
+
+**Role:** Daughter of CADE'S LIL FARM SE SLEEPNSTAG (PD2076291) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-31
+**Sex:** Female
+**Sire:** CADE'S LIL FARM SE SLEEPNSTAG (PD2076291)
+**Dam:** TWIN WILLOWS FN HENNA (PD2020215)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002330571
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 19 | 34 | 34 | 22 | 24 | 39 | 34 | 33 | 34 | 17 | 30 | 15 | 18 | 31 | 31 | 1 | G | V | V | V | V | G | A | — | V | V | V | G | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002330571 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVVG 84`.
+
+---
+## TWIN WILLOWS SS LAST CALL GIRL (PD2319451)
+
+**Role:** Daughter of CADE'S LIL FARM SE SLEEPNSTAG (PD2076291) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-05-16
+**Sex:** Female
+**Sire:** CADE'S LIL FARM SE SLEEPNSTAG (PD2076291)
+**Dam:** TWIN WILLOWS J DIVA HIYABINA (PD1723117)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002319451
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-01 | 24 | 25 | 37 | 30 | 21 | 39 | 34 | 36 | 33 | 17 | 37 | 16 | 23 | 34 | 30 | 1 | V | G | G | V | V | G | A | — | G | V | G | G | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002319451 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVGG 82`.
+
+---
+## CADE'S LIL FARM SE VENICE (PD2166626)
+
+**Role:** Subject / herd buck — ADGA Genetics linear history (also in herd scores as PD2166626)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-04-03
+**Sex:** Female
+**Sire:** OLD MOUNTAIN FARM STAGSURPRISE (PD1804965)
+**Dam:** CADE'S LIL FARM BD MEGGIE (PD1743772)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002166626
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 04-02 | 30 | 36 | 36 | 35 | 34 | 38 | 35 | 33 | 29 | 16 | 33 | 22 | 25 | 26 | 35 | 1 | E | G | E | V | G | E | E | — | E | E | V | G | 88 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002166626 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `EEVG 88`.
+
+---
+## OLD MOUNTAIN FARM STAGSURPRISE (PD1804965)
+
+**Role:** Sire of CADE'S LIL FARM SE VENICE (PD2166626)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2016-06-28
+**Sex:** Male
+**Sire:** OLD MOUNTAIN FARM STAG (PD1432634)
+**Dam:** OLD MOUNTAIN FARM MARCH ON DC (PD1584571)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001804965
+
+_No Linear History available on ADGA Genetics (guest view)._
+
+---
+## CADE'S LIL FARM BD MEGGIE (PD1743772)
+
+**Role:** Dam of CADE'S LIL FARM SE VENICE (PD2166626)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2014-02-25
+**Sex:** Female
+**Sire:** FARM OLDESOUTH ZV BANDIT (PD1582984)
+**Dam:** FLANARY KEEPSAKE ELLA (PD1519826)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001743772
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 10-04 | 25 | 36 | 33 | 28 | 31 | 25 | 36 | 36 | 34 | 30 | 26 | 23 | 29 | 29 | 48 | 2 | E | G | V | V | V | E | E | — | E | E | E | E | 92 |
+| 2021-??-?? | 07-04 | 23 | 32 | 34 | 32 | 27 | 24 | 38 | 33 | 29 | 28 | 29 | 28 | 28 | 25 | — | 31 | E | V | E | E | V | E | V | E | E | E | E | E | 92 |
+| 2019-??-?? | 05-05 | 24 | 28 | 34 | 33 | 35 | 27 | 34 | 32 | 28 | 28 | 33 | 25 | 27 | — | — | 23 | V | A | V | V | + | V | + | V | V | E | V | E | 90 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001743772 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `EEEE 92`, `EEEE 92`, `VEVE 90`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM SE MALIBU (PD2166625)
+
+**Role:** Full sibling of CADE'S LIL FARM SE VENICE (PD2166626)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-04-03
+**Sex:** Female
+**Sire:** OLD MOUNTAIN FARM STAGSURPRISE (PD1804965)
+**Dam:** CADE'S LIL FARM BD MEGGIE (PD1743772)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002166625
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 04-02 | 25 | 36 | 38 | 35 | 36 | 36 | 37 | 31 | 33 | 30 | 30 | 31 | 35 | 30 | 39 | 1 | E | G | V | E | V | E | V | — | E | E | E | V | 90 |
+| 2024-??-?? | 03-02 | 28 | 27 | 36 | 33 | 34 | 26 | 35 | 37 | 29 | 34 | 24 | 23 | 37 | 30 | 35 | 2 | V | G | V | V | G | V | E | — | V | E | V | E | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002166625 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `EEEV 90`, `VEVE 89`.
+
+---
