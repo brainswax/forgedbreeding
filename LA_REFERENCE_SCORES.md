@@ -1911,3 +1911,131 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Final Score format in reports: `GVG 84`.
 - Buck: mammary linears blank / unscored. RUA 22 (weak arch on buck record); RW only 25 as yearling.
 
+---
+
+## TALACHE HELIX (S002503503)
+
+**Role:** Estimated buck profile subject — American Saanen kid (not Nigerian Dwarf)
+**Breed:** American Saanen (100% S)
+**DOB:** 2026-03-01
+**Sex:** Male
+**Sire:** TALACHE 'S HILMAR (S002452833)
+**Dam:** TALACHE 'S HARAH (S002260934)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S002503503
+
+**Notes**
+- No Linear History scores (fetched 2026-07-30). Transmitting estimates in `profiles/estimated-buck-profile-helix.md`.
+- **Breed mismatch** vs Forged Farm ND roster — do not treat as an ND herd buck without explicit context.
+
+---
+
+## TALACHE 'S HILMAR (S002452833)
+
+**Role:** Sire of Talache Helix (S002503503)
+**Breed:** American Saanen (100% S)
+**DOB:** 2025-02-22
+**Sex:** Male
+**Dam:** TALACHE 'S HAASHRITA (S001848957)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S002452833
+
+**Notes**
+- No Linear History scores (fetched 2026-07-30). Young unappraised buck; Helix estimate uses Haashrita + her typed daughters as sire-side proxy.
+
+---
+
+## TALACHE 'S HARAH (S002260934)
+
+**Role:** Dam of Talache Helix (S002503503)
+**Breed:** American Saanen (100% S)
+**DOB:** 2022-04-04
+**Sex:** Female
+**Sire:** WILLOW-LANE SH SAVERO (S002193261)
+**Dam:** TALACHE 'S HARLOW (S001932869)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S002260934
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-04 | 27 | 38 | 35 | 40 | 36 | 22 | 39 | 36 | 40 | 30 | 31 | 26 | 35 | 30 | 40 | — | V | G | V | V | G | V | V | — | V | E | E | E | 91 |
+| 2024-??-?? | 02-05 | 28 | 39 | 40 | 37 | 34 | 31 | 39 | 43 | 42 | 23 | 34 | 26 | 28 | — | 38 | — | V | G | V | V | G | V | V | — | V | E | E | E | 90 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for S002260934 (fetched 2026-07-30).
+- Final Score format in reports: `VEEE 91`, `VEEE 90`.
+- Peak card: strong MSL (30), closer TP (26), large TD (35), flat RA (40), **posty RLSV (22)**.
+
+---
+
+## TALACHE 'S HAASHRITA (S001848957)
+
+**Role:** Paternal granddam of Talache Helix; dam of Hilmar — sire-side mammary proxy
+**Breed:** American Saanen (100% S)
+**DOB:** 2017-03-24
+**Sex:** Female
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S001848957
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 07-06 | 41 | 39 | 38 | 40 | 38 | 30 | 34 | 40 | 39 | 19 | 33 | 18 | 29 | 32 | 41 | — | E | E | E | E | E | E | E | — | E | E | E | E | 91 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for S001848957 (fetched 2026-07-30).
+- Final Score format in reports: `EEEE 91`.
+- Elite FS with **weak MSL (19)** and **wide TP (18)**; flat RA 40.
+
+---
+
+## WILLOW-LANE SH SAVERO (S002193261)
+
+**Role:** Maternal grandsire of Talache Helix; sire of Harah
+**Breed:** American Saanen (100% S)
+**DOB:** 2021-03-21
+**Sex:** Male
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S002193261
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 04-05 | 43 | 37 | 36 | 40 | 36 | 36 | — | — | 32 | — | — | — | — | — | 49 | — | V | G | V | V | G | V | V | — | V | E | E | — | 90 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for S002193261 (fetched 2026-07-30).
+- Final Score format in reports: `VEE 90`.
+- Buck: mammary linears blank. Tall, dairy, wide, capacious; flat RA 40.
+
+---
+
+## TALACHE 'S HERMOSAH (S002133720)
+
+**Role:** Daughter of Haashrita — Hilmar/Helix paternal-family progeny reference
+**Breed:** American Saanen (100% S)
+**Sex:** Female
+**Dam:** TALACHE 'S HAASHRITA (S001848957)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S002133720
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 05-07 | 39 | 39 | 38 | 31 | 41 | 32 | 38 | 38 | 38 | 26 | 22 | 23 | 27 | — | 46 | — | E | E | E | E | E | E | E | — | E | E | E | E | 93 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for S002133720 (fetched 2026-07-30).
+- Final Score format in reports: `EEEE 93`.
+- Best typed Haashrita daughter in this pass; intermediate MSL (26); mildly wide TP (23).
+
+---
+
+## TALACHE 'S HASAI (S001939760)
+
+**Role:** Daughter of Haashrita — Hilmar/Helix paternal-family progeny reference
+**Breed:** American Saanen (100% S)
+**Sex:** Female
+**Dam:** TALACHE 'S HAASHRITA (S001848957)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=S001939760
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2019-??-?? | 01-03 | 26 | 27 | 29 | 31 | 29 | 29 | 34 | 38 | 34 | 19 | 28 | 16 | 20 | — | — | — | + | V | V | V | V | V | V | — | + | V | V | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for S001939760 (fetched 2026-07-30).
+- Final Score format in reports: `+VVV 86`.
+- Young first-fresh card; **weak MSL (19)** and **very wide TP (16)** — aligns with Haashrita mammary caution.
+
