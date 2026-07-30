@@ -185,7 +185,7 @@ Frame and mammary keys are daughter midpoints (TD = median). Prefer these over g
 
 **Expected benefit:** Dairy character, usable width, and capacious depth; mid-80s FS potential.
 
-**Main risks:** Wide TP; soft MSL mean; flat RA outliers; deeper-than-ideal UD mean.
+**Main risks:** Wide TP; weak MSL mean; flat RA outliers; deeper-than-ideal UD mean.
 
 **Mitigations:** Do not choose Aladdin sons/daughters as mammary or anti-flat-rump solutions without individual scores; for Tinkles, prefer partners with closer TP, stronger MSL, and RA that eases toward 30–35 without going flatter than 38.
 

@@ -26,7 +26,7 @@
 | Rear Legs Side View | 27 | ≈ **27** | Midpoint ~27 — intermediate set expected |
 | Fore Udder Attachment | **35** | ≈ **32** | Adequate–good attachments expected |
 | Rear Udder Height / Arch | **36** / **35** | ≈ **34** / ≈ **34** | Dam rear udder strong; protect |
-| Medial Suspensory Ligament | **33** (strong) | ≈ **21.5** (soft mean) | Midpoint ~27; **large parental mismatch** — sire-side soft MSL is the main mammary risk |
+| Medial Suspensory Ligament | **33** (strong) | ≈ **21.5** (weak mean) | Midpoint ~27; **large parental mismatch** — sire-side weak MSL is the main mammary risk |
 | Teat Placement | **25** (mildly wide) | ≈ **21** (wide) | Midpoint ~23; **wide-TP risk** |
 | Teat Diameter | **41** (very large) | ≈ **26** (median) | Midpoint ~33.5 — high uncertainty; Aladdin pulls diameter down hard |
 | Udder Depth | 27 | ≈ **32** | Midpoint ~29.5 — watch deeper-than-ideal from sire mean |
@@ -47,7 +47,7 @@
 
 ## Traits at Risk or Likely Weak
 
-- **Medial Suspensory Ligament** — largest complementary gap (dam 33 vs sire ~21.5). Midpoint ~27 is optimistic if the sire side expresses; Aladdin’s daughter book has soft scores on the left of the bell curve (including values ≤17).
+- **Medial Suspensory Ligament** — largest complementary gap (dam 33 vs sire ~21.5). Midpoint ~27 is optimistic if the sire side expresses; Aladdin’s daughter book has weak scores on the left of the bell curve (including values ≤17).
 - **Teat Placement** — both sides wide-leaning; expect ~21–23, not close.
 - **Flat Rump Angle outliers** — Aladdin daughters include RA ≥37. Dam is preferred-band; she does **not** insure against a flat daughter.
 - **Teat Diameter** — dam extreme 41 vs sire median ~26; daughters may land anywhere in a wide band.
@@ -58,7 +58,7 @@
 
 ## Expected Profile of Offspring
 
-This breeding pairs an elite, dairy, wide, strong-MSL dam with an unscored dairy/width/depth sire whose progeny mean is **soft MSL, wide TP, and occasional flat RA**.
+This breeding pairs an elite, dairy, wide, strong-MSL dam with an unscored dairy/width/depth sire whose progeny mean is **weak MSL, wide TP, and occasional flat RA**.
 
 **Most likely to deliver**
 - Strong dairyness (mid-30s)
@@ -73,15 +73,15 @@ This breeding pairs an elite, dairy, wide, strong-MSL dam with an unscored dairy
 - Close teat placement
 - Guaranteed preferred-band RA — flat outliers are part of the Aladdin pattern
 
-**Functional frame for a keeper from this pair:** dairy, capacious, width ≥ ~28–30, RA in **30–35**, and mammary that does **not** take the soft-MSL / wide-TP Aladdin extremes.
+**Functional frame for a keeper from this pair:** dairy, capacious, width ≥ ~28–30, RA in **30–35**, and mammary that does **not** take the weak-MSL / wide-TP Aladdin extremes.
 
 ---
 
 ## Benefit / Risk / Mitigation Package
 
 - **Benefit:** Reinforced dairyness, depth/strength, and a high FS ceiling on a proven `91` dam; width should hold better than narrow-sire pairings.
-- **Risk:** Soft MSL and wide TP from Aladdin’s transmitting mean (moderate–higher); flat RA outlier (moderate); deeper UD mean (moderate); unscored sire (estimate uncertainty).
-- **Mitigation:** After freshening, rank on **MSL, teat placement, and RA** before celebrating dairy/FS. Do not keep a flat, soft-cleft, wide-teat daughter just because she is dairy and capacious.
+- **Risk:** Weak MSL and wide TP from Aladdin’s transmitting mean (moderate–higher); flat RA outlier (moderate); deeper UD mean (moderate); unscored sire (estimate uncertainty).
+- **Mitigation:** After freshening, rank on **MSL, teat placement, and RA** before celebrating dairy/FS. Do not keep a flat, weak-cleft, wide-teat daughter just because she is dairy and capacious.
 - **Assessment:** Conditional-favorable for dairy/score/capacity potential; **mammary and flat-RA selection are mandatory**.
 
 ---
@@ -90,7 +90,7 @@ This breeding pairs an elite, dairy, wide, strong-MSL dam with an unscored dairy
 
 ### How this offspring should be read (selection priorities)
 
-1. **Medial Suspensory Ligament** — require clear improvement over the soft Aladdin mean; dam-like 33 is bonus, not baseline.
+1. **Medial Suspensory Ligament** — require clear improvement over the weak Aladdin mean; dam-like 33 is bonus, not baseline.
 2. **Teat Placement** — prefer closer than ~21; wide + weak MSL → pass as herd doe.
 3. **Rump Angle** — prefer **30–35**; treat ≥37 as the known Aladdin failure mode.
 4. **Rump Width** — expect usable width; narrow daughters are underperforming the parental mid.
@@ -119,7 +119,7 @@ Cuddles × Aladdin should produce **dairy, capacious, mid-to-high 80s daughters 
 | Teat Placement | ~23 | **20** | −3 | **Directionally accurate** (wide; slightly more Aladdin-like) |
 | Rump Width | ~31 | **25** | −6 | **Miss** — narrower than either parent’s mid |
 | Rump Angle | ~30 (preferred) | **38** | +8 | **Miss on mean; hit on flagged outlier risk** |
-| MSL | ~27 | **17** | −10 | **Miss on midpoint; hit on soft-sire risk** |
+| MSL | ~27 | **17** | −10 | **Miss on midpoint; hit on weak-sire risk** |
 | Teat Diameter | ~33.5 | **24** | −9.5 | **Miss** — tracked Aladdin median, not dam |
 | Stature | ~27.5 | **23** | −4.5 | **Miss** (young first-fresh / short) |
 
@@ -136,18 +136,18 @@ Cuddles × Aladdin should produce **dairy, capacious, mid-to-high 80s daughters 
 | UD near mid ~29.5 | 28 | **Hit** |
 | Mid-80s FS package | 84 | **Hit** |
 | Wide TP risk | TP 20 | **Hit** |
-| Soft MSL risk if sire expresses | MS 17 | **Hit** |
+| Weak MSL risk if sire expresses | MS 17 | **Hit** |
 | Flat RA outlier risk from Aladdin book | RA 38 | **Hit** |
 | Usable width ~30+ | RW 25 | **Miss** |
 | Preferred-band RA as the central expectation | RA 38 | **Miss** (mean wrong; right-of-bell-curve risk correctly warned) |
-| Dam-like strong MSL plausible via midpoint | MS 17 | **Miss** — she took the soft left-of-bell-curve Aladdin extreme, not the blend |
+| Dam-like strong MSL plausible via midpoint | MS 17 | **Miss** — she took the weak left-of-bell-curve Aladdin extreme, not the blend |
 
 ### What this says about estimate accuracy
 
-1. **Strengths of the planning method:** Shared parental strengths (**dairyness, depth, legs, strength**) and Aladdin progeny risk language (**soft MSL, wide TP, flat RA outliers**) both landed. Filling BD / RLSV / UD from daughter means made those midpoints **much more accurate** than leaving them blank.
-2. **Weaknesses:** Simple **midpoints overstate central tendency** when parental mismatch is huge (MSL 33 vs 21.5) or when the sire book has fat left/right extremes on the bell curve (soft MSL left; flat RA right). Tinkles looks like an **Aladdin-extreme daughter with Cuddles dairyness**, not a 50/50 blend — especially MSL 17, TP 20, RA 38, RW 25, TD 24.
+1. **Strengths of the planning method:** Shared parental strengths (**dairyness, depth, legs, strength**) and Aladdin progeny risk language (**weak MSL, wide TP, flat RA outliers**) both landed. Filling BD / RLSV / UD from daughter means made those midpoints **much more accurate** than leaving them blank.
+2. **Weaknesses:** Simple **midpoints overstate central tendency** when parental mismatch is huge (MSL 33 vs 21.5) or when the sire book has fat left/right extremes on the bell curve (weak MSL left; flat RA right). Tinkles looks like an **Aladdin-extreme daughter with Cuddles dairyness**, not a 50/50 blend — especially MSL 17, TP 20, RA 38, RW 25, TD 24.
 3. **Practical takeaway:** Treat Aladdin (and similar estimated sires) as **distributional**: publish a midpoint **and** the failure modes. For keep/pass, the failure modes mattered more than the midpoint on mammary/angle. Width remains the clearest pure miss — planning expected ~31 and got 25 despite a 32-width dam.
-4. **Overall grade:** **Good on qualitative risk / dairy-capacity-FS narrative and on daughter-filled BD/RLSV/UD; fair-to-poor on mammary/angle/width midpoints.** The report would have correctly warned a breeder to cull-lean on soft cleft, wide teats, and flat rumps — and Tinkles fails those three — while being too optimistic on width and on “average” RA/MSL.
+4. **Overall grade:** **Good on qualitative risk / dairy-capacity-FS narrative and on daughter-filled BD/RLSV/UD; fair-to-poor on mammary/angle/width midpoints.** The report would have correctly warned a breeder to cull-lean on weak cleft, wide teats, and flat rumps — and Tinkles fails those three — while being too optimistic on width and on “average” RA/MSL.
 
 ### Keeper call under the planning rules
 
