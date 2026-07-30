@@ -1,6 +1,6 @@
 # LA Reference Scores  
 **Herd breeding reference animals**  
-**Last updated:** 2026-07-27  
+**Last updated:** 2026-07-29  
 
 Full Linear Appraisal records. One row per evaluation.
 
@@ -679,4 +679,69 @@ Full Linear Appraisal records. One row per evaluation.
 
 ---
 
-*(Additional reference animals will be appended below as data is provided.)*
+## AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+
+**Role:** Sire of ILENESRASCALS MICHAEL DARLING (PD2277726)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2019-02-21
+**Sex:** Male
+**Sire:** OLD MOUNTAIN FARM CYRUS QUINN (PD1670915)
+**Dam:** WOOD BRIDGE FARM SCARLET ROSE (PD1692001)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002007077
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 06-04 | 48 | 42 | 36 | 28 | 41 | 21 | — | — | 27 | — | — | — | — | — | 41 | — | E | A | G | G | G | V | G | — | G | E | E | — | 88 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002007077 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GEE 88`.
+
+---
+
+## URBAN ACRES ASD TINKER BELL (PD1675567)
+
+**Role:** Dam of ILENESRASCALS MICHAEL DARLING (PD2277726)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2014-02-06
+**Sex:** Female
+**Sire:** ALGEDI FARM MH SPACE DUST (PD1562761)
+**Dam:** QUEEN ANNE'S LACE (PD1464986)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001675567
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2018-??-?? | 04-05 | 30 | 31 | 31 | 25 | 26 | 23 | 34 | 34 | 36 | 28 | 33 | 28 | 18 | — | — | 29 | E | + | + | A | + | E | A | V | V | V | E | E | 90 |
+| 2017-??-?? | 03-04 | 31 | 28 | 29 | 28 | 25 | 27 | 33 | 39 | 41 | 17 | 35 | 20 | 12 | — | — | 25 | V | + | V | V | + | E | E | V | E | V | E | E | 90 |
+| 2016-??-?? | 02-03 | 28 | 26 | 32 | 25 | 27 | 25 | 30 | 30 | 28 | 31 | 33 | 28 | 24 | — | — | 27 | E | + | V | V | V | V | + | V | V | V | V | V | 87 |
+| 2015-??-?? | 01-03 | 21 | 24 | 32 | 26 | 14 | 27 | 28 | 35 | 28 | 22 | 41 | 25 | 21 | — | — | 27 | V | + | A | V | + | E | + | V | + | V | V | V | 87 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001675567 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVEE 90`, `EVEE 90`, `VVVV 87`, `+VVV 87`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+
+## ILENESRASCALS DQ ASHA (PD2277727)
+
+**Role:** Full sibling of ILENESRASCALS MICHAEL DARLING (PD2277726)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-01-09
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** URBAN ACRES ASD TINKER BELL (PD1675567)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002277727
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-05 | 28 | 29 | 31 | 28 | 22 | 24 | 33 | 36 | 37 | 20 | 28 | 26 | 44 | 42 | 38 | 2 | G | A | V | V | A | V | G | — | V | V | V | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002277727 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVVV 85`.
+
+---

@@ -103,6 +103,7 @@ All Python lives in `scripts/`.
 |--------|---------|
 | `scripts/herd_data.py` | Load available animals + traits from markdown |
 | `scripts/bis.py` | Compute / print Breeding Impact Score rankings |
+| `scripts/fetch_adga_linear_refs.py` | Politely fetch ADGA Genetics Linear History for an animal’s parents (+ full siblings) into `LA_REFERENCE_SCORES.md` |
 
 ### Data sources (no hardcoded herd)
 
