@@ -1028,3 +1028,306 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Final Score format in reports: `EEEV 90`, `VEVE 89`.
 
 ---
+## CADE'S LIL FARM BD AXEL (PD1787788)
+
+**Role:** Sire of CADE'S LIL FARM AX SMITHY (PD2380421)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2016-03-27
+**Sex:** Male
+**Sire:** FARM OLDESOUTH ZV BANDIT (PD1582984)
+**Dam:** CMA IP MAYBELLINE (PD1581147)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001787788
+
+_No Linear History available on ADGA Genetics (guest view)._
+
+---
+## CADE'S LIL FARM AL SYDNEY (PD2235669)
+
+**Role:** Dam of CADE'S LIL FARM AX SMITHY (PD2380421)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-03-03
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** THE CO LONDON (PD1970152)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002235669
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 02-03 | 23 | 28 | 31 | 25 | 33 | 21 | 33 | 35 | 40 | 25 | 26 | 19 | 27 | 31 | 38 | 2 | G | G | V | A | A | G | A | — | G | V | E | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002235669 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVEV 86`.
+
+---
+## CADE'S LIL FARM AX CUDDLES (PD1869395)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2017-03-22
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** GYPSY MOON DHW GIGGLE MOON (PD1778255)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001869395
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 07-03 | 27 | 33 | 35 | 29 | 32 | 27 | 35 | 36 | 35 | 33 | 27 | 25 | 41 | 36 | 40 | 2 | E | G | V | E | A | E | V | — | V | E | E | E | 91 |
+| 2021-??-?? | 04-03 | 20 | 30 | 34 | 29 | 21 | 25 | 34 | 41 | 38 | 27 | 24 | 26 | 32 | 41 | — | 34 | V | V | V | E | + | E | V | V | V | E | E | E | 91 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001869395 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEE 91`, `VEEE 91`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM AX HOCUS POCUS (PD1957841)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2018-04-15
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM KMD VANISH (PD1869401)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001957841
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 06-02 | 31 | 34 | 36 | 28 | 35 | 26 | 37 | 32 | 36 | 25 | 24 | 21 | 32 | 30 | 41 | 3 | V | G | E | E | A | V | V | — | V | E | E | E | 92 |
+| 2021-??-?? | 03-02 | 31 | 30 | 35 | 34 | 32 | 27 | 32 | 36 | 35 | 26 | 33 | 22 | 26 | 27 | — | 33 | V | V | + | V | E | E | V | V | V | V | V | E | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001957841 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEE 92`, `VVVE 89`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM AX SKITTLES (PD2030659)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2019-04-14
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM SE LAUGHYTAFFY (PD1950505)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002030659
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 06-00 | 26 | 29 | 33 | 31 | 24 | 28 | 37 | 40 | 36 | 25 | 18 | 23 | 26 | 25 | 38 | 3 | V | G | V | E | V | E | V | — | E | E | E | E | 91 |
+| 2021-??-?? | 02-02 | 23 | 29 | 33 | 33 | 28 | 26 | 41 | 37 | 31 | 25 | 24 | 19 | 22 | 24 | — | 33 | + | V | V | V | V | E | V | V | V | V | E | V | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002030659 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `EEEE 91`, `VVEV 89`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM AX SALEM (PD2160523)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-02-13
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM KMD SPELLBOUND (PD1935668)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002160523
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 03-04 | 28 | 32 | 30 | 24 | 31 | 25 | 34 | 28 | 31 | 24 | 30 | 19 | 30 | 34 | 35 | 2 | V | G | V | G | A | V | A | — | G | V | E | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002160523 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVEV 86`.
+
+---
+## CADE'S LIL FARM AX FIREFLY (PD2160529)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-03-14
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM SE FALINE (PD1968050)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002160529
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 03-06 | 23 | 38 | 36 | 30 | 17 | 30 | 36 | 25 | 25 | 25 | 20 | 15 | 17 | 30 | 38 | 2 | G | G | G | V | A | E | A | — | G | V | E | G | 84 |
+| 2023-??-?? | 02-07 | — | 29 | 39 | 26 | 20 | 34 | 38 | 38 | 36 | 22 | 28 | 22 | 26 | 34 | 36 | 3 | v | a | v | v | g | v | a | — | g | e | v | e | 88 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002160529 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVEG 84`, `geve 88`.
+
+---
+## CADE'S LIL FARM AX MULAN (PD2235666)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-01-01
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002235666
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 02-05 | 25 | 24 | 35 | 26 | 23 | 27 | 31 | 38 | 35 | 20 | 32 | 21 | 24 | 19 | 31 | 2 | G | F | A | V | A | V | A | — | A | V | G | V | 83 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002235666 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `AVGV 83`.
+
+---
+## CADE'S LIL FARM AX ANTHEM (PD2235672)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-03-05
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM AL ARLINGTON (PD2101612)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002235672
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-03 | 24 | 35 | 37 | 35 | 30 | 36 | 37 | 38 | 37 | 18 | 35 | 23 | 25 | 30 | 40 | 2 | G | A | G | E | V | E | G | — | V | E | E | V | 88 |
+| 2024-??-?? | 02-03 | 22 | 24 | 35 | 29 | 25 | 28 | 29 | 35 | 34 | 19 | 33 | 19 | 27 | 30 | 36 | 1 | G | G | G | V | G | G | G | — | G | V | V | G | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002235672 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEV 88`, `GVVG 85`.
+
+---
+## CADE'S LIL FARM AX LORETTA (PD2314365)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-28
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM KMD VANISH (PD1869401)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002314365
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 32 | 36 | 35 | 32 | 29 | 39 | 33 | 39 | 38 | 24 | 28 | 24 | 26 | 31 | 42 | 2 | V | G | V | V | G | V | A | — | V | V | E | V | 88 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002314365 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVEV 88`.
+
+---
+## CADE'S LIL FARM AX TRISHA (PD2314368)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-09-15
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM FN ANASTASIA (PD2037721)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002314368
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-11 | 32 | 17 | 37 | 29 | 21 | 30 | 32 | 40 | 31 | 15 | 34 | 21 | 32 | 24 | 28 | 2 | G | A | G | G | A | E | A | — | G | V | G | V | 84 |
+| 2024-??-?? | 01-09 | 30 | 22 | 31 | 30 | 29 | 26 | 31 | 33 | 36 | 17 | 34 | 17 | 30 | 26 | 28 | 2 | A | A | G | G | A | G | V | — | G | G | V | G | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002314368 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVGV 84`, `GGVG 82`.
+
+---
+## CADE'S LIL FARM AX DANDELION (PD2283179)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-01-19
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM KMD SAFFRON (PD1935666)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002283179
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-05 | 23 | 36 | 37 | 30 | 30 | 24 | 37 | 37 | 37 | 21 | 22 | 25 | 25 | 30 | 41 | 2 | G | V | A | G | G | V | G | — | G | E | E | E | 88 |
+| 2024-??-?? | 01-05 | 25 | 25 | 27 | 28 | 31 | 25 | 31 | 33 | 36 | 18 | 27 | 20 | 24 | 25 | 29 | 2 | G | G | A | G | A | V | G | — | G | G | V | V | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002283179 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GEEE 88`, `GGVV 84`.
+
+---
+## CADE'S LIL FARM AX CHARISMA (PD2332450)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-01-19
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM KMD VANISH (PD1869401)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002332450
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 01-05 | 23 | 23 | 28 | 26 | 28 | 27 | 29 | 37 | 34 | 21 | 39 | 20 | 27 | 28 | 26 | 0 | G | A | G | G | G | G | G | — | G | G | G | G | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002332450 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGGG 82`.
+
+---
+## CADE'S LIL FARM AX JAMBOREE (PD2316750)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-06
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM AL JUBILEE (PD2172530)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002316750
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 24 | 28 | 37 | 31 | 23 | 42 | 39 | 30 | 35 | 16 | 31 | 20 | 25 | 29 | 32 | 2 | V | G | E | V | G | V | G | — | V | V | G | G | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002316750 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVGG 85`.
+
+---
+## CADE'S LIL FARM AX CAPE MAY (PD2293509)
+
+**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-09
+**Sex:** Female
+**Sire:** CADE'S LIL FARM BD AXEL (PD1787788)
+**Dam:** CADE'S LIL FARM SE MALIBU (PD2166625)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002293509
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 24 | 21 | 29 | 26 | 21 | 18 | 34 | 33 | 26 | 30 | 27 | 24 | 26 | 22 | 19 | 1 | G | A | A | G | A | G | A | — | A | G | A | G | 79 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002293509 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `AGAG 79`.
+
+---
