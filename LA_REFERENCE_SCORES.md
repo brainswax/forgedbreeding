@@ -681,7 +681,7 @@ Full Linear Appraisal records. One row per evaluation.
 
 ## AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
 
-**Role:** Sire of ILENESRASCALS MICHAEL DARLING (PD2277726)
+**Role:** Reference sire — own LA (PD2007077)
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **DOB:** 2019-02-21
 **Sex:** Male
@@ -697,9 +697,9 @@ Full Linear Appraisal records. One row per evaluation.
 - Source: ADGA Genetics Linear History for D002007077 (fetched 2026-07-29).
 - Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
 - Final Score format in reports: `GEE 88`.
+- Buck: mammary linears (FA, RH, MS, UD, TP, TD, TL, RUSV) often blank / unscored.
 
 ---
-
 ## URBAN ACRES ASD TINKER BELL (PD1675567)
 
 **Role:** Dam of ILENESRASCALS MICHAEL DARLING (PD2277726)
@@ -727,7 +727,7 @@ Full Linear Appraisal records. One row per evaluation.
 
 ## ILENESRASCALS DQ ASHA (PD2277727)
 
-**Role:** Full sibling of ILENESRASCALS MICHAEL DARLING (PD2277726)
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **DOB:** 2023-01-09
 **Sex:** Female
@@ -743,5 +743,130 @@ Full Linear Appraisal records. One row per evaluation.
 - Source: ADGA Genetics Linear History for D002277727 (fetched 2026-07-29).
 - Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
 - Final Score format in reports: `VVVV 85`.
+
+---
+## ILENESRASCALS SHIRLEY TEMPLE (PD2076640)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-02-19
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** ILENESRASCALS TEACHER'S HOT! (PD1965392)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002076640
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2022-??-?? | 02-04 | — | 22 | 32 | 27 | 22 | 33 | 34 | 38 | 39 | 20 | 32 | 21 | 24 | 27 | 23 | 1 | V | A | E | E | G | G | F | — | V | G | G | V | 85 |
+| 2021-??-?? | 01-04 | 20 | 24 | 33 | 28 | 15 | 29 | 33 | 35 | 30 | 21 | 39 | 22 | 24 | 24 | — | 30 | V | V | V | V | + | V | + | V | V | V | V | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002076640 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VGGV 85`, `VVVV 85`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## ILENESRASCALS DQ IVY (PD2167502)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-04-05
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** URBAN ACRES PAIN IN THE ACE (PD1851643)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002167502
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 03-00 | 24 | 28 | 29 | 25 | 20 | 25 | 30 | 29 | 34 | 26 | 24 | 27 | 25 | 32 | 39 | 3 | G | A | G | V | G | V | G | — | G | G | V | V | 86 |
+| 2023-??-?? | 02-01 | — | 24 | 29 | 23 | 19 | 23 | 37 | 41 | 43 | 24 | 37 | 26 | 25 | 25 | 27 | 3 | v | a | v | v | v | g | a | — | v | v | g | e | 86 |
+| 2022-??-?? | 01-05 | — | 25 | 29 | 26 | 21 | 28 | 35 | 34 | 31 | 22 | 31 | 24 | 25 | 30 | 23 | 2 | V | G | G | E | V | A | A | — | G | G | G | V | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002167502 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGVV 86`, `vvge 86`, `GGGV 82`.
+
+---
+## ILENESRASCALS STARLIGHT AIRES (PD2167503)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-04-05
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** URBAN ACRES PAIN IN THE ACE (PD1851643)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002167503
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2023-??-?? | 02-02 | — | 24 | 35 | 26 | 25 | 29 | 26 | 33 | 28 | 24 | 24 | 19 | 29 | 27 | 25 | 2 | G | G | A | G | A | V | A | — | G | G | G | A | 79 |
+| 2022-??-?? | 01-05 | — | 24 | 29 | 23 | 21 | 26 | 31 | 34 | 39 | 16 | 29 | 17 | 24 | 30 | 30 | 3 | G | A | G | V | G | G | F | — | G | V | G | V | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002167503 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGGA 79`, `GVGV 84`.
+
+---
+## FLYING FEETS DQ FEELIN CHEEKY (PD2293658)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-06
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** AGAPE'S PRIZE ME SO THORNY (PD2169718)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002293658
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 38 | 34 | 31 | 29 | 16 | 22 | 29 | 37 | 32 | 31 | 31 | 26 | 33 | 32 | 32 | 1 | V | A | V | V | G | E | G | — | V | G | V | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002293658 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VGVV 85`.
+
+---
+## FLYING FEETS DQ REDEMPTION (PD2293669)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-03-07
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** ZANZABEEZ TS ROXANNE (PD2091584)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002293669
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 02-03 | 27 | 24 | 34 | 22 | 27 | 24 | 37 | 35 | 36 | 35 | 16 | 21 | 28 | 24 | 29 | 3 | G | V | G | G | G | G | A | — | G | G | G | G | 83 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002293669 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGGG 83`.
+
+---
+## FLYING FEETS DQ AMBROSIA (PD2370048)
+
+**Role:** Daughter of AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-11-19
+**Sex:** Female
+**Sire:** AGAPE'S PRIZE DAMASCUS CQUINN (PD2007077)
+**Dam:** FLYING FEETS M HOSTESS (PD2224766)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002370048
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-07 | 15 | 22 | 34 | 32 | 15 | 36 | 36 | 31 | 34 | 16 | 43 | 20 | 13 | 15 | 29 | 2 | G | A | E | E | A | G | A | — | G | V | G | G | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002370048 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVGG 82`.
 
 ---

@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
 """
-Fetch Linear Appraisal history from ADGA Genetics for an animal's
-parents and siblings, and upsert into LA_REFERENCE_SCORES.md.
+Fetch Linear Appraisal history from ADGA Genetics and upsert into
+LA_REFERENCE_SCORES.md.
 
-Be polite: default 2.0s between requests, identifiable User-Agent,
-small bursts only (parents + siblings — not whole-herd crawls).
+Modes:
+  family (default) — parents + full siblings (optional --half-sibs)
+  daughters        — subject + daughters with type evals (buck progeny refs)
+  progeny          — subject + all progeny with type evals (does and bucks)
 
-Example:
+Be polite: default 2.5s between requests, browser UA (ADGA 403s custom UAs),
+retries on 502/429, paginated progeny only — not whole-site crawls.
+
+Examples:
   python3 scripts/fetch_adga_linear_refs.py D002277726
-  python3 scripts/fetch_adga_linear_refs.py https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002277726
-  python3 scripts/fetch_adga_linear_refs.py D002277726 --half-sibs --dry-run
+  python3 scripts/fetch_adga_linear_refs.py D002007077 --mode daughters
+  python3 scripts/fetch_adga_linear_refs.py D002007077 --mode daughters --dry-run
 
 Source: https://genetics.adga.org/ (ADGA / CDCB public genetics site)
 """
@@ -602,6 +607,76 @@ def collect_family(
     return records
 
 
+def collect_progeny_refs(
+    client: PoliteClient,
+    subject_reg: str,
+    *,
+    daughters_only: bool = True,
+    include_subject_linear: bool = True,
+    limit: int | None = None,
+) -> list[GoatRecord]:
+    """
+    Fetch subject (optional linear) + typed progeny for reference scores.
+
+    daughters_only=True  → sex F only (typical buck mammary reference set)
+    daughters_only=False → all progeny with type evals
+    """
+    subject_reg = normalize_reg(subject_reg)
+    label = "daughters" if daughters_only else "progeny"
+    print(f"Subject {subject_reg} — mode={label}", flush=True)
+
+    subject = fetch_goat(
+        client,
+        subject_reg,
+        role=f"Reference sire — own LA ({adga_to_pd(subject_reg)})",
+        fetch_linear=include_subject_linear,
+    )
+    records: list[GoatRecord] = []
+    if include_subject_linear and subject.linear_available:
+        records.append(subject)
+    elif include_subject_linear and not subject.linear_available:
+        print(
+            "       subject has no Linear History; continuing with progeny",
+            flush=True,
+        )
+
+    prog = fetch_progeny(client, subject_reg)
+    typed = [p for p in prog if has_type_eval(p.eval_code)]
+    if daughters_only:
+        typed = [p for p in typed if p.sex == "F"]
+    typed.sort(key=lambda p: (p.dob or "", p.reg))
+
+    print(
+        f"Typed {'daughters' if daughters_only else 'progeny'}: "
+        f"{len(typed)} of {len(prog)} progeny rows",
+        flush=True,
+    )
+    if limit is not None and limit >= 0:
+        typed = typed[:limit]
+        print(f"Limited to first {len(typed)} (--limit {limit})", flush=True)
+
+    for p in typed:
+        kind = (
+            "Daughter"
+            if p.sex == "F"
+            else "Son"
+            if p.sex == "M"
+            else "Progeny"
+        )
+        role = (
+            f"{kind} of {subject.identity.name} ({adga_to_pd(subject_reg)}) "
+            f"— progeny reference"
+        )
+        print(f"  - {p.reg} {p.name} (Eval={p.eval_code})", flush=True)
+        rec = fetch_goat(client, p.reg, role=role)
+        if rec.appraisals:
+            records.append(rec)
+        else:
+            print(f"       no linear rows for {p.reg}; not writing stub", flush=True)
+
+    return records
+
+
 # ---------------------------------------------------------------------------
 # Markdown emission
 # ---------------------------------------------------------------------------
@@ -838,9 +913,22 @@ def main(argv: list[str] | None = None) -> int:
         help="ADGA reg (D002277726 / PD2277726) or GoatDetail URL",
     )
     ap.add_argument(
+        "--mode",
+        choices=("family", "daughters", "progeny"),
+        default="family",
+        help="family=parents+sibs (default); daughters=typed daughters; "
+        "progeny=all typed progeny",
+    )
+    ap.add_argument(
         "--half-sibs",
         action="store_true",
-        help="Also fetch maternal/paternal half-siblings with type evals",
+        help="(family mode) Also fetch maternal/paternal half-siblings with type evals",
+    )
+    ap.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="(daughters/progeny mode) Max typed kids to fetch after sorting by DOB",
     )
     ap.add_argument(
         "--delay",
@@ -875,19 +963,28 @@ def main(argv: list[str] | None = None) -> int:
 
     client = PoliteClient(delay_s=args.delay)
     print(
-        f"Fetching family for {reg} from ADGA Genetics "
-        f"(delay={args.delay}s, half_sibs={args.half_sibs})",
+        f"Fetching {args.mode} for {reg} from ADGA Genetics "
+        f"(delay={args.delay}s)",
         flush=True,
     )
     print(f"User-Agent: {USER_AGENT}", flush=True)
 
     try:
-        records = collect_family(
-            client,
-            reg,
-            include_half_sibs=args.half_sibs,
-            include_subject_linear=not args.skip_subject_linear,
-        )
+        if args.mode == "family":
+            records = collect_family(
+                client,
+                reg,
+                include_half_sibs=args.half_sibs,
+                include_subject_linear=not args.skip_subject_linear,
+            )
+        else:
+            records = collect_progeny_refs(
+                client,
+                reg,
+                daughters_only=(args.mode == "daughters"),
+                include_subject_linear=not args.skip_subject_linear,
+                limit=args.limit,
+            )
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
         return 1
