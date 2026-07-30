@@ -430,7 +430,7 @@ Full Linear Appraisal records. One row per evaluation.
 
 ## PRIMROSE HILL U NANTAHALA (PD2177213)
 
-**Role:** Daughter of Unlimited (progeny reference); maternal half-sibling to Cascade (same dam Aquata)  
+**Role:** Daughter of Unlimited (progeny reference); full sibling to Cullasaja (same DOB); maternal half-sibling to Cascade (same dam Aquata)  
 **Breed:** Purebred Nigerian Dwarf (100% D)  
 **DOB:** 2021-03-11  
 **Sex:** Female  
@@ -1719,7 +1719,7 @@ _No Linear History available on ADGA Genetics (guest view)._
 
 ## GCH HIDDEN PALMS JD AQUATA (PD1843839)
 
-**Role:** Dam of Primrose Hill SD White Water (PD2233111); dam of Cascade / Nantahala (Unlimited daughters)
+**Role:** Dam of Primrose Hill SD White Water (PD2233111); dam of Cascade / Nantahala / Cullasaja (Unlimited offspring)
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **Sex:** Female
 **ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001843839
@@ -1796,3 +1796,118 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Peak card shows elite width/capacity/attachments with **weak MSL (18)**, **RA 36** (above preferred 30–35), and **fine TD (17)**.
 
 ---
+
+## PRIMROSE HILL U CULLASAJA (PD2177214)
+
+**Role:** Unlimited × Aquata son; full sibling to Nantahala (same DOB); estimated buck profile subject
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-03-11
+**Sex:** Male
+**Sire:** FARM OLDESOUTH LMT UNLIMITED (PD1896060)
+**Dam:** GCH HIDDEN PALMS JD AQUATA (PD1843839)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002177214
+
+**Notes**
+- No Linear History scores on ADGA Genetics (fetched 2026-07-30). Transmitting estimates in `profiles/estimated-buck-profile-cullasaja.md`.
+- Buck: mammary linears unscored when appraised; none present yet.
+
+---
+
+## CADE'S LIL FARM CJ LOLLIPOP (PD2373972)
+
+**Role:** Daughter of Primrose Hill U Cullasaja (PD2177214) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2024-01-05
+**Sex:** Female
+**Sire:** PRIMROSE HILL U CULLASAJA (PD2177214)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002373972
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-05 | 25 | 26 | 34 | 35 | 24 | 34 | 38 | 33 | 36 | 23 | 32 | 21 | 34 | 31 | 35 | 1 | G | A | V | V | G | V | G | — | G | V | V | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002373972 (fetched 2026-07-30).
+- Final Score format in reports: `GVVV 86`.
+- Best MSL (23) among typed Cullasaja daughters in this pass; RW narrow (24).
+
+---
+
+## CADE'S LIL FARM CJ MYSTIQUE (PD2373973)
+
+**Role:** Daughter of Primrose Hill U Cullasaja (PD2177214) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2024-01-09
+**Sex:** Female
+**Sire:** PRIMROSE HILL U CULLASAJA (PD2177214)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002373973
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-05 | 23 | 33 | 35 | 38 | 30 | 32 | 31 | 31 | 38 | 17 | 34 | 18 | 20 | 28 | 35 | 2 | V | G | V | V | G | V | V | — | V | V | E | V | 88 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002373973 (fetched 2026-07-30).
+- Final Score format in reports: `VVEV 88`.
+- Highest FS in typed Cullasaja set; **flat RA (38)**; weak MSL (17); wide TP (18); fine TD (20).
+
+---
+
+## CADE'S LIL FARM CJ PRESTO (PD2373974)
+
+**Role:** Daughter of Primrose Hill U Cullasaja (PD2177214) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2024-01-09
+**Sex:** Female
+**Sire:** PRIMROSE HILL U CULLASAJA (PD2177214)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002373974
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-07 | 28 | 27 | 29 | 27 | 33 | 28 | 32 | 36 | 30 | 15 | 32 | 15 | 26 | 26 | 27 | 1 | G | A | V | G | G | V | G | — | G | V | G | G | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002373974 (fetched 2026-07-30).
+- Final Score format in reports: `GVGG 84`.
+- Weakest MSL/TP in typed Cullasaja set (MS 15, TP 15); usable width (RW 33).
+
+---
+
+## CADE'S LIL FARM PARTICIPATION (PD2385210)
+
+**Role:** Daughter of Primrose Hill U Cullasaja (PD2177214) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2024-03-19
+**Sex:** Female
+**Sire:** PRIMROSE HILL U CULLASAJA (PD2177214)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002385210
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-03 | 22 | 27 | 33 | 19 | 23 | 39 | 38 | 32 | 36 | 18 | 34 | 19 | 35 | 39 | 37 | 2 | G | A | V | V | G | V | G | — | G | V | V | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002385210 (fetched 2026-07-30).
+- Final Score format in reports: `GVVV 85`.
+- **Steep RA (19)**; weak MSL (18); wide TP (19); narrow RW (23).
+
+---
+
+## CADE'S LIL FARM CJ CUDDLESAJA (PD2391990)
+
+**Role:** Son of Primrose Hill U Cullasaja (PD2177214) — progeny reference (buck)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2024-04-04
+**Sex:** Male
+**Sire:** PRIMROSE HILL U CULLASAJA (PD2177214)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002391990
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 01-02 | 33 | 30 | 32 | 27 | 25 | 30 | — | — | 22 | — | — | — | — | — | 27 | — | G | A | V | V | G | V | G | — | G | V | G | — | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002391990 (fetched 2026-07-30).
+- Final Score format in reports: `GVG 84`.
+- Buck: mammary linears blank / unscored. RUA 22 (weak arch on buck record); RW only 25 as yearling.
+
