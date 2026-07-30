@@ -1043,7 +1043,7 @@ _No Linear History available on ADGA Genetics (guest view)._
 ---
 ## CADE'S LIL FARM AL SYDNEY (PD2235669)
 
-**Role:** Dam of CADE'S LIL FARM AX SMITHY (PD2380421)
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **DOB:** 2022-03-03
 **Sex:** Female
@@ -1170,7 +1170,7 @@ _No Linear History available on ADGA Genetics (guest view)._
 ---
 ## CADE'S LIL FARM AX MULAN (PD2235666)
 
-**Role:** Daughter of CADE'S LIL FARM BD AXEL (PD1787788) — progeny reference
+**Role:** Daughter of OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230) — progeny reference
 **Breed:** Purebred Nigerian Dwarf (100% D)
 **DOB:** 2022-01-01
 **Sex:** Female
@@ -1329,5 +1329,370 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Source: ADGA Genetics Linear History for D002293509 (fetched 2026-07-29).
 - Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
 - Final Score format in reports: `AGAG 79`.
+
+---
+## PHOENIX FARM DE POP ROCKS (PD1822638)
+
+**Role:** Sire of CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2016-04-16
+**Sex:** Male
+**Sire:** NC PROMISEDLAND SS DEVIANT (PD1393166)
+**Dam:** PHOENIX FARM ROCK CANDY (PD1579203)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001822638
+
+_No Linear History available on ADGA Genetics (guest view)._
+
+---
+## OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230)
+
+**Role:** Reference sire — own LA (PD1813230)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2016-05-21
+**Sex:** Female
+**Sire:** OLD MOUNTAIN FARM STAG (PD1432634)
+**Dam:** NC PROMISEDLAND NEMESIS (PD1460391)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001813230
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2022-??-?? | 05-11 | — | 29 | 33 | 29 | 35 | 28 | 30 | 35 | 30 | 26 | 24 | 22 | 20 | 22 | 34 | 3 | G | V | V | G | G | V | V | — | V | E | E | E | 89 |
+| 2021-??-?? | 05-01 | 34 | 34 | 36 | 30 | 34 | 23 | 32 | 43 | 40 | 29 | 23 | 18 | 20 | 36 | — | 33 | E | V | V | E | E | V | V | E | V | E | E | E | 91 |
+| 2019-??-?? | 03-02 | 32 | 30 | 31 | 26 | 31 | 25 | 33 | 36 | 38 | 18 | 33 | 20 | 22 | — | — | 25 | + | + | + | V | A | + | A | V | + | V | E | V | 86 |
+| 2018-??-?? | 02-02 | 30 | 31 | 33 | 28 | 25 | 27 | 34 | 36 | 35 | 18 | 33 | 20 | 24 | — | — | 28 | V | V | E | + | A | V | V | V | V | E | V | E | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001813230 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEE 89`, `VEEE 91`, `+VEV 86`, `VEVE 89`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM AL TRIPOLI (PD2081504)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-02-03
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** THE CO LONDON (PD1970152)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002081504
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 04-06 | 23 | 29 | 28 | 24 | 31 | 19 | 33 | 32 | 35 | 26 | 24 | 19 | 26 | 30 | 47 | 3 | V | A | G | A | V | G | A | — | G | G | E | E | 86 |
+| 2023-??-?? | 03-07 | — | 32 | 37 | 36 | 33 | 32 | 33 | 38 | 39 | 25 | 29 | 20 | 26 | 28 | 40 | 2 | V | A | V | V | G | E | E | — | V | E | E | E | 90 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002081504 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGEE 86`, `VEEE 90`.
+
+---
+## CADE'S LIL FARM AL EYE SHADOW (PD2081541)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-02-06
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM SEMASCARAXCUSE (PD1935677)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002081541
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2023-??-?? | 03-04 | — | 28 | 34 | 30 | 32 | 26 | 30 | 32 | 27 | 28 | 27 | 21 | 32 | 31 | 33 | 1 | G | G | V | V | A | V | V | — | V | V | V | G | 86 |
+| 2021-??-?? | 01-04 | 19 | 27 | 31 | 29 | 28 | 26 | 30 | 29 | 28 | 21 | 34 | 24 | 20 | 31 | — | 32 | + | + | V | V | V | V | + | V | V | V | V | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002081541 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVVG 86`, `VVVV 86`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM AL FINDINGDORY (PD2083078)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-03-24
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM BD DO-SI-DO (PD1787790)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002083078
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 04-03 | 19 | 33 | 31 | 27 | 25 | 25 | 33 | 35 | 33 | 27 | 20 | 20 | 26 | 21 | 50 | 2 | V | V | G | V | G | E | G | — | V | V | E | E | 90 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002083078 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVEE 90`.
+
+---
+## CADE'S LIL FARM AL SAVANNAH (PD2090679)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-03-24
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM BD DO-SI-DO (PD1787790)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002090679
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2022-??-?? | 02-06 | — | 28 | 28 | 26 | 33 | 30 | 27 | 33 | 26 | 21 | 36 | 22 | 14 | 18 | 32 | 0 | G | G | A | A | G | V | A | — | G | G | V | A | 78 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002090679 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGVA 78`.
+
+---
+## CADE'S LIL FARM AL PATRIOT (PD2101316)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-05-24
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM BD REVLON (PD1787789)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002101316
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 04-01 | 31 | 30 | 34 | 26 | 31 | 27 | 38 | 35 | 34 | 26 | 23 | 21 | 29 | 30 | 42 | 3 | G | V | E | V | G | E | G | — | V | E | E | E | 91 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002101316 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEE 91`.
+
+---
+## CADE'S LIL FARM AL ARLINGTON (PD2101612)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-05-24
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM KMD VANISH (PD1869401)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002101612
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 05-01 | 32 | 37 | 35 | 39 | 36 | 32 | 36 | 31 | 37 | 30 | 35 | 24 | 33 | 34 | 36 | 1 | V | G | V | G | V | V | V | — | V | E | E | V | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002101612 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEEV 89`.
+
+---
+## CADE'S LIL FARM AL MYSTIC MAY (PD2179174)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-05-01
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM AX HOCUS POCUS (PD1957841)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002179174
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 04-01 | 30 | 36 | 36 | 38 | 37 | 28 | 34 | 30 | 34 | 26 | 30 | 25 | 33 | 30 | 47 | 1 | G | G | V | G | V | G | V | — | G | E | E | V | 88 |
+| 2024-??-?? | 03-01 | 32 | 31 | 35 | 34 | 37 | 25 | 31 | 34 | 35 | 24 | 29 | 20 | 28 | 33 | 39 | 2 | V | A | V | V | G | V | E | — | V | E | E | E | 89 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002179174 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GEEV 88`, `VEEE 89`.
+
+---
+## TWIN WILLOWS AL KENTUCKY RAIN (PD2233867)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-15
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** TWIN WILLOWS FN HAKEA (PD2020217)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002233867
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2023-??-?? | 01-05 | — | 15 | 39 | 29 | 26 | 28 | 31 | 35 | 26 | 16 | 46 | 17 | 23 | 37 | 16 | 2 | A | A | A | A | A | G | A | — | A | A | F | A | 75 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002233867 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `AAFA 75`.
+
+---
+## TWIN WILLOWS AL KAY ELLAMENOPY (PD2237545)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-19
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** TWIN WILLOWS FL IPHIGENIA (PD2088251)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002237545
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 36 | 37 | 35 | 31 | 34 | 30 | 33 | 37 | 36 | 17 | 38 | 22 | 25 | 37 | 34 | 1 | V | G | V | V | V | V | V | — | V | V | V | G | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002237545 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVVG 86`.
+
+---
+## TWIN WILLOWS AL KARAMELLO (PD2237546)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-22
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** TWIN WILLOWS FN HENNA (PD2020215)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002237546
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 32 | 34 | 32 | 37 | 33 | 33 | 31 | 30 | 36 | 14 | 34 | 21 | 10 | 37 | 40 | 1 | V | G | A | G | V | E | V | — | V | V | E | A | 84 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002237546 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VVEA 84`.
+
+---
+## TWIN WILLOWS AL KISMET (PD2237548)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-23
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM AL SAVANNAH (PD2090679)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002237548
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 31 | 36 | 35 | 27 | 25 | 32 | 30 | 31 | 34 | 17 | 37 | 24 | 23 | 27 | 36 | 1 | E | A | G | G | G | G | G | — | G | V | E | A | 81 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002237548 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVEA 81`.
+
+---
+## TWIN WILLOWS AL KIKI CHANEL (PD2237549)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-29
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** THE BONNIEGIRL FARM TIO GALINA (PD1988868)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002237549
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 27 | 39 | 30 | 35 | 24 | 10 | 34 | 37 | 40 | 15 | 27 | 20 | 24 | 39 | 37 | 1 | V | G | G | F | V | G | A | — | G | V | E | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002237549 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVEV 85`.
+
+---
+## TWIN WILLOWS AL KSILENT KAYE (PD2237550)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-05-01
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** TWIN WILLOWS FN GLIMMER (PD1967652)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002237550
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-01 | 23 | 33 | 36 | 25 | 27 | 25 | 36 | 34 | 32 | 22 | 32 | 24 | 26 | 32 | 34 | 1 | G | G | G | A | G | G | G | — | G | V | V | V | 85 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002237550 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GVVV 85`.
+
+---
+## CADE'S LIL FARM AL ONYX (PD2337985)
+
+**Role:** Daughter of CADE'S LIL FARM PR ALADDIN (PD2076307) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2023-04-23
+**Sex:** Female
+**Sire:** CADE'S LIL FARM PR ALADDIN (PD2076307)
+**Dam:** CADE'S LIL FARM AX RUBY (PD2081509)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002337985
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 01-02 | 22 | 21 | 34 | 23 | 20 | 26 | 26 | 37 | 34 | 19 | 47 | 20 | 26 | 31 | 23 | 1 | A | A | G | G | G | V | A | — | G | G | A | G | 80 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002337985 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `GGAG 80`.
+
+---
+## CADE'S LIL FARM SE IRRESISTIBL (PD2076292)
+
+**Role:** Daughter of OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2020-02-03
+**Sex:** Female
+**Sire:** OLD MOUNTAIN FARM STAGSURPRISE (PD1804965)
+**Dam:** OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002076292
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 04-07 | 32 | 28 | 35 | 32 | 30 | 34 | 36 | 31 | 36 | 28 | 30 | 23 | 14 | 21 | 41 | 3 | V | G | G | E | G | E | V | — | E | E | E | V | 90 |
+| 2023-??-?? | 03-03 | — | 32 | 37 | 34 | 25 | 29 | 29 | 37 | 28 | 26 | 28 | 23 | 18 | 22 | 38 | — | A | A | A | V | G | E | V | — | G | V | V | G | 85 |
+| 2022-??-?? | 02-02 | — | 24 | 31 | 30 | 27 | 30 | 28 | 36 | 30 | 21 | 30 | 23 | 15 | 26 | 22 | 2 | G | A | V | V | G | V | V | — | G | V | G | V | 85 |
+| 2021-??-?? | 01-04 | 25 | 24 | 34 | 28 | 21 | 29 | 28 | 29 | 24 | 26 | 31 | 26 | 16 | 20 | — | 33 | + | + | + | V | V | + | + | V | + | + | V | + | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002076292 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `EEEV 90`, `GVVG 85`, `GVGV 85`, `++V+ 82`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+## CADE'S LIL FARM KH BTFL BELLE (PD2163753)
+
+**Role:** Daughter of OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2021-01-15
+**Sex:** Female
+**Sire:** CADE'S LIL FARM WL KAVANAUGH (PD2086444)
+**Dam:** OLD MOUNTAIN FARM SLEEPNBEAUTY (PD1813230)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002163753
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2023-??-?? | 02-05 | — | 28 | 34 | 24 | 32 | 28 | 24 | 29 | 24 | 20 | 50 | 24 | 10 | 25 | 34 | 1 | V | G | A | V | G | E | V | — | V | E | V | G | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002163753 (fetched 2026-07-29).
+- Appraisal **Date** is LA year only (`YYYY-??-??`); exact calendar date is not shown on Linear History.
+- Final Score format in reports: `VEVG 86`.
 
 ---
