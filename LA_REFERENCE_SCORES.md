@@ -1774,3 +1774,25 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Buck: mammary linears blank / unscored. Supports Aquata-side dairy + width transmitting.
 
 ---
+
+## CADE'S LIL FARM KH WINNIE (PD2258884)
+
+**Role:** Dam of Cade's Lil Farm AL Alaska (PD2426787); dam of Cassiopeia (PD2426786)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** 2022-04-09
+**Sex:** Female
+**Sire:** CADE'S LIL FARM WL KAVANAUGH (PD2086444)
+**Dam:** CADE'S LIL FARM AX HOCUS POCUS (PD1957841)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002258884
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2025-??-?? | 03-02 | 32 | 35 | 35 | 36 | 36 | 34 | 43 | 37 | 41 | 18 | 21 | 24 | 17 | 25 | 47 | 3 | V | G | G | V | V | V | G | — | V | E | E | E | 91 |
+| 2024-??-?? | 02-02 | 30 | 31 | 29 | 30 | 35 | 25 | 34 | 31 | 35 | 26 | 25 | 20 | 26 | 30 | 35 | 2 | G | A | G | V | A | G | V | — | G | G | V | E | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002258884 (fetched 2026-07-30).
+- Final Score format in reports: `VEEE 91`, `GGVE 86`.
+- Peak card shows elite width/capacity/attachments with **weak MSL (18)**, **RA 36** (above preferred 30–35), and **fine TD (17)**.
+
+---
