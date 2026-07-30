@@ -1696,3 +1696,81 @@ _No Linear History available on ADGA Genetics (guest view)._
 - Final Score format in reports: `VEVG 86`.
 
 ---
+
+## WINNING STREAK CM STHERN DRAWL (PD2077555)
+
+**Role:** Sire of Primrose Hill SD White Water (PD2233111)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**Sex:** Male
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002077555
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 04-06 | 46 | 34 | 26 | 34 | 38 | 32 | — | — | 31 | — | — | — | — | — | 28 | — | G | A | A | G | A | V | G | — | G | G | G | — | 82 |
+| 2021-??-?? | 01-07 | 37 | 32 | 33 | 29 | 33 | 31 | — | — | 23 | — | — | — | — | — | — | — | + | V | + | V | + | V | + | — | + | E | E | — | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002077555 (fetched 2026-07-30).
+- 2024 appraisal coded **over maximum height for breed**.
+- Final Score format in reports: `GGG 82`, `+EE 86`.
+- Buck: mammary linears blank / unscored.
+
+---
+
+## GCH HIDDEN PALMS JD AQUATA (PD1843839)
+
+**Role:** Dam of Primrose Hill SD White Water (PD2233111); dam of Cascade / Nantahala (Unlimited daughters)
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**Sex:** Female
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D001843839
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2021-??-?? | 04-09 | 30 | 29 | 33 | 28 | 34 | 29 | 34 | 37 | 31 | 23 | 29 | 22 | 24 | 23 | — | 32 | V | + | V | V | A | V | + | V | V | E | E | E | 90 |
+| 2019-??-?? | 02-09 | 30 | 27 | 33 | 29 | 33 | 28 | 34 | 32 | 27 | 27 | 33 | 23 | 28 | — | — | 28 | V | A | V | V | A | + | V | V | V | V | V | V | 86 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D001843839 (fetched 2026-07-30).
+- Final Score format in reports: `VEEE 90`, `VVVV 86`.
+- RUSV values >4 reflect the older 0–50-style field recording; current SOP uses a short 0–4 RUSV scale — do not mix scales casually.
+
+---
+
+## PRIMROSE HILL WW HOLLYHOCK (PD2327622)
+
+**Role:** Daughter of Primrose Hill SD White Water (PD2233111) — progeny reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**DOB:** (see ADGA; appraised age 01-02 in 2024)
+**Sex:** Female
+**Sire:** PRIMROSE HILL SD WHITE WATER (PD2233111)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002327622
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2024-??-?? | 01-02 | 22 | 23 | 29 | 27 | 31 | 26 | 27 | 28 | 21 | 24 | 39 | 20 | 25 | 22 | 27 | 1 | G | A | A | V | G | V | G | — | G | G | G | G | 82 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002327622 (fetched 2026-07-30).
+- Final Score format in reports: `GGGG 82`.
+- Only typed White Water daughter located on ADGA Genetics as of fetch date.
+
+---
+
+## PRIMROSE HILL EVL AQUAMAN (PD2107666)
+
+**Role:** Maternal half-brother of Primrose Hill SD White Water (PD2233111) — Aquata son; progeny/sib reference
+**Breed:** Purebred Nigerian Dwarf (100% D)
+**Sex:** Male
+**Dam:** GCH HIDDEN PALMS JD AQUATA (PD1843839)
+**ADGA Genetics:** https://genetics.adga.org/GoatDetail.aspx?RegNumber=D002107666
+
+| Date       | Age (ADGA) | ST | STR | DY | RA | RW | RL SV | FA | RH | RUA | MS | UD | TP | TD | TL | BD | RUSV | Head | Shldrs | LF | LR | Feet | Back | Rump | Txt | GA | DS | Body | MMY | FS |
+|------------|------------|----|-----|----|----|----|-------|----|----|-----|----|----|----|----|----|----|------|------|--------|----|----|------|------|------|-----|----|----|------|-----|----|
+| 2023-??-?? | 03-06 | — | 28 | 37 | 26 | 37 | 29 | — | — | 32 | — | — | — | — | — | 29 | — | V | G | V | V | G | E | G | — | V | E | V | — | 87 |
+
+**Notes**
+- Source: ADGA Genetics Linear History for D002107666 (fetched 2026-07-30).
+- Final Score format in reports: `VEV 87`.
+- Buck: mammary linears blank / unscored. Supports Aquata-side dairy + width transmitting.
+
+---

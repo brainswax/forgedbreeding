@@ -1,6 +1,6 @@
 # LA_REPORT_GUIDELINES.md
 **Linear Appraisal Report Templates & Guidelines**  
-**Last updated:** 2026-07-28  
+**Last updated:** 2026-07-30  
 
 Defines how to generate consistent Linear Appraisal (LA) reports.  
 Repo file roles and allowed dependencies: see `README.md`.
@@ -57,20 +57,23 @@ When asked to produce a report from these guidelines (e.g. *“Produce a Herd Re
 
 1. **Primary objective** = maximize Final Score while supporting longevity and functional durability (per herd goals).
 2. Present every recommendation as a **package**: expected score impact + functional risks + mitigations (risks/mitigations from concepts; priorities from herd goals).
-3. Distinguish high-heritability / high-impact traits (short-to-medium term levers) from low-heritability traits (long-term focus). Explicitly note low-h² traits the animal or herd is **weak** in (need introduction) and **strong** in (need protection).
-4. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from the herd roster in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (concepts language rules).
-5. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
-6. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
-7. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
-8. Style: clear headings, scannable bullets, actionable closings — not open-ended discussion.
-9. For Doe Breeding Reports: compare **every available buck** on the breeding roster; compute **BIS** for each pair; list **most → least by BIS**; primary pick = highest BIS.
-10. For Buck Breeding Reports: compare **every available doe** on the breeding roster; compute BIS for each pair (same score as the doe-side report); list **most → least by BIS**; primary pick = highest BIS.
-11. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-[barn].md`, `breeding-[barn].md`, `herd-[herd-slug].md`, `herd-breeding-[herd-slug].md`, `planning-[buck]-x-[doe].md`.
-12. For Herd Breeding Reports: assign **every available doe** on the breeding roster a primary buck by **max BIS** (same scores as Doe/Buck Breeding Reports); if one buck is primary for many does, add a **service-priority** order (highest BIS first, then largest BIS edge over the confirmed runner-up) and a confirmed-score fallback plan.
+3. **Priority ≠ heritability.** Low priority means low scorecard / goal leverage *this cycle* (already adequate, small gap, or not binding). Low heritability means slow response to selection — those traits still need explicit **breed-in** (weak) or **protect / do not breed out** (strong) language. Never dump low-h² traits into a “lower priority” bucket just because they change slowly.
+4. Distinguish high-heritability / high-impact traits (short-to-medium term levers) from low-heritability traits (multi-generational focus). Explicitly note low-h² traits the animal or herd is **weak** in (need introduction / breed in) and **strong** in (need protection / do not casually breed out). Use the low-h² list in `GOALS.md`.
+5. Be specific with numbers (LA scores, heights, category letters) rather than vague language. Prefer **Barn Names** from the herd roster in prose; include Reg # or registered name when identity must be unambiguous. Use **breeding** / **breed** — never **mating** / **mate** (concepts language rules).
+6. **Score format:** Always write Final Score and categories as `GAEV 84` (letters first, then numeric score).
+7. When an owner height is available, report it alongside the **expected stature score** (miniature scale below) and the official LA stature score for comparison.
+8. End Individual, Planning, Doe Breeding, and Buck Breeding Reports with clear, actionable breeding notes or a clear recommendation on the proposed breeding.
+9. Style: clear headings, scannable bullets, actionable closings — not open-ended discussion.
+10. For Doe Breeding Reports: compare **every available buck** on the breeding roster; compute **BIS** for each pair; list **most → least by BIS**; primary pick = highest BIS.
+11. For Buck Breeding Reports: compare **every available doe** on the breeding roster; compute BIS for each pair (same score as the doe-side report); list **most → least by BIS**; primary pick = highest BIS.
+12. **Report filenames:** `reports/[type]-[barn-name-or-herd].md` — e.g. `individual-[barn].md`, `breeding-[barn].md`, `herd-[herd-slug].md`, `herd-breeding-[herd-slug].md`, `planning-[buck]-x-[doe].md`.
+13. For Herd Breeding Reports: assign **every available doe** on the breeding roster a primary buck by **max BIS** (same scores as Doe/Buck Breeding Reports); if one buck is primary for many does, add a **service-priority** order (highest BIS first, then largest BIS edge over the confirmed runner-up) and a confirmed-score fallback plan.
 
 ### Trait priority lens
 
-Rank improvements using the ordered priorities in herd goals. Do not maintain a second hardcoded priority list here.
+Rank **season / score leverage** using the ordered priorities in herd goals. Do not maintain a second hardcoded priority list here.
+
+Separately track **low-heritability** traits from `GOALS.md` (e.g. Rear Udder Arch, Rear Legs Side View, certain structural details). A low-h² gap can still be **high importance** for longevity and multi-generational consistency — call it hard/slow, not “low priority.”
 
 ### Breeding Impact Score (BIS)
 
@@ -171,23 +174,33 @@ then compare with the official LA stature score.
 
 ## Strengths
 - Clear positive traits (include scores where helpful)
-- Note any low-heritability strengths that should be protected
+- Do **not** bury low-h² strengths only here — also list them under **Low-Heritability Traits** below
 
 ## Weaknesses / Areas for Improvement
-- Ordered roughly by priority (high-h² + high score impact first)
+- Ordered by **goal / score leverage** (binding gaps first — MSL, teats, dairyness, width, etc.)
 - Flag any functional/longevity concerns
+- If a weakness is low-h², still list it here when it matters, and **also** under **Low-Heritability Traits** with breed-in language
 
 ## Highest-ROI Improvement Targets
-Ranked easiest / highest-leverage traits based on: current score gap, heritability, scorecard weight, herd-goal priorities.
+Ranked by near-term leverage: current score gap × scorecard/goal weight × how responsive the trait is. Prefer high-h² gaps that move Final Score soon — but do not treat slow traits as unimportant.
 
-## Lower-Priority or Harder Traits
-Low impact, already adequate, or low-heritability (slow to change).
+## Lower-Priority Traits
+Traits that are **already adequate**, small-gap, or not binding for this animal’s next breeding **for score/goal leverage**.  
+Do **not** put low-h² traits here merely because they change slowly.
+
+## Low-Heritability Traits (breed in / protect)
+Explicit section — required when any low-h² trait from `GOALS.md` is scored or clearly relevant. Separate from priority.
+
+**Breed in (weak / below intermediate):** name the trait + score; state that improvement is multi-generational; note what partners or keepers must bring.
+**Protect (good / excellent — do not casually breed out):** name the trait + score; flag pairings that would erode it even if short-term BIS looks fine.
+
+If none apply, write `_None flagged on this appraisal._` rather than omitting the section.
 
 ## Breeding Notes
 - Preferred buck type or top on-hand buck by **BIS** (cite BIS and point to `reports/breeding-[barn].md` for the full ranking)
 - Key risks in offspring (from scores + concepts)
 - Mitigations (from concepts when applicable)
-- Special notes for named strengths-to-protect (from herd roster / herd goals)
+- Special notes for named strengths-to-protect (from herd roster / herd goals), including low-h² protect / breed-in items
 ```
 
 ### Type-specific notes
@@ -195,6 +208,7 @@ Low impact, already adequate, or low-heritability (slow to change).
 - Always reference the animal’s actual linear scores.
 - For young first-fresheners, note that some mammary traits may still mature.
 - Omit owner-height lines when no measurement is available (do not invent heights).
+- Keep **Lower-Priority Traits** and **Low-Heritability Traits** as separate headings — never merge them.
 - In **Breeding Notes**, name the current top on-hand buck by **BIS** and state main package risks; do not re-litigate the full buck comparison here.
 - Write reports to `reports/` as `individual-[barn-name].md`.
 
@@ -231,7 +245,13 @@ Side-by-side comparison of the most relevant linear traits and Final Scores.
 - Stacking of the same fault
 
 ## Expected Profile of Offspring
-Plain-language prediction of what the breeding is most and least likely to deliver, emphasizing high-h² / high-impact traits (MSL, teats, dairyness, width, etc.), functional risks (e.g., rump angle becoming more extreme), and low-h² traits that may be reinforced or eroded.
+Plain-language prediction of what the breeding is most and least likely to deliver. Cover high-impact / high-h² levers (MSL, teats, dairyness, width, etc.) and functional risks (e.g., rump angle becoming more extreme). Separately call out low-h² traits that may be **reinforced, eroded, or stacked** — label them as slow to change, not as low priority.
+
+## Low-Heritability Traits (breed in / protect)
+For this pair / offspring forecast:
+- **Breed in:** low-h² weaknesses both parents share, or one extreme likely to persist
+- **Protect:** low-h² strengths on either parent that keepers must not lose
+- Note that selection response is slow; daughter selection and multi-generation plans matter more than a single breeding
 
 ## Benefit / Risk / Mitigation Package
 - Expected contribution to Final Score and key goals
@@ -242,11 +262,11 @@ Plain-language prediction of what the breeding is most and least likely to deliv
 ## Breeding Implications / Recommendation
 - Existing animal: how it should be used given parental background
 - Prospective breeding: recommended, conditional, or better avoided
-- Long-term low-h² considerations (gaps to fill or strengths to protect)
+- Explicit low-h² breed-in / protect actions for keepers and next partners
 ```
 
 ### Type-specific notes
-- With full linear histories, prioritize high-h² traits for short-term predictions; still note low-h² patterns.
+- With full linear histories, emphasize high-h² traits for short-term midpoint predictions; still give low-h² traits their own explicit breed-in / protect treatment.
 - If one animal lacks LA data, state that limitation and use whatever category scores or progeny data are available.
 - Main tool for evaluating the young third buck once parental scores are supplied, and for comparing alternative buck × doe combinations.
 - Write reports to `reports/` as `planning-[barn]-x-[barn].md` (or similar pair slug).
@@ -269,29 +289,36 @@ Short paragraph on general quality (score range, category balance, etc.).
 
 ## Herd Strengths
 - Traits where multiple animals score well
-- Low-heritability strengths that exist and should be protected
 - Notable individual standouts
+- Low-h² strengths belong primarily under **Low-Heritability Traits** (cross-reference here if useful)
 
 ## Herd Weaknesses & Gaps
 - Consistently suboptimal traits across a meaningful portion of the herd
-- Ordered by importance (high-h² + high impact first, then important low-h² gaps)
+- Ordered by **goal / score leverage** (binding mammary, dairy, width, etc. first)
 - Functional/longevity patterns of concern
+- Do **not** label a gap “lower priority” only because it is low-h² — put those under **Low-Heritability Traits**
+
+## Low-Heritability Traits (breed in / protect)
+Herd-level explicit list from `GOALS.md` (Rear Udder Arch, Rear Legs Side View, related structural details, etc.):
+
+**Breed in:** low-h² traits weak or below intermediate across a meaningful share of the herd — what outside genetics or keeper selection must introduce; accept multi-generational timelines.
+**Protect:** low-h² traits already good/excellent in key animals or herd-wide — do not casually breed them out while chasing high-h² Final Score gains.
 
 ## Strengths to Lock In (Build Consistency)
 - Good/excellent traits across multiple animals or in key breeding animals — the foundation of long-term consistency; deliberately retain and reinforce
-- Include high-h² strengths (easier to keep) and low-h² strengths (harder to recover if lost)
+- Include high-h² strengths (easier to keep) and point to low-h² protect items above (harder to recover if lost)
 - Note which current bucks or does best fix these strengths in the next generation
 
 ## Weaknesses at Risk of Becoming Fixed
 - Faults on both sides of multiple potential breedings
-- Patterns harder to remove if repeatedly stacked — call out to avoid or dilute
+- Patterns that become harder to remove if repeatedly stacked — call out to avoid or dilute (includes low-h² stacks)
 
 ## Highest-Leverage Opportunities
-Concrete actions that move the most Final Score and functional quality in the next 1–3 generations:
-- Specific trait focuses
+Concrete actions that move Final Score and functional quality in the next 1–3 generations:
+- Near-term high-h² / high-impact focuses
 - Use of current herd bucks
 - Traits that warrant outside genetics
-- Long-term low-h² projects
+- Separate bullet(s) for **low-h² breed-in / protect projects** (important, slow — not “low priority”)
 - Lock in existing strengths while correcting gaps
 
 ## Buck Utilization Summary
@@ -304,7 +331,8 @@ Broader observations (age structure, strengths-to-protect, re-appraisal timing, 
 ### Type-specific notes
 - Stay strategic — do not repeat every individual score.
 - Emphasize locking in strengths: consistency comes from retaining good traits, not only from fixing faults.
-- Surface both high-h² quick wins and low-h² multi-generational projects.
+- Keep **low priority** (not binding this cycle) separate from **low heritability** (slow but often still important).
+- Surface both high-h² quick wins and low-h² multi-generational breed-in / protect projects.
 - Write reports to `reports/` as `herd-[herd-slug].md`.
 
 ---
@@ -321,7 +349,7 @@ Broader observations (age structure, strengths-to-protect, re-appraisal timing, 
 **Doe Final Score:** GAEV 84
 **Lactation / appraisal context:** (e.g. first-freshener 2026; strengths to protect from roster/goals)
 **Bucks compared (BIS order):** [list names + Final Scores or “estimated” + BIS, highest first]
-**Doe priorities this breeding:** (3–5 bullets from her gaps + strengths to protect, ordered by herd-goal leverage)
+**Doe priorities this breeding:** (3–5 bullets from her gaps + strengths to protect, ordered by herd-goal leverage; if a priority is low-h², label it **breed in** or **protect**, not “low priority”)
 
 ## Doe Snapshot
 2–4 sentences: overall quality, binding limits, and what must not be lost in offspring.
@@ -386,7 +414,7 @@ Compact table: each buck vs the doe’s priority traits (e.g. Medial Suspensory 
 **Buck Final Score:** VGE 88 (or “Estimated” + pointer to estimated profile)
 **Appraisal / profile context:** (e.g. appraised 2026; or unappraised — using estimated transmitting profile)
 **Does compared (BIS order):** [list names + Final Scores + BIS, highest first]
-**Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by herd-goal leverage)
+**Buck priorities this breeding:** (3–5 bullets — what he best improves; what he must not stack; ordered by herd-goal leverage; label low-h² items **breed in** or **protect**, not “low priority”)
 
 ## Buck Snapshot
 2–4 sentences: overall quality / estimated transmitting outlook, clearest strengths, and main risks he brings to a breeding.
@@ -485,7 +513,8 @@ Brief: which bucks carry the season, which are situational, which are limited by
 
 **Outside buck (preferred):** Concrete trait targets (scores/ranges) that close herd-wide gaps the on-hand bucks cannot.
 **Outside doe (optional):** When adding dams would help more than another sire.
-**What not to chase first:** Traits already strong herd-wide or low-h² distractions this season.
+**What not to chase first:** Traits already strong herd-wide, or outside genetics that only duplicate on-hand frame packages.  
+**Do not equate “not first this season” with ignoring low-h² work** — name any low-h² **breed-in / protect** items that still constrain keeper selection even when MSL/TP dominate the pairing plan.
 
 ## Season Notes
 

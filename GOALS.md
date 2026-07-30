@@ -2,7 +2,7 @@
 **Nigerian Dwarf Breeding Goals & Decision Framework**  
 **Herd:** Forged Farm  
 **Breeder:** Brian Denton (Member ID 1660541)  
-**Last updated:** 2026-07-27  
+**Last updated:** 2026-07-30  
 
 This document defines the owner’s breeding objectives and how trade-offs should be evaluated.  
 It is intended to be used as a shared context prompt for both Linear Appraisal (conformation) analysis and milk-test / production analysis.
@@ -56,7 +56,7 @@ The same structure applies to production decisions (e.g., high production that m
 
 ## Trait & Selection Priorities (Conformation / LA Context)
 
-These priorities reflect both ADGA scorecard weight and heritability. They guide normal selection pressure and can be adjusted when a specific breeding offers a compelling net package.
+These priorities rank **near-term score / goal leverage** for breeding decisions. They are **not** a statement that lower-listed or low-heritability traits are unimportant.
 
 1. **Medial Suspensory Ligament (MSL)** – high impact on both Final Score and longevity  
 2. **Teat Placement & Teat Diameter**  
@@ -64,16 +64,18 @@ These priorities reflect both ADGA scorecard weight and heritability. They guide
 4. **Rump Width** (where narrow)  
 5. **Strength** (where weak)  
 6. **Stature** (mainly when outside a functional or breed-standard range)  
-7. Other mammary traits (fore attachment, rear udder height/arch, udder depth)  
-8. Rear leg set and lower-heritability structural details  
+7. Other mammary traits (fore attachment, rear udder height, udder depth; **Rear Udder Arch** is also low-h² — see below)  
+8. Other structural details that are not binding this cycle for Final Score  
 
 Rump Angle selection follows the preferred band above; use concepts polarity and functional mitigations when describing it.
 
+**Important:** Low place on this list ≠ “ignore.” Traits that are **hard to breed in or out** (low heritability) get their own section below and must be named explicitly as **breed in** or **protect** in reports — never filed only under “lower priority.”
+
 ---
 
-## Low-Heritability Traits (Long-Term Focus)
+## Low-Heritability Traits (Breed In / Protect)
 
-Some economically and functionally important traits have low heritability (h² roughly ≤ 0.22). These respond slowly to selection in either direction and therefore require deliberate, multi-generational strategy.
+Some economically and functionally important traits have low heritability (h² roughly ≤ 0.22). These respond slowly to selection in either direction and therefore require deliberate, multi-generational strategy. **Slow ≠ low priority.**
 
 Approximate low-heritability traits:
 - Rear Udder Arch (≈ 0.19)
@@ -93,7 +95,7 @@ Because change is slow, both **gaps** and **existing strengths** must be tracked
 - Protect them. Do not casually breed them out while chasing higher-heritability gains.
 - When a proposed breeding would be expected to erode a current low-h² strength, flag it as a long-term risk even if the short-term score impact looks positive.
 
-Both the lacking traits and the strengths to protect should appear in individual animal evaluations and the herd-level summary so they remain visible while shorter-term high-h² work proceeds.
+Both the lacking traits and the strengths to protect should appear in individual animal evaluations and the herd-level summary under an explicit **Low-Heritability Traits (breed in / protect)** heading — separate from any **Lower-Priority Traits** section — so they remain visible while shorter-term high-h² work proceeds.
 
 ---
 
