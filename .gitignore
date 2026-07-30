@@ -1,5 +1,5 @@
-# Python
-__pycache__/
+_site/
+
 *.py[cod]
 *$py.class
 *.so

@@ -11,6 +11,13 @@ python3 scripts/bis.py
 
 # Inspect what the loader pulled from the markdown sources
 python3 scripts/herd_data.py
+
+# Build a static site from reports/ + profiles/ (local preview)
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-pages.txt
+python3 scripts/publish_pages.py
+open _site/index.html
 ```
 
 ## Document map & dependencies
@@ -109,6 +116,26 @@ All Python lives in `scripts/`.
 | `scripts/herd_data.py` | Load available animals + traits from markdown |
 | `scripts/bis.py` | Compute / print Breeding Impact Score rankings |
 | `scripts/fetch_adga_linear_refs.py` | Politely fetch ADGA Genetics Linear History into `LA_REFERENCE_SCORES.md` (`--mode family|daughters|progeny`) |
+| `scripts/publish_pages.py` | Build static HTML from `reports/` + `profiles/` into `_site/` (GitHub Pages) |
+
+### GitHub Pages
+
+Reports and estimated profiles are published as a static site.
+
+1. In the GitHub repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. Push to `main` (or run the **Publish Pages** workflow manually).
+3. Site URL: `https://brainswax.github.io/forgedbreeding/`
+
+Local build:
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements-pages.txt
+python3 scripts/publish_pages.py --base-url /
+# open _site/index.html
+```
+
+Only `reports/*.md` and `profiles/*.md` are published (not full herd source docs).
 
 ### Data sources (no hardcoded herd)
 
