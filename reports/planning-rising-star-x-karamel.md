@@ -3,7 +3,7 @@
 **Mode:** Existing offspring analysis (extended — parent-of-origin + why daughter outscored parents)
 
 **Pair:**
-- Sire: Highland Ranch SS Rising Star (PD2316293) — sheet `VVE 88` (age ~3.4; mammary blank on buck card)
+- Sire: Highland Ranch SS Rising Star (PD2316293) — sheet `VVE 88` (age ~3.4; frame scored; **mammary = estimated** from daughters)
 - Dam: Ocean Bluff Farm Z Karamel (PD2223649) — peak ADGA `VVEV 88` (2024); latest sheet `GVEV 87` (2026)
 
 **Offspring:** Ocean Bluff RS Khaos (PD2381679) — sheet `VEEE 90` (age 2.4, Lac 2, 2026)  
@@ -12,6 +12,8 @@
 > Outside Ocean Bluff pairing — not a Forged Farm on-hand breed. Dam is **Z Karamel**, not any “Karamello” elsewhere in this repo.
 
 **Timing note:** Khaos DOB 2024-03-07. Rising Star (DOB 2023-03-13) was a yearling sire at conception; his `VVE 88` sheet scores are later phenotype, used here as the best frame transmitting snapshot. For dam, **2024 ADGA** is the card nearest freshening/peak around that kid; **2026 sheet** shows how Karamel matured afterward.
+
+**Rising Star mammary (estimated):** Bucks are not scored for mammary linears. Values marked **est.** below are transmitting midpoints from his three typed daughters (Khaos, Passion Project, RisingCrescentmoon) in `profiles/estimated-buck-profile-rising-star.md` — MSL ≈ 20, TP ≈ 19, TD ≈ 25, UD ≈ 25, FA ≈ 33, RH ≈ 34, RUA ≈ 38. Khaos is one of those three, so her own scores partly form the estimate; treat est. as the sire’s book average, not an independent third measurement of her.
 
 ---
 
@@ -27,16 +29,16 @@
 | Rump Angle | 27 | **34** | **24** | 28 | 25.5 |
 | Rump Width | **21** | 35 | **37** | **44** | 29 |
 | Rear Legs Side View | **22** | 25 | 34 | 24 | 28 |
-| Fore Udder Attachment | 34 | **37** | — | **38** | — |
-| Rear Udder Height | **38** | 34 | — | **39** | — |
-| Rear Udder Arch | 36 | **40** | — | **44** | — |
-| Medial Suspensory Ligament | **19** | 20 | —† | **17** | — |
-| Udder Depth | 27 | 32 | — | **17** | — |
-| Teat Placement | **19** | **19** | —† | **18** | — |
-| Teat Diameter | 27 | 25 | —† | 28 | — |
+| Fore Udder Attachment | 34 | **37** | **≈ 33 est.** | **38** | — |
+| Rear Udder Height | **38** | 34 | **≈ 34 est.** | **39** | — |
+| Rear Udder Arch | 36 | **40** | **≈ 38 est.** | **44** | — |
+| Medial Suspensory Ligament | **19** | 20 | **≈ 20 est.** | **17** | — |
+| Udder Depth | 27 | 32 | **≈ 25 est.** | **17** | — |
+| Teat Placement | **19** | **19** | **≈ 19 est.** | **18** | — |
+| Teat Diameter | 27 | 25 | **≈ 25 est.** | 28 | — |
 
-\*Midpoint = (Karamel 2024 + Rising Star) / 2 for scored frame traits.  
-†Sire mammary blank; RS daughter-set means ≈ MSL 20 / TP 19 / TD 25 (see Rising Star profile).
+\*Midpoint = (Karamel 2024 + Rising Star **own frame**) / 2. Mammary midpoints omitted — sire side is estimated only.  
+**est.** = Rising Star transmitting estimate (daughter midpoints; TD = median). Not from his own LA card.
 
 ---
 
@@ -55,8 +57,8 @@
 
 ## Traits at Risk or Likely Weak
 
-- **Medial Suspensory Ligament** — Dam 19–20 across cards; sire’s typed daughters average ~20. Khaos **17** — **stacked weakness**, slightly worse than dam. Pair did not fix cleft.
-- **Teat Placement** — Dam stuck at **19**; RS daughters average ~19. Khaos **18** — **stacked wide teats**.
+- **Medial Suspensory Ligament** — Dam 19–20; sire **≈ 20 est.** Khaos **17** — **stacked weakness**, slightly worse than both. Pair did not fix cleft.
+- **Teat Placement** — Dam stuck at **19**; sire **≈ 19 est.** Khaos **18** — **stacked wide teats**.
 - **Rear Legs Side View** — Dam posty (22–25); sire 34 (better). Khaos **24** — took the **dam side** (low-h² stack risk).
 - **Rump Angle** — Sire steep **24**; dam 2024 was 27. Khaos **28** — near parental midpoint; still just below preferred 30–35 (not a flat stack; not a full correction).
 - **Stature** — Sire extreme 45; dam ~27–28. Khaos **32** — toward dam/moderate (did not inherit sire height).
@@ -95,12 +97,12 @@ Attribution is comparative (daughter vs each parent), not DNA. “Likely sire”
 | **Dairyness 38** | Elite | **Both / exceed** | Dam path 34→37; sire 33; daughter above both |
 | **Rump Angle 28** | Slightly steep | **Midpoint** | RS 24 + dam 27 → ~25–28; she sits on that blend |
 | **RLSV 24** | Posty | **Dam** | Dam 22–25; sire 34 — she did not take the better sire legs |
-| **FA 38 / RH 39** | Elite | **Dam** (reinforced) | Dam already 34/38 in 2024; sire unscored mammary |
-| **RUA 44** | Outstanding | **Dam + exceed** | Dam 36→40; daughter above mature dam (low-h² protect) |
-| **MSL 17** | Weak | **Both / stack** | Dam ~19–20; RS daughter mean ~20; she landed on the weak left |
-| **TP 18** | Wide | **Both / stack** | Dam 19; RS daughters ~19; same fault both sides |
-| **TD 28** | Useful | **Dam-leaning** | Near dam 2024’s 27 |
-| **UD 17** | Very shallow | **Favorable exceed** | Dam 27–32 deeper; major daughter improvement vs dam |
+| **FA 38 / RH 39** | Elite | **Dam** (reinforced) | Dam already 34/38 in 2024; sire **≈ 33 / 34 est.** — she sits at/above dam, above sire est. |
+| **RUA 44** | Outstanding | **Dam + exceed** | Dam 36→40; sire **≈ 38 est.**; daughter above both (low-h² protect) |
+| **MSL 17** | Weak | **Both / stack** | Dam ~19–20; sire **≈ 20 est.**; she landed on the weak left of that book |
+| **TP 18** | Wide | **Both / stack** | Dam 19; sire **≈ 19 est.**; same fault both sides |
+| **TD 28** | Useful | **Dam-leaning / exceed est.** | Near dam 2024’s 27; above sire **≈ 25 est.** |
+| **UD 17** | Very shallow | **Favorable exceed** | Dam 27–32 and sire **≈ 25 est.** both deeper; major daughter improvement |
 
 **Short story:** Rising Star supplied the **missing 2024-frame engine** (strength, depth, width). Karamel supplied **dairy direction and rear-udder topography**. Neither parent supplied MSL or teat placement — and Khaos shows that stack.
 
@@ -121,7 +123,7 @@ Karamel’s best card was Mammary `V`; Rising Star has no mammary letter. Khaos 
 | Width | Dam 2024 **RW 21** would have capped the pair | Took sire width and went to **44** |
 | Strength / depth | Dam 2024 STR 26 / BD 37 | Took sire **41 / 48** level (**40 / 49**) |
 | Dairyness | Sire only 33 | Matched/beat dam trajectory → **38** |
-| Rear udder | Sire blank | Kept/improved dam topography → arch **44** |
+| Rear udder | Sire **≈ 33/34/38 est.** (FA/RH/RUA) | Kept/improved dam topography → arch **44** (above sire est.) |
 
 She is not an “average of 88 + 88.” She is **sire frame × dam dairy/udder**, with positive expression on width and dairyness.
 
